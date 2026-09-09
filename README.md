@@ -12,24 +12,17 @@ and make faster data-driven decisions.
 
 ## Screenshots
 
-_Add screenshots of the Overview, Competitors, Trends, and Sentiment pages here once deployed._
 
-```
-docs/screenshots/overview.png
 <img width="1919" height="935" alt="image" src="https://github.com/user-attachments/assets/2ab077c8-d064-4cbf-b2f8-9a7f524d49cc" />
 
 <img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/13631b79-3f69-4de0-99c5-f930c5b39dbb" />
 
-docs/screenshots/competitors.png
 <img width="1919" height="940" alt="image" src="https://github.com/user-attachments/assets/b110dc21-367a-4d01-b740-8e069f75e60b" />
 
-docs/screenshots/trends.png
 <img width="1917" height="931" alt="image" src="https://github.com/user-attachments/assets/d7d4fdc5-d2e4-43ef-bf4a-3ffb3f30a7f1" />
 
 <img width="1916" height="756" alt="image" src="https://github.com/user-attachments/assets/0ff9c1de-a14b-4d5b-8c25-998a8b9dca55" />
 
-docs/screenshots/sentiment.png
-```
 <img width="1917" height="937" alt="image" src="https://github.com/user-attachments/assets/6f772ff9-0219-40b3-866c-3ade31f441fd" />
 
 <img width="1918" height="904" alt="image" src="https://github.com/user-attachments/assets/12acd274-724f-43ef-8c63-760dbedc3116" />
