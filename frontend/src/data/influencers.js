@@ -1,0 +1,13002 @@
+export const influencers = [
+  {
+    "id": "inf-1",
+    "name": "Maya Sharma",
+    "handle": "@techwithmaya",
+    "category": "Tech",
+    "platform": "LinkedIn",
+    "location": "Pune",
+    "followers": 428000,
+    "followerGrowth": 12.4,
+    "engagementRate": 6.8,
+    "sentiment": 83,
+    "influenceScore": 87,
+    "trending": true,
+    "topContentCategory": "Educational",
+    "followerSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 1
+      },
+      {
+        "date": "2026-08-11",
+        "value": 1
+      },
+      {
+        "date": "2026-08-12",
+        "value": 2790
+      },
+      {
+        "date": "2026-08-13",
+        "value": 1059
+      },
+      {
+        "date": "2026-08-14",
+        "value": 2016
+      },
+      {
+        "date": "2026-08-15",
+        "value": 859
+      },
+      {
+        "date": "2026-08-16",
+        "value": 2669
+      },
+      {
+        "date": "2026-08-17",
+        "value": 6361
+      },
+      {
+        "date": "2026-08-18",
+        "value": 9416
+      },
+      {
+        "date": "2026-08-19",
+        "value": 10613
+      },
+      {
+        "date": "2026-08-20",
+        "value": 12258
+      },
+      {
+        "date": "2026-08-21",
+        "value": 13682
+      },
+      {
+        "date": "2026-08-22",
+        "value": 11151
+      },
+      {
+        "date": "2026-08-23",
+        "value": 12426
+      },
+      {
+        "date": "2026-08-24",
+        "value": 14017
+      },
+      {
+        "date": "2026-08-25",
+        "value": 17549
+      },
+      {
+        "date": "2026-08-26",
+        "value": 14112
+      },
+      {
+        "date": "2026-08-27",
+        "value": 12434
+      },
+      {
+        "date": "2026-08-28",
+        "value": 14093
+      },
+      {
+        "date": "2026-08-29",
+        "value": 15400
+      },
+      {
+        "date": "2026-08-30",
+        "value": 14453
+      },
+      {
+        "date": "2026-08-31",
+        "value": 16147
+      },
+      {
+        "date": "2026-09-01",
+        "value": 18539
+      },
+      {
+        "date": "2026-09-02",
+        "value": 14804
+      },
+      {
+        "date": "2026-09-03",
+        "value": 13608
+      },
+      {
+        "date": "2026-09-04",
+        "value": 17799
+      },
+      {
+        "date": "2026-09-05",
+        "value": 16195
+      },
+      {
+        "date": "2026-09-06",
+        "value": 12883
+      },
+      {
+        "date": "2026-09-07",
+        "value": 9473
+      },
+      {
+        "date": "2026-09-08",
+        "value": 11163
+      }
+    ],
+    "engagementSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 10911
+      },
+      {
+        "date": "2026-08-11",
+        "value": 10957
+      },
+      {
+        "date": "2026-08-12",
+        "value": 10678
+      },
+      {
+        "date": "2026-08-13",
+        "value": 10783
+      },
+      {
+        "date": "2026-08-14",
+        "value": 10902
+      },
+      {
+        "date": "2026-08-15",
+        "value": 11121
+      },
+      {
+        "date": "2026-08-16",
+        "value": 11404
+      },
+      {
+        "date": "2026-08-17",
+        "value": 11642
+      },
+      {
+        "date": "2026-08-18",
+        "value": 11747
+      },
+      {
+        "date": "2026-08-19",
+        "value": 11524
+      },
+      {
+        "date": "2026-08-20",
+        "value": 11559
+      },
+      {
+        "date": "2026-08-21",
+        "value": 11743
+      },
+      {
+        "date": "2026-08-22",
+        "value": 11692
+      },
+      {
+        "date": "2026-08-23",
+        "value": 11456
+      },
+      {
+        "date": "2026-08-24",
+        "value": 11651
+      },
+      {
+        "date": "2026-08-25",
+        "value": 11572
+      },
+      {
+        "date": "2026-08-26",
+        "value": 11561
+      },
+      {
+        "date": "2026-08-27",
+        "value": 11416
+      },
+      {
+        "date": "2026-08-28",
+        "value": 11537
+      },
+      {
+        "date": "2026-08-29",
+        "value": 11288
+      },
+      {
+        "date": "2026-08-30",
+        "value": 11033
+      },
+      {
+        "date": "2026-08-31",
+        "value": 11148
+      },
+      {
+        "date": "2026-09-01",
+        "value": 11205
+      },
+      {
+        "date": "2026-09-02",
+        "value": 11144
+      },
+      {
+        "date": "2026-09-03",
+        "value": 10853
+      },
+      {
+        "date": "2026-09-04",
+        "value": 11035
+      },
+      {
+        "date": "2026-09-05",
+        "value": 11173
+      },
+      {
+        "date": "2026-09-06",
+        "value": 11266
+      },
+      {
+        "date": "2026-09-07",
+        "value": 11384
+      },
+      {
+        "date": "2026-09-08",
+        "value": 11277
+      }
+    ],
+    "bio": "Tech creator gaining traction in AI automation content, blending educational threads with practical, real-world examples."
+  },
+  {
+    "id": "inf-2",
+    "name": "Rahul Mehta",
+    "handle": "@rahulmehta_ai",
+    "category": "AI",
+    "platform": "LinkedIn",
+    "location": "London",
+    "followers": 312000,
+    "followerGrowth": 19.2,
+    "engagementRate": 8.1,
+    "sentiment": 51,
+    "influenceScore": 91,
+    "trending": true,
+    "topContentCategory": "Educational",
+    "followerSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 1
+      },
+      {
+        "date": "2026-08-11",
+        "value": 1
+      },
+      {
+        "date": "2026-08-12",
+        "value": 1
+      },
+      {
+        "date": "2026-08-13",
+        "value": 1
+      },
+      {
+        "date": "2026-08-14",
+        "value": 1
+      },
+      {
+        "date": "2026-08-15",
+        "value": 1
+      },
+      {
+        "date": "2026-08-16",
+        "value": 1
+      },
+      {
+        "date": "2026-08-17",
+        "value": 1
+      },
+      {
+        "date": "2026-08-18",
+        "value": 1
+      },
+      {
+        "date": "2026-08-19",
+        "value": 1823
+      },
+      {
+        "date": "2026-08-20",
+        "value": 1
+      },
+      {
+        "date": "2026-08-21",
+        "value": 2788
+      },
+      {
+        "date": "2026-08-22",
+        "value": 5215
+      },
+      {
+        "date": "2026-08-23",
+        "value": 5651
+      },
+      {
+        "date": "2026-08-24",
+        "value": 3054
+      },
+      {
+        "date": "2026-08-25",
+        "value": 127
+      },
+      {
+        "date": "2026-08-26",
+        "value": 1
+      },
+      {
+        "date": "2026-08-27",
+        "value": 2184
+      },
+      {
+        "date": "2026-08-28",
+        "value": 3724
+      },
+      {
+        "date": "2026-08-29",
+        "value": 4320
+      },
+      {
+        "date": "2026-08-30",
+        "value": 3213
+      },
+      {
+        "date": "2026-08-31",
+        "value": 3816
+      },
+      {
+        "date": "2026-09-01",
+        "value": 5164
+      },
+      {
+        "date": "2026-09-02",
+        "value": 5607
+      },
+      {
+        "date": "2026-09-03",
+        "value": 7713
+      },
+      {
+        "date": "2026-09-04",
+        "value": 6906
+      },
+      {
+        "date": "2026-09-05",
+        "value": 8120
+      },
+      {
+        "date": "2026-09-06",
+        "value": 6955
+      },
+      {
+        "date": "2026-09-07",
+        "value": 9998
+      },
+      {
+        "date": "2026-09-08",
+        "value": 11106
+      }
+    ],
+    "engagementSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 11208
+      },
+      {
+        "date": "2026-08-11",
+        "value": 10964
+      },
+      {
+        "date": "2026-08-12",
+        "value": 10682
+      },
+      {
+        "date": "2026-08-13",
+        "value": 10749
+      },
+      {
+        "date": "2026-08-14",
+        "value": 11027
+      },
+      {
+        "date": "2026-08-15",
+        "value": 10760
+      },
+      {
+        "date": "2026-08-16",
+        "value": 10823
+      },
+      {
+        "date": "2026-08-17",
+        "value": 10612
+      },
+      {
+        "date": "2026-08-18",
+        "value": 10890
+      },
+      {
+        "date": "2026-08-19",
+        "value": 11005
+      },
+      {
+        "date": "2026-08-20",
+        "value": 10959
+      },
+      {
+        "date": "2026-08-21",
+        "value": 10837
+      },
+      {
+        "date": "2026-08-22",
+        "value": 10940
+      },
+      {
+        "date": "2026-08-23",
+        "value": 11159
+      },
+      {
+        "date": "2026-08-24",
+        "value": 11150
+      },
+      {
+        "date": "2026-08-25",
+        "value": 11417
+      },
+      {
+        "date": "2026-08-26",
+        "value": 11190
+      },
+      {
+        "date": "2026-08-27",
+        "value": 11131
+      },
+      {
+        "date": "2026-08-28",
+        "value": 10989
+      },
+      {
+        "date": "2026-08-29",
+        "value": 11166
+      },
+      {
+        "date": "2026-08-30",
+        "value": 11168
+      },
+      {
+        "date": "2026-08-31",
+        "value": 11318
+      },
+      {
+        "date": "2026-09-01",
+        "value": 11423
+      },
+      {
+        "date": "2026-09-02",
+        "value": 11183
+      },
+      {
+        "date": "2026-09-03",
+        "value": 11344
+      },
+      {
+        "date": "2026-09-04",
+        "value": 11553
+      },
+      {
+        "date": "2026-09-05",
+        "value": 11639
+      },
+      {
+        "date": "2026-09-06",
+        "value": 11885
+      },
+      {
+        "date": "2026-09-07",
+        "value": 11656
+      },
+      {
+        "date": "2026-09-08",
+        "value": 11443
+      }
+    ],
+    "bio": "AI creator gaining traction in AI automation content, blending educational threads with practical, real-world examples."
+  },
+  {
+    "id": "inf-3",
+    "name": "Riley Mehta",
+    "handle": "@riley2",
+    "category": "Tech",
+    "platform": "YouTube",
+    "location": "Toronto",
+    "followers": 293993,
+    "followerGrowth": 14.9,
+    "engagementRate": 3.5,
+    "sentiment": 86,
+    "influenceScore": 83,
+    "trending": false,
+    "topContentCategory": "Educational",
+    "followerSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 1
+      },
+      {
+        "date": "2026-08-11",
+        "value": 1
+      },
+      {
+        "date": "2026-08-12",
+        "value": 1
+      },
+      {
+        "date": "2026-08-13",
+        "value": 1
+      },
+      {
+        "date": "2026-08-14",
+        "value": 2117
+      },
+      {
+        "date": "2026-08-15",
+        "value": 3083
+      },
+      {
+        "date": "2026-08-16",
+        "value": 2634
+      },
+      {
+        "date": "2026-08-17",
+        "value": 2205
+      },
+      {
+        "date": "2026-08-18",
+        "value": 1042
+      },
+      {
+        "date": "2026-08-19",
+        "value": 555
+      },
+      {
+        "date": "2026-08-20",
+        "value": 1044
+      },
+      {
+        "date": "2026-08-21",
+        "value": 1
+      },
+      {
+        "date": "2026-08-22",
+        "value": 180
+      },
+      {
+        "date": "2026-08-23",
+        "value": 1
+      },
+      {
+        "date": "2026-08-24",
+        "value": 1
+      },
+      {
+        "date": "2026-08-25",
+        "value": 1
+      },
+      {
+        "date": "2026-08-26",
+        "value": 1
+      },
+      {
+        "date": "2026-08-27",
+        "value": 1
+      },
+      {
+        "date": "2026-08-28",
+        "value": 1
+      },
+      {
+        "date": "2026-08-29",
+        "value": 1563
+      },
+      {
+        "date": "2026-08-30",
+        "value": 1
+      },
+      {
+        "date": "2026-08-31",
+        "value": 1
+      },
+      {
+        "date": "2026-09-01",
+        "value": 1
+      },
+      {
+        "date": "2026-09-02",
+        "value": 1
+      },
+      {
+        "date": "2026-09-03",
+        "value": 2855
+      },
+      {
+        "date": "2026-09-04",
+        "value": 498
+      },
+      {
+        "date": "2026-09-05",
+        "value": 2386
+      },
+      {
+        "date": "2026-09-06",
+        "value": 569
+      },
+      {
+        "date": "2026-09-07",
+        "value": 449
+      },
+      {
+        "date": "2026-09-08",
+        "value": 1
+      }
+    ],
+    "engagementSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 3567
+      },
+      {
+        "date": "2026-08-11",
+        "value": 3761
+      },
+      {
+        "date": "2026-08-12",
+        "value": 3815
+      },
+      {
+        "date": "2026-08-13",
+        "value": 4045
+      },
+      {
+        "date": "2026-08-14",
+        "value": 3782
+      },
+      {
+        "date": "2026-08-15",
+        "value": 3625
+      },
+      {
+        "date": "2026-08-16",
+        "value": 3812
+      },
+      {
+        "date": "2026-08-17",
+        "value": 3938
+      },
+      {
+        "date": "2026-08-18",
+        "value": 4069
+      },
+      {
+        "date": "2026-08-19",
+        "value": 3895
+      },
+      {
+        "date": "2026-08-20",
+        "value": 4013
+      },
+      {
+        "date": "2026-08-21",
+        "value": 4248
+      },
+      {
+        "date": "2026-08-22",
+        "value": 4191
+      },
+      {
+        "date": "2026-08-23",
+        "value": 4411
+      },
+      {
+        "date": "2026-08-24",
+        "value": 4285
+      },
+      {
+        "date": "2026-08-25",
+        "value": 4094
+      },
+      {
+        "date": "2026-08-26",
+        "value": 4219
+      },
+      {
+        "date": "2026-08-27",
+        "value": 4234
+      },
+      {
+        "date": "2026-08-28",
+        "value": 3973
+      },
+      {
+        "date": "2026-08-29",
+        "value": 3859
+      },
+      {
+        "date": "2026-08-30",
+        "value": 4076
+      },
+      {
+        "date": "2026-08-31",
+        "value": 4257
+      },
+      {
+        "date": "2026-09-01",
+        "value": 4088
+      },
+      {
+        "date": "2026-09-02",
+        "value": 4148
+      },
+      {
+        "date": "2026-09-03",
+        "value": 4420
+      },
+      {
+        "date": "2026-09-04",
+        "value": 4343
+      },
+      {
+        "date": "2026-09-05",
+        "value": 4322
+      },
+      {
+        "date": "2026-09-06",
+        "value": 4324
+      },
+      {
+        "date": "2026-09-07",
+        "value": 4361
+      },
+      {
+        "date": "2026-09-08",
+        "value": 4565
+      }
+    ],
+    "bio": "Tech creator sharing insights on generative ai and mlops."
+  },
+  {
+    "id": "inf-4",
+    "name": "Chloe Pillai",
+    "handle": "@chloetalks3",
+    "category": "Marketing",
+    "platform": "LinkedIn",
+    "location": "New York",
+    "followers": 98963,
+    "followerGrowth": 2.8,
+    "engagementRate": 7.9,
+    "sentiment": 79,
+    "influenceScore": 72,
+    "trending": false,
+    "topContentCategory": "Opinion",
+    "followerSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 15066
+      },
+      {
+        "date": "2026-08-11",
+        "value": 14847
+      },
+      {
+        "date": "2026-08-12",
+        "value": 14805
+      },
+      {
+        "date": "2026-08-13",
+        "value": 13968
+      },
+      {
+        "date": "2026-08-14",
+        "value": 13083
+      },
+      {
+        "date": "2026-08-15",
+        "value": 13515
+      },
+      {
+        "date": "2026-08-16",
+        "value": 13326
+      },
+      {
+        "date": "2026-08-17",
+        "value": 13641
+      },
+      {
+        "date": "2026-08-18",
+        "value": 12759
+      },
+      {
+        "date": "2026-08-19",
+        "value": 13123
+      },
+      {
+        "date": "2026-08-20",
+        "value": 12841
+      },
+      {
+        "date": "2026-08-21",
+        "value": 12972
+      },
+      {
+        "date": "2026-08-22",
+        "value": 12159
+      },
+      {
+        "date": "2026-08-23",
+        "value": 12176
+      },
+      {
+        "date": "2026-08-24",
+        "value": 11666
+      },
+      {
+        "date": "2026-08-25",
+        "value": 12484
+      },
+      {
+        "date": "2026-08-26",
+        "value": 12605
+      },
+      {
+        "date": "2026-08-27",
+        "value": 11851
+      },
+      {
+        "date": "2026-08-28",
+        "value": 12331
+      },
+      {
+        "date": "2026-08-29",
+        "value": 11975
+      },
+      {
+        "date": "2026-08-30",
+        "value": 11848
+      },
+      {
+        "date": "2026-08-31",
+        "value": 12474
+      },
+      {
+        "date": "2026-09-01",
+        "value": 11572
+      },
+      {
+        "date": "2026-09-02",
+        "value": 11293
+      },
+      {
+        "date": "2026-09-03",
+        "value": 11587
+      },
+      {
+        "date": "2026-09-04",
+        "value": 10708
+      },
+      {
+        "date": "2026-09-05",
+        "value": 11513
+      },
+      {
+        "date": "2026-09-06",
+        "value": 11930
+      },
+      {
+        "date": "2026-09-07",
+        "value": 11687
+      },
+      {
+        "date": "2026-09-08",
+        "value": 11151
+      }
+    ],
+    "engagementSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 11438
+      },
+      {
+        "date": "2026-08-11",
+        "value": 11322
+      },
+      {
+        "date": "2026-08-12",
+        "value": 11062
+      },
+      {
+        "date": "2026-08-13",
+        "value": 11164
+      },
+      {
+        "date": "2026-08-14",
+        "value": 11014
+      },
+      {
+        "date": "2026-08-15",
+        "value": 11137
+      },
+      {
+        "date": "2026-08-16",
+        "value": 11108
+      },
+      {
+        "date": "2026-08-17",
+        "value": 11123
+      },
+      {
+        "date": "2026-08-18",
+        "value": 10929
+      },
+      {
+        "date": "2026-08-19",
+        "value": 11121
+      },
+      {
+        "date": "2026-08-20",
+        "value": 11252
+      },
+      {
+        "date": "2026-08-21",
+        "value": 11470
+      },
+      {
+        "date": "2026-08-22",
+        "value": 11769
+      },
+      {
+        "date": "2026-08-23",
+        "value": 11997
+      },
+      {
+        "date": "2026-08-24",
+        "value": 11780
+      },
+      {
+        "date": "2026-08-25",
+        "value": 11651
+      },
+      {
+        "date": "2026-08-26",
+        "value": 11670
+      },
+      {
+        "date": "2026-08-27",
+        "value": 11682
+      },
+      {
+        "date": "2026-08-28",
+        "value": 11494
+      },
+      {
+        "date": "2026-08-29",
+        "value": 11244
+      },
+      {
+        "date": "2026-08-30",
+        "value": 11219
+      },
+      {
+        "date": "2026-08-31",
+        "value": 11419
+      },
+      {
+        "date": "2026-09-01",
+        "value": 11463
+      },
+      {
+        "date": "2026-09-02",
+        "value": 11760
+      },
+      {
+        "date": "2026-09-03",
+        "value": 11538
+      },
+      {
+        "date": "2026-09-04",
+        "value": 11740
+      },
+      {
+        "date": "2026-09-05",
+        "value": 11799
+      },
+      {
+        "date": "2026-09-06",
+        "value": 11599
+      },
+      {
+        "date": "2026-09-07",
+        "value": 11530
+      },
+      {
+        "date": "2026-09-08",
+        "value": 11419
+      }
+    ],
+    "bio": "Marketing creator sharing insights on cloud security and hiring."
+  },
+  {
+    "id": "inf-5",
+    "name": "Sameer Iyer",
+    "handle": "@sameer4",
+    "category": "Marketing",
+    "platform": "Instagram",
+    "location": "Toronto",
+    "followers": 367038,
+    "followerGrowth": 19.3,
+    "engagementRate": 3.9,
+    "sentiment": 80,
+    "influenceScore": 93,
+    "trending": false,
+    "topContentCategory": "Tutorial",
+    "followerSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 1
+      },
+      {
+        "date": "2026-08-11",
+        "value": 3011
+      },
+      {
+        "date": "2026-08-12",
+        "value": 1375
+      },
+      {
+        "date": "2026-08-13",
+        "value": 562
+      },
+      {
+        "date": "2026-08-14",
+        "value": 1
+      },
+      {
+        "date": "2026-08-15",
+        "value": 377
+      },
+      {
+        "date": "2026-08-16",
+        "value": 2282
+      },
+      {
+        "date": "2026-08-17",
+        "value": 1333
+      },
+      {
+        "date": "2026-08-18",
+        "value": 4433
+      },
+      {
+        "date": "2026-08-19",
+        "value": 2954
+      },
+      {
+        "date": "2026-08-20",
+        "value": 3335
+      },
+      {
+        "date": "2026-08-21",
+        "value": 6231
+      },
+      {
+        "date": "2026-08-22",
+        "value": 7789
+      },
+      {
+        "date": "2026-08-23",
+        "value": 6287
+      },
+      {
+        "date": "2026-08-24",
+        "value": 8410
+      },
+      {
+        "date": "2026-08-25",
+        "value": 8992
+      },
+      {
+        "date": "2026-08-26",
+        "value": 11986
+      },
+      {
+        "date": "2026-08-27",
+        "value": 14899
+      },
+      {
+        "date": "2026-08-28",
+        "value": 17024
+      },
+      {
+        "date": "2026-08-29",
+        "value": 15159
+      },
+      {
+        "date": "2026-08-30",
+        "value": 13197
+      },
+      {
+        "date": "2026-08-31",
+        "value": 15877
+      },
+      {
+        "date": "2026-09-01",
+        "value": 14815
+      },
+      {
+        "date": "2026-09-02",
+        "value": 13804
+      },
+      {
+        "date": "2026-09-03",
+        "value": 10516
+      },
+      {
+        "date": "2026-09-04",
+        "value": 14163
+      },
+      {
+        "date": "2026-09-05",
+        "value": 12433
+      },
+      {
+        "date": "2026-09-06",
+        "value": 11743
+      },
+      {
+        "date": "2026-09-07",
+        "value": 9505
+      },
+      {
+        "date": "2026-09-08",
+        "value": 8728
+      }
+    ],
+    "engagementSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 3934
+      },
+      {
+        "date": "2026-08-11",
+        "value": 3821
+      },
+      {
+        "date": "2026-08-12",
+        "value": 3901
+      },
+      {
+        "date": "2026-08-13",
+        "value": 3967
+      },
+      {
+        "date": "2026-08-14",
+        "value": 4186
+      },
+      {
+        "date": "2026-08-15",
+        "value": 4293
+      },
+      {
+        "date": "2026-08-16",
+        "value": 4442
+      },
+      {
+        "date": "2026-08-17",
+        "value": 4147
+      },
+      {
+        "date": "2026-08-18",
+        "value": 4344
+      },
+      {
+        "date": "2026-08-19",
+        "value": 4349
+      },
+      {
+        "date": "2026-08-20",
+        "value": 4203
+      },
+      {
+        "date": "2026-08-21",
+        "value": 4401
+      },
+      {
+        "date": "2026-08-22",
+        "value": 4551
+      },
+      {
+        "date": "2026-08-23",
+        "value": 4609
+      },
+      {
+        "date": "2026-08-24",
+        "value": 4326
+      },
+      {
+        "date": "2026-08-25",
+        "value": 4172
+      },
+      {
+        "date": "2026-08-26",
+        "value": 4283
+      },
+      {
+        "date": "2026-08-27",
+        "value": 4192
+      },
+      {
+        "date": "2026-08-28",
+        "value": 4238
+      },
+      {
+        "date": "2026-08-29",
+        "value": 4506
+      },
+      {
+        "date": "2026-08-30",
+        "value": 4485
+      },
+      {
+        "date": "2026-08-31",
+        "value": 4480
+      },
+      {
+        "date": "2026-09-01",
+        "value": 4704
+      },
+      {
+        "date": "2026-09-02",
+        "value": 4650
+      },
+      {
+        "date": "2026-09-03",
+        "value": 4588
+      },
+      {
+        "date": "2026-09-04",
+        "value": 4596
+      },
+      {
+        "date": "2026-09-05",
+        "value": 4465
+      },
+      {
+        "date": "2026-09-06",
+        "value": 4650
+      },
+      {
+        "date": "2026-09-07",
+        "value": 4397
+      },
+      {
+        "date": "2026-09-08",
+        "value": 4146
+      }
+    ],
+    "bio": "Marketing creator sharing insights on open source and pricing."
+  },
+  {
+    "id": "inf-6",
+    "name": "Isha Kim",
+    "handle": "@isha5",
+    "category": "AI",
+    "platform": "TikTok",
+    "location": "Delhi NCR",
+    "followers": 50248,
+    "followerGrowth": 3.9,
+    "engagementRate": 2.8,
+    "sentiment": 77,
+    "influenceScore": 56,
+    "trending": false,
+    "topContentCategory": "Promotional",
+    "followerSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 1
+      },
+      {
+        "date": "2026-08-11",
+        "value": 342
+      },
+      {
+        "date": "2026-08-12",
+        "value": 376
+      },
+      {
+        "date": "2026-08-13",
+        "value": 648
+      },
+      {
+        "date": "2026-08-14",
+        "value": 208
+      },
+      {
+        "date": "2026-08-15",
+        "value": 1
+      },
+      {
+        "date": "2026-08-16",
+        "value": 1
+      },
+      {
+        "date": "2026-08-17",
+        "value": 1
+      },
+      {
+        "date": "2026-08-18",
+        "value": 380
+      },
+      {
+        "date": "2026-08-19",
+        "value": 602
+      },
+      {
+        "date": "2026-08-20",
+        "value": 108
+      },
+      {
+        "date": "2026-08-21",
+        "value": 104
+      },
+      {
+        "date": "2026-08-22",
+        "value": 136
+      },
+      {
+        "date": "2026-08-23",
+        "value": 1
+      },
+      {
+        "date": "2026-08-24",
+        "value": 1
+      },
+      {
+        "date": "2026-08-25",
+        "value": 1
+      },
+      {
+        "date": "2026-08-26",
+        "value": 271
+      },
+      {
+        "date": "2026-08-27",
+        "value": 184
+      },
+      {
+        "date": "2026-08-28",
+        "value": 75
+      },
+      {
+        "date": "2026-08-29",
+        "value": 565
+      },
+      {
+        "date": "2026-08-30",
+        "value": 103
+      },
+      {
+        "date": "2026-08-31",
+        "value": 1
+      },
+      {
+        "date": "2026-09-01",
+        "value": 154
+      },
+      {
+        "date": "2026-09-02",
+        "value": 1
+      },
+      {
+        "date": "2026-09-03",
+        "value": 318
+      },
+      {
+        "date": "2026-09-04",
+        "value": 697
+      },
+      {
+        "date": "2026-09-05",
+        "value": 1017
+      },
+      {
+        "date": "2026-09-06",
+        "value": 516
+      },
+      {
+        "date": "2026-09-07",
+        "value": 88
+      },
+      {
+        "date": "2026-09-08",
+        "value": 239
+      }
+    ],
+    "engagementSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 9879
+      },
+      {
+        "date": "2026-08-11",
+        "value": 9769
+      },
+      {
+        "date": "2026-08-12",
+        "value": 9919
+      },
+      {
+        "date": "2026-08-13",
+        "value": 9720
+      },
+      {
+        "date": "2026-08-14",
+        "value": 9673
+      },
+      {
+        "date": "2026-08-15",
+        "value": 9425
+      },
+      {
+        "date": "2026-08-16",
+        "value": 9414
+      },
+      {
+        "date": "2026-08-17",
+        "value": 9250
+      },
+      {
+        "date": "2026-08-18",
+        "value": 9350
+      },
+      {
+        "date": "2026-08-19",
+        "value": 9159
+      },
+      {
+        "date": "2026-08-20",
+        "value": 9385
+      },
+      {
+        "date": "2026-08-21",
+        "value": 9150
+      },
+      {
+        "date": "2026-08-22",
+        "value": 9050
+      },
+      {
+        "date": "2026-08-23",
+        "value": 9326
+      },
+      {
+        "date": "2026-08-24",
+        "value": 9352
+      },
+      {
+        "date": "2026-08-25",
+        "value": 9362
+      },
+      {
+        "date": "2026-08-26",
+        "value": 9149
+      },
+      {
+        "date": "2026-08-27",
+        "value": 9250
+      },
+      {
+        "date": "2026-08-28",
+        "value": 9433
+      },
+      {
+        "date": "2026-08-29",
+        "value": 9216
+      },
+      {
+        "date": "2026-08-30",
+        "value": 9011
+      },
+      {
+        "date": "2026-08-31",
+        "value": 9091
+      },
+      {
+        "date": "2026-09-01",
+        "value": 8985
+      },
+      {
+        "date": "2026-09-02",
+        "value": 9158
+      },
+      {
+        "date": "2026-09-03",
+        "value": 9348
+      },
+      {
+        "date": "2026-09-04",
+        "value": 9192
+      },
+      {
+        "date": "2026-09-05",
+        "value": 9088
+      },
+      {
+        "date": "2026-09-06",
+        "value": 9310
+      },
+      {
+        "date": "2026-09-07",
+        "value": 9134
+      },
+      {
+        "date": "2026-09-08",
+        "value": 9420
+      }
+    ],
+    "bio": "AI creator sharing insights on customer success and cybersecurity."
+  },
+  {
+    "id": "inf-7",
+    "name": "Tara Rao",
+    "handle": "@tara6",
+    "category": "Tech",
+    "platform": "LinkedIn",
+    "location": "New York",
+    "followers": 41630,
+    "followerGrowth": -0.5,
+    "engagementRate": 9.2,
+    "sentiment": 61,
+    "influenceScore": 69,
+    "trending": false,
+    "topContentCategory": "Opinion",
+    "followerSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 48156
+      },
+      {
+        "date": "2026-08-11",
+        "value": 48390
+      },
+      {
+        "date": "2026-08-12",
+        "value": 48740
+      },
+      {
+        "date": "2026-08-13",
+        "value": 48766
+      },
+      {
+        "date": "2026-08-14",
+        "value": 48444
+      },
+      {
+        "date": "2026-08-15",
+        "value": 48569
+      },
+      {
+        "date": "2026-08-16",
+        "value": 48689
+      },
+      {
+        "date": "2026-08-17",
+        "value": 49018
+      },
+      {
+        "date": "2026-08-18",
+        "value": 49061
+      },
+      {
+        "date": "2026-08-19",
+        "value": 48933
+      },
+      {
+        "date": "2026-08-20",
+        "value": 49057
+      },
+      {
+        "date": "2026-08-21",
+        "value": 48699
+      },
+      {
+        "date": "2026-08-22",
+        "value": 48762
+      },
+      {
+        "date": "2026-08-23",
+        "value": 48452
+      },
+      {
+        "date": "2026-08-24",
+        "value": 48307
+      },
+      {
+        "date": "2026-08-25",
+        "value": 48475
+      },
+      {
+        "date": "2026-08-26",
+        "value": 48377
+      },
+      {
+        "date": "2026-08-27",
+        "value": 48098
+      },
+      {
+        "date": "2026-08-28",
+        "value": 48395
+      },
+      {
+        "date": "2026-08-29",
+        "value": 48185
+      },
+      {
+        "date": "2026-08-30",
+        "value": 48576
+      },
+      {
+        "date": "2026-08-31",
+        "value": 48224
+      },
+      {
+        "date": "2026-09-01",
+        "value": 48309
+      },
+      {
+        "date": "2026-09-02",
+        "value": 47966
+      },
+      {
+        "date": "2026-09-03",
+        "value": 47571
+      },
+      {
+        "date": "2026-09-04",
+        "value": 47198
+      },
+      {
+        "date": "2026-09-05",
+        "value": 47448
+      },
+      {
+        "date": "2026-09-06",
+        "value": 47282
+      },
+      {
+        "date": "2026-09-07",
+        "value": 46873
+      },
+      {
+        "date": "2026-09-08",
+        "value": 47288
+      }
+    ],
+    "engagementSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 9049
+      },
+      {
+        "date": "2026-08-11",
+        "value": 9217
+      },
+      {
+        "date": "2026-08-12",
+        "value": 9036
+      },
+      {
+        "date": "2026-08-13",
+        "value": 8764
+      },
+      {
+        "date": "2026-08-14",
+        "value": 8604
+      },
+      {
+        "date": "2026-08-15",
+        "value": 8671
+      },
+      {
+        "date": "2026-08-16",
+        "value": 8865
+      },
+      {
+        "date": "2026-08-17",
+        "value": 9133
+      },
+      {
+        "date": "2026-08-18",
+        "value": 9416
+      },
+      {
+        "date": "2026-08-19",
+        "value": 9319
+      },
+      {
+        "date": "2026-08-20",
+        "value": 9149
+      },
+      {
+        "date": "2026-08-21",
+        "value": 9252
+      },
+      {
+        "date": "2026-08-22",
+        "value": 9261
+      },
+      {
+        "date": "2026-08-23",
+        "value": 9391
+      },
+      {
+        "date": "2026-08-24",
+        "value": 9404
+      },
+      {
+        "date": "2026-08-25",
+        "value": 9576
+      },
+      {
+        "date": "2026-08-26",
+        "value": 9867
+      },
+      {
+        "date": "2026-08-27",
+        "value": 9628
+      },
+      {
+        "date": "2026-08-28",
+        "value": 9420
+      },
+      {
+        "date": "2026-08-29",
+        "value": 9490
+      },
+      {
+        "date": "2026-08-30",
+        "value": 9788
+      },
+      {
+        "date": "2026-08-31",
+        "value": 9724
+      },
+      {
+        "date": "2026-09-01",
+        "value": 9493
+      },
+      {
+        "date": "2026-09-02",
+        "value": 9650
+      },
+      {
+        "date": "2026-09-03",
+        "value": 9432
+      },
+      {
+        "date": "2026-09-04",
+        "value": 9151
+      },
+      {
+        "date": "2026-09-05",
+        "value": 8976
+      },
+      {
+        "date": "2026-09-06",
+        "value": 8717
+      },
+      {
+        "date": "2026-09-07",
+        "value": 8803
+      },
+      {
+        "date": "2026-09-08",
+        "value": 8633
+      }
+    ],
+    "bio": "Tech creator sharing insights on sustainability tech and mlops."
+  },
+  {
+    "id": "inf-8",
+    "name": "Taylor Malhotra",
+    "handle": "@taylor7",
+    "category": "Marketing",
+    "platform": "TikTok",
+    "location": "Bengaluru",
+    "followers": 204814,
+    "followerGrowth": 16,
+    "engagementRate": 5.8,
+    "sentiment": 78,
+    "influenceScore": 87,
+    "trending": true,
+    "topContentCategory": "Opinion",
+    "followerSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 1
+      },
+      {
+        "date": "2026-08-11",
+        "value": 1
+      },
+      {
+        "date": "2026-08-12",
+        "value": 1545
+      },
+      {
+        "date": "2026-08-13",
+        "value": 718
+      },
+      {
+        "date": "2026-08-14",
+        "value": 1650
+      },
+      {
+        "date": "2026-08-15",
+        "value": 3421
+      },
+      {
+        "date": "2026-08-16",
+        "value": 3238
+      },
+      {
+        "date": "2026-08-17",
+        "value": 3359
+      },
+      {
+        "date": "2026-08-18",
+        "value": 4535
+      },
+      {
+        "date": "2026-08-19",
+        "value": 6494
+      },
+      {
+        "date": "2026-08-20",
+        "value": 5817
+      },
+      {
+        "date": "2026-08-21",
+        "value": 5126
+      },
+      {
+        "date": "2026-08-22",
+        "value": 5848
+      },
+      {
+        "date": "2026-08-23",
+        "value": 5878
+      },
+      {
+        "date": "2026-08-24",
+        "value": 5397
+      },
+      {
+        "date": "2026-08-25",
+        "value": 6780
+      },
+      {
+        "date": "2026-08-26",
+        "value": 7694
+      },
+      {
+        "date": "2026-08-27",
+        "value": 6870
+      },
+      {
+        "date": "2026-08-28",
+        "value": 8708
+      },
+      {
+        "date": "2026-08-29",
+        "value": 9191
+      },
+      {
+        "date": "2026-08-30",
+        "value": 10184
+      },
+      {
+        "date": "2026-08-31",
+        "value": 10608
+      },
+      {
+        "date": "2026-09-01",
+        "value": 10801
+      },
+      {
+        "date": "2026-09-02",
+        "value": 8803
+      },
+      {
+        "date": "2026-09-03",
+        "value": 8288
+      },
+      {
+        "date": "2026-09-04",
+        "value": 7276
+      },
+      {
+        "date": "2026-09-05",
+        "value": 5415
+      },
+      {
+        "date": "2026-09-06",
+        "value": 6147
+      },
+      {
+        "date": "2026-09-07",
+        "value": 5450
+      },
+      {
+        "date": "2026-09-08",
+        "value": 7275
+      }
+    ],
+    "engagementSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 5671
+      },
+      {
+        "date": "2026-08-11",
+        "value": 5887
+      },
+      {
+        "date": "2026-08-12",
+        "value": 6121
+      },
+      {
+        "date": "2026-08-13",
+        "value": 5951
+      },
+      {
+        "date": "2026-08-14",
+        "value": 5800
+      },
+      {
+        "date": "2026-08-15",
+        "value": 5998
+      },
+      {
+        "date": "2026-08-16",
+        "value": 5913
+      },
+      {
+        "date": "2026-08-17",
+        "value": 6024
+      },
+      {
+        "date": "2026-08-18",
+        "value": 5870
+      },
+      {
+        "date": "2026-08-19",
+        "value": 6158
+      },
+      {
+        "date": "2026-08-20",
+        "value": 6453
+      },
+      {
+        "date": "2026-08-21",
+        "value": 6419
+      },
+      {
+        "date": "2026-08-22",
+        "value": 6493
+      },
+      {
+        "date": "2026-08-23",
+        "value": 6705
+      },
+      {
+        "date": "2026-08-24",
+        "value": 6529
+      },
+      {
+        "date": "2026-08-25",
+        "value": 6528
+      },
+      {
+        "date": "2026-08-26",
+        "value": 6582
+      },
+      {
+        "date": "2026-08-27",
+        "value": 6780
+      },
+      {
+        "date": "2026-08-28",
+        "value": 6482
+      },
+      {
+        "date": "2026-08-29",
+        "value": 6222
+      },
+      {
+        "date": "2026-08-30",
+        "value": 6295
+      },
+      {
+        "date": "2026-08-31",
+        "value": 6251
+      },
+      {
+        "date": "2026-09-01",
+        "value": 6314
+      },
+      {
+        "date": "2026-09-02",
+        "value": 6211
+      },
+      {
+        "date": "2026-09-03",
+        "value": 6080
+      },
+      {
+        "date": "2026-09-04",
+        "value": 6233
+      },
+      {
+        "date": "2026-09-05",
+        "value": 6004
+      },
+      {
+        "date": "2026-09-06",
+        "value": 5825
+      },
+      {
+        "date": "2026-09-07",
+        "value": 5733
+      },
+      {
+        "date": "2026-09-08",
+        "value": 5723
+      }
+    ],
+    "bio": "Marketing creator sharing insights on developer experience and data privacy."
+  },
+  {
+    "id": "inf-9",
+    "name": "Taylor Fernandes",
+    "handle": "@taylortalks8",
+    "category": "Marketing",
+    "platform": "Instagram",
+    "location": "San Francisco",
+    "followers": 425983,
+    "followerGrowth": -2.7,
+    "engagementRate": 8.4,
+    "sentiment": 48,
+    "influenceScore": 83,
+    "trending": false,
+    "topContentCategory": "Educational",
+    "followerSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 769099
+      },
+      {
+        "date": "2026-08-11",
+        "value": 771414
+      },
+      {
+        "date": "2026-08-12",
+        "value": 769310
+      },
+      {
+        "date": "2026-08-13",
+        "value": 772018
+      },
+      {
+        "date": "2026-08-14",
+        "value": 769797
+      },
+      {
+        "date": "2026-08-15",
+        "value": 769219
+      },
+      {
+        "date": "2026-08-16",
+        "value": 772589
+      },
+      {
+        "date": "2026-08-17",
+        "value": 773692
+      },
+      {
+        "date": "2026-08-18",
+        "value": 777186
+      },
+      {
+        "date": "2026-08-19",
+        "value": 776835
+      },
+      {
+        "date": "2026-08-20",
+        "value": 776580
+      },
+      {
+        "date": "2026-08-21",
+        "value": 779286
+      },
+      {
+        "date": "2026-08-22",
+        "value": 780167
+      },
+      {
+        "date": "2026-08-23",
+        "value": 783832
+      },
+      {
+        "date": "2026-08-24",
+        "value": 780710
+      },
+      {
+        "date": "2026-08-25",
+        "value": 777572
+      },
+      {
+        "date": "2026-08-26",
+        "value": 773966
+      },
+      {
+        "date": "2026-08-27",
+        "value": 774094
+      },
+      {
+        "date": "2026-08-28",
+        "value": 776187
+      },
+      {
+        "date": "2026-08-29",
+        "value": 775079
+      },
+      {
+        "date": "2026-08-30",
+        "value": 778971
+      },
+      {
+        "date": "2026-08-31",
+        "value": 782143
+      },
+      {
+        "date": "2026-09-01",
+        "value": 778138
+      },
+      {
+        "date": "2026-09-02",
+        "value": 779060
+      },
+      {
+        "date": "2026-09-03",
+        "value": 775526
+      },
+      {
+        "date": "2026-09-04",
+        "value": 773846
+      },
+      {
+        "date": "2026-09-05",
+        "value": 772726
+      },
+      {
+        "date": "2026-09-06",
+        "value": 769066
+      },
+      {
+        "date": "2026-09-07",
+        "value": 769278
+      },
+      {
+        "date": "2026-09-08",
+        "value": 769339
+      }
+    ],
+    "engagementSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 10134
+      },
+      {
+        "date": "2026-08-11",
+        "value": 10043
+      },
+      {
+        "date": "2026-08-12",
+        "value": 10307
+      },
+      {
+        "date": "2026-08-13",
+        "value": 10494
+      },
+      {
+        "date": "2026-08-14",
+        "value": 10671
+      },
+      {
+        "date": "2026-08-15",
+        "value": 10849
+      },
+      {
+        "date": "2026-08-16",
+        "value": 10991
+      },
+      {
+        "date": "2026-08-17",
+        "value": 11095
+      },
+      {
+        "date": "2026-08-18",
+        "value": 11096
+      },
+      {
+        "date": "2026-08-19",
+        "value": 10948
+      },
+      {
+        "date": "2026-08-20",
+        "value": 11129
+      },
+      {
+        "date": "2026-08-21",
+        "value": 11274
+      },
+      {
+        "date": "2026-08-22",
+        "value": 11267
+      },
+      {
+        "date": "2026-08-23",
+        "value": 11422
+      },
+      {
+        "date": "2026-08-24",
+        "value": 11582
+      },
+      {
+        "date": "2026-08-25",
+        "value": 11622
+      },
+      {
+        "date": "2026-08-26",
+        "value": 11801
+      },
+      {
+        "date": "2026-08-27",
+        "value": 11880
+      },
+      {
+        "date": "2026-08-28",
+        "value": 11857
+      },
+      {
+        "date": "2026-08-29",
+        "value": 11791
+      },
+      {
+        "date": "2026-08-30",
+        "value": 11649
+      },
+      {
+        "date": "2026-08-31",
+        "value": 11837
+      },
+      {
+        "date": "2026-09-01",
+        "value": 11895
+      },
+      {
+        "date": "2026-09-02",
+        "value": 11964
+      },
+      {
+        "date": "2026-09-03",
+        "value": 11907
+      },
+      {
+        "date": "2026-09-04",
+        "value": 12043
+      },
+      {
+        "date": "2026-09-05",
+        "value": 11947
+      },
+      {
+        "date": "2026-09-06",
+        "value": 11879
+      },
+      {
+        "date": "2026-09-07",
+        "value": 11810
+      },
+      {
+        "date": "2026-09-08",
+        "value": 11624
+      }
+    ],
+    "bio": "Marketing creator sharing insights on automation and hiring."
+  },
+  {
+    "id": "inf-10",
+    "name": "Jamie Kim",
+    "handle": "@jamielabs9",
+    "category": "Startups",
+    "platform": "TikTok",
+    "location": "Singapore",
+    "followers": 20422,
+    "followerGrowth": 16.3,
+    "engagementRate": 4.1,
+    "sentiment": 78,
+    "influenceScore": 73,
+    "trending": true,
+    "topContentCategory": "Educational",
+    "followerSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 1
+      },
+      {
+        "date": "2026-08-11",
+        "value": 55
+      },
+      {
+        "date": "2026-08-12",
+        "value": 205
+      },
+      {
+        "date": "2026-08-13",
+        "value": 274
+      },
+      {
+        "date": "2026-08-14",
+        "value": 174
+      },
+      {
+        "date": "2026-08-15",
+        "value": 212
+      },
+      {
+        "date": "2026-08-16",
+        "value": 140
+      },
+      {
+        "date": "2026-08-17",
+        "value": 56
+      },
+      {
+        "date": "2026-08-18",
+        "value": 44
+      },
+      {
+        "date": "2026-08-19",
+        "value": 41
+      },
+      {
+        "date": "2026-08-20",
+        "value": 186
+      },
+      {
+        "date": "2026-08-21",
+        "value": 373
+      },
+      {
+        "date": "2026-08-22",
+        "value": 193
+      },
+      {
+        "date": "2026-08-23",
+        "value": 115
+      },
+      {
+        "date": "2026-08-24",
+        "value": 71
+      },
+      {
+        "date": "2026-08-25",
+        "value": 206
+      },
+      {
+        "date": "2026-08-26",
+        "value": 333
+      },
+      {
+        "date": "2026-08-27",
+        "value": 136
+      },
+      {
+        "date": "2026-08-28",
+        "value": 190
+      },
+      {
+        "date": "2026-08-29",
+        "value": 202
+      },
+      {
+        "date": "2026-08-30",
+        "value": 278
+      },
+      {
+        "date": "2026-08-31",
+        "value": 263
+      },
+      {
+        "date": "2026-09-01",
+        "value": 433
+      },
+      {
+        "date": "2026-09-02",
+        "value": 333
+      },
+      {
+        "date": "2026-09-03",
+        "value": 526
+      },
+      {
+        "date": "2026-09-04",
+        "value": 396
+      },
+      {
+        "date": "2026-09-05",
+        "value": 463
+      },
+      {
+        "date": "2026-09-06",
+        "value": 450
+      },
+      {
+        "date": "2026-09-07",
+        "value": 450
+      },
+      {
+        "date": "2026-09-08",
+        "value": 420
+      }
+    ],
+    "engagementSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 6335
+      },
+      {
+        "date": "2026-08-11",
+        "value": 6150
+      },
+      {
+        "date": "2026-08-12",
+        "value": 6034
+      },
+      {
+        "date": "2026-08-13",
+        "value": 6212
+      },
+      {
+        "date": "2026-08-14",
+        "value": 5928
+      },
+      {
+        "date": "2026-08-15",
+        "value": 5739
+      },
+      {
+        "date": "2026-08-16",
+        "value": 5816
+      },
+      {
+        "date": "2026-08-17",
+        "value": 5634
+      },
+      {
+        "date": "2026-08-18",
+        "value": 5614
+      },
+      {
+        "date": "2026-08-19",
+        "value": 5556
+      },
+      {
+        "date": "2026-08-20",
+        "value": 5370
+      },
+      {
+        "date": "2026-08-21",
+        "value": 5113
+      },
+      {
+        "date": "2026-08-22",
+        "value": 4840
+      },
+      {
+        "date": "2026-08-23",
+        "value": 4984
+      },
+      {
+        "date": "2026-08-24",
+        "value": 5156
+      },
+      {
+        "date": "2026-08-25",
+        "value": 5438
+      },
+      {
+        "date": "2026-08-26",
+        "value": 5226
+      },
+      {
+        "date": "2026-08-27",
+        "value": 5276
+      },
+      {
+        "date": "2026-08-28",
+        "value": 5522
+      },
+      {
+        "date": "2026-08-29",
+        "value": 5795
+      },
+      {
+        "date": "2026-08-30",
+        "value": 5810
+      },
+      {
+        "date": "2026-08-31",
+        "value": 6073
+      },
+      {
+        "date": "2026-09-01",
+        "value": 6287
+      },
+      {
+        "date": "2026-09-02",
+        "value": 6488
+      },
+      {
+        "date": "2026-09-03",
+        "value": 6476
+      },
+      {
+        "date": "2026-09-04",
+        "value": 6704
+      },
+      {
+        "date": "2026-09-05",
+        "value": 6528
+      },
+      {
+        "date": "2026-09-06",
+        "value": 6575
+      },
+      {
+        "date": "2026-09-07",
+        "value": 6856
+      },
+      {
+        "date": "2026-09-08",
+        "value": 6760
+      }
+    ],
+    "bio": "Startups creator sharing insights on data privacy and api economy."
+  },
+  {
+    "id": "inf-11",
+    "name": "Nikhil Das",
+    "handle": "@nikhil10",
+    "category": "Productivity",
+    "platform": "YouTube",
+    "location": "Mumbai",
+    "followers": 249885,
+    "followerGrowth": 20.1,
+    "engagementRate": 2.3,
+    "sentiment": 92,
+    "influenceScore": 84,
+    "trending": false,
+    "topContentCategory": "Tutorial",
+    "followerSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 1
+      },
+      {
+        "date": "2026-08-11",
+        "value": 1
+      },
+      {
+        "date": "2026-08-12",
+        "value": 1320
+      },
+      {
+        "date": "2026-08-13",
+        "value": 198
+      },
+      {
+        "date": "2026-08-14",
+        "value": 1224
+      },
+      {
+        "date": "2026-08-15",
+        "value": 3527
+      },
+      {
+        "date": "2026-08-16",
+        "value": 4418
+      },
+      {
+        "date": "2026-08-17",
+        "value": 3838
+      },
+      {
+        "date": "2026-08-18",
+        "value": 3309
+      },
+      {
+        "date": "2026-08-19",
+        "value": 2668
+      },
+      {
+        "date": "2026-08-20",
+        "value": 700
+      },
+      {
+        "date": "2026-08-21",
+        "value": 1265
+      },
+      {
+        "date": "2026-08-22",
+        "value": 1708
+      },
+      {
+        "date": "2026-08-23",
+        "value": 2129
+      },
+      {
+        "date": "2026-08-24",
+        "value": 1472
+      },
+      {
+        "date": "2026-08-25",
+        "value": 88
+      },
+      {
+        "date": "2026-08-26",
+        "value": 1
+      },
+      {
+        "date": "2026-08-27",
+        "value": 730
+      },
+      {
+        "date": "2026-08-28",
+        "value": 864
+      },
+      {
+        "date": "2026-08-29",
+        "value": 3062
+      },
+      {
+        "date": "2026-08-30",
+        "value": 2690
+      },
+      {
+        "date": "2026-08-31",
+        "value": 1527
+      },
+      {
+        "date": "2026-09-01",
+        "value": 3052
+      },
+      {
+        "date": "2026-09-02",
+        "value": 5151
+      },
+      {
+        "date": "2026-09-03",
+        "value": 3324
+      },
+      {
+        "date": "2026-09-04",
+        "value": 2050
+      },
+      {
+        "date": "2026-09-05",
+        "value": 1719
+      },
+      {
+        "date": "2026-09-06",
+        "value": 3138
+      },
+      {
+        "date": "2026-09-07",
+        "value": 3051
+      },
+      {
+        "date": "2026-09-08",
+        "value": 3274
+      }
+    ],
+    "engagementSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 4010
+      },
+      {
+        "date": "2026-08-11",
+        "value": 3902
+      },
+      {
+        "date": "2026-08-12",
+        "value": 4081
+      },
+      {
+        "date": "2026-08-13",
+        "value": 4353
+      },
+      {
+        "date": "2026-08-14",
+        "value": 4129
+      },
+      {
+        "date": "2026-08-15",
+        "value": 4289
+      },
+      {
+        "date": "2026-08-16",
+        "value": 4282
+      },
+      {
+        "date": "2026-08-17",
+        "value": 4302
+      },
+      {
+        "date": "2026-08-18",
+        "value": 4365
+      },
+      {
+        "date": "2026-08-19",
+        "value": 4432
+      },
+      {
+        "date": "2026-08-20",
+        "value": 4229
+      },
+      {
+        "date": "2026-08-21",
+        "value": 4091
+      },
+      {
+        "date": "2026-08-22",
+        "value": 4286
+      },
+      {
+        "date": "2026-08-23",
+        "value": 4331
+      },
+      {
+        "date": "2026-08-24",
+        "value": 4586
+      },
+      {
+        "date": "2026-08-25",
+        "value": 4792
+      },
+      {
+        "date": "2026-08-26",
+        "value": 4746
+      },
+      {
+        "date": "2026-08-27",
+        "value": 4718
+      },
+      {
+        "date": "2026-08-28",
+        "value": 4870
+      },
+      {
+        "date": "2026-08-29",
+        "value": 5161
+      },
+      {
+        "date": "2026-08-30",
+        "value": 5246
+      },
+      {
+        "date": "2026-08-31",
+        "value": 5195
+      },
+      {
+        "date": "2026-09-01",
+        "value": 5102
+      },
+      {
+        "date": "2026-09-02",
+        "value": 5046
+      },
+      {
+        "date": "2026-09-03",
+        "value": 4999
+      },
+      {
+        "date": "2026-09-04",
+        "value": 5017
+      },
+      {
+        "date": "2026-09-05",
+        "value": 5053
+      },
+      {
+        "date": "2026-09-06",
+        "value": 4993
+      },
+      {
+        "date": "2026-09-07",
+        "value": 4938
+      },
+      {
+        "date": "2026-09-08",
+        "value": 4810
+      }
+    ],
+    "bio": "Productivity creator sharing insights on cloud security and cybersecurity."
+  },
+  {
+    "id": "inf-12",
+    "name": "Ananya Das",
+    "handle": "@ananyatech11",
+    "category": "Data Science",
+    "platform": "TikTok",
+    "location": "London",
+    "followers": 502909,
+    "followerGrowth": 21.7,
+    "engagementRate": 7.2,
+    "sentiment": 60,
+    "influenceScore": 99,
+    "trending": true,
+    "topContentCategory": "Product Launch",
+    "followerSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 1
+      },
+      {
+        "date": "2026-08-11",
+        "value": 1
+      },
+      {
+        "date": "2026-08-12",
+        "value": 1
+      },
+      {
+        "date": "2026-08-13",
+        "value": 2929
+      },
+      {
+        "date": "2026-08-14",
+        "value": 1930
+      },
+      {
+        "date": "2026-08-15",
+        "value": 5148
+      },
+      {
+        "date": "2026-08-16",
+        "value": 529
+      },
+      {
+        "date": "2026-08-17",
+        "value": 1
+      },
+      {
+        "date": "2026-08-18",
+        "value": 1
+      },
+      {
+        "date": "2026-08-19",
+        "value": 1
+      },
+      {
+        "date": "2026-08-20",
+        "value": 1605
+      },
+      {
+        "date": "2026-08-21",
+        "value": 5966
+      },
+      {
+        "date": "2026-08-22",
+        "value": 7407
+      },
+      {
+        "date": "2026-08-23",
+        "value": 7376
+      },
+      {
+        "date": "2026-08-24",
+        "value": 8708
+      },
+      {
+        "date": "2026-08-25",
+        "value": 6834
+      },
+      {
+        "date": "2026-08-26",
+        "value": 11384
+      },
+      {
+        "date": "2026-08-27",
+        "value": 8048
+      },
+      {
+        "date": "2026-08-28",
+        "value": 7746
+      },
+      {
+        "date": "2026-08-29",
+        "value": 3245
+      },
+      {
+        "date": "2026-08-30",
+        "value": 1
+      },
+      {
+        "date": "2026-08-31",
+        "value": 4229
+      },
+      {
+        "date": "2026-09-01",
+        "value": 7911
+      },
+      {
+        "date": "2026-09-02",
+        "value": 7339
+      },
+      {
+        "date": "2026-09-03",
+        "value": 12068
+      },
+      {
+        "date": "2026-09-04",
+        "value": 9146
+      },
+      {
+        "date": "2026-09-05",
+        "value": 12246
+      },
+      {
+        "date": "2026-09-06",
+        "value": 15913
+      },
+      {
+        "date": "2026-09-07",
+        "value": 11603
+      },
+      {
+        "date": "2026-09-08",
+        "value": 13117
+      }
+    ],
+    "engagementSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 12067
+      },
+      {
+        "date": "2026-08-11",
+        "value": 12236
+      },
+      {
+        "date": "2026-08-12",
+        "value": 12261
+      },
+      {
+        "date": "2026-08-13",
+        "value": 12477
+      },
+      {
+        "date": "2026-08-14",
+        "value": 12521
+      },
+      {
+        "date": "2026-08-15",
+        "value": 12447
+      },
+      {
+        "date": "2026-08-16",
+        "value": 12421
+      },
+      {
+        "date": "2026-08-17",
+        "value": 12507
+      },
+      {
+        "date": "2026-08-18",
+        "value": 12367
+      },
+      {
+        "date": "2026-08-19",
+        "value": 12547
+      },
+      {
+        "date": "2026-08-20",
+        "value": 12262
+      },
+      {
+        "date": "2026-08-21",
+        "value": 12511
+      },
+      {
+        "date": "2026-08-22",
+        "value": 12430
+      },
+      {
+        "date": "2026-08-23",
+        "value": 12360
+      },
+      {
+        "date": "2026-08-24",
+        "value": 12265
+      },
+      {
+        "date": "2026-08-25",
+        "value": 12427
+      },
+      {
+        "date": "2026-08-26",
+        "value": 12308
+      },
+      {
+        "date": "2026-08-27",
+        "value": 12471
+      },
+      {
+        "date": "2026-08-28",
+        "value": 12321
+      },
+      {
+        "date": "2026-08-29",
+        "value": 12273
+      },
+      {
+        "date": "2026-08-30",
+        "value": 12272
+      },
+      {
+        "date": "2026-08-31",
+        "value": 12293
+      },
+      {
+        "date": "2026-09-01",
+        "value": 12118
+      },
+      {
+        "date": "2026-09-02",
+        "value": 12001
+      },
+      {
+        "date": "2026-09-03",
+        "value": 11789
+      },
+      {
+        "date": "2026-09-04",
+        "value": 11518
+      },
+      {
+        "date": "2026-09-05",
+        "value": 11295
+      },
+      {
+        "date": "2026-09-06",
+        "value": 11058
+      },
+      {
+        "date": "2026-09-07",
+        "value": 10823
+      },
+      {
+        "date": "2026-09-08",
+        "value": 10962
+      }
+    ],
+    "bio": "Data Science creator sharing insights on pricing and customer success."
+  },
+  {
+    "id": "inf-13",
+    "name": "Priya Reyes",
+    "handle": "@priyatech12",
+    "category": "Finance",
+    "platform": "X",
+    "location": "London",
+    "followers": 79125,
+    "followerGrowth": 8.2,
+    "engagementRate": 6.3,
+    "sentiment": 79,
+    "influenceScore": 73,
+    "trending": false,
+    "topContentCategory": "Promotional",
+    "followerSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 1
+      },
+      {
+        "date": "2026-08-11",
+        "value": 155
+      },
+      {
+        "date": "2026-08-12",
+        "value": 1
+      },
+      {
+        "date": "2026-08-13",
+        "value": 1
+      },
+      {
+        "date": "2026-08-14",
+        "value": 646
+      },
+      {
+        "date": "2026-08-15",
+        "value": 1199
+      },
+      {
+        "date": "2026-08-16",
+        "value": 785
+      },
+      {
+        "date": "2026-08-17",
+        "value": 1258
+      },
+      {
+        "date": "2026-08-18",
+        "value": 1197
+      },
+      {
+        "date": "2026-08-19",
+        "value": 526
+      },
+      {
+        "date": "2026-08-20",
+        "value": 1140
+      },
+      {
+        "date": "2026-08-21",
+        "value": 714
+      },
+      {
+        "date": "2026-08-22",
+        "value": 585
+      },
+      {
+        "date": "2026-08-23",
+        "value": 875
+      },
+      {
+        "date": "2026-08-24",
+        "value": 1344
+      },
+      {
+        "date": "2026-08-25",
+        "value": 1113
+      },
+      {
+        "date": "2026-08-26",
+        "value": 1144
+      },
+      {
+        "date": "2026-08-27",
+        "value": 1550
+      },
+      {
+        "date": "2026-08-28",
+        "value": 1202
+      },
+      {
+        "date": "2026-08-29",
+        "value": 822
+      },
+      {
+        "date": "2026-08-30",
+        "value": 1009
+      },
+      {
+        "date": "2026-08-31",
+        "value": 1484
+      },
+      {
+        "date": "2026-09-01",
+        "value": 1657
+      },
+      {
+        "date": "2026-09-02",
+        "value": 1459
+      },
+      {
+        "date": "2026-09-03",
+        "value": 1665
+      },
+      {
+        "date": "2026-09-04",
+        "value": 1832
+      },
+      {
+        "date": "2026-09-05",
+        "value": 1560
+      },
+      {
+        "date": "2026-09-06",
+        "value": 1359
+      },
+      {
+        "date": "2026-09-07",
+        "value": 1268
+      },
+      {
+        "date": "2026-09-08",
+        "value": 1979
+      }
+    ],
+    "engagementSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 6152
+      },
+      {
+        "date": "2026-08-11",
+        "value": 6283
+      },
+      {
+        "date": "2026-08-12",
+        "value": 6192
+      },
+      {
+        "date": "2026-08-13",
+        "value": 5908
+      },
+      {
+        "date": "2026-08-14",
+        "value": 6040
+      },
+      {
+        "date": "2026-08-15",
+        "value": 6228
+      },
+      {
+        "date": "2026-08-16",
+        "value": 6055
+      },
+      {
+        "date": "2026-08-17",
+        "value": 5765
+      },
+      {
+        "date": "2026-08-18",
+        "value": 5897
+      },
+      {
+        "date": "2026-08-19",
+        "value": 5639
+      },
+      {
+        "date": "2026-08-20",
+        "value": 5386
+      },
+      {
+        "date": "2026-08-21",
+        "value": 5646
+      },
+      {
+        "date": "2026-08-22",
+        "value": 5909
+      },
+      {
+        "date": "2026-08-23",
+        "value": 5876
+      },
+      {
+        "date": "2026-08-24",
+        "value": 6124
+      },
+      {
+        "date": "2026-08-25",
+        "value": 5994
+      },
+      {
+        "date": "2026-08-26",
+        "value": 5731
+      },
+      {
+        "date": "2026-08-27",
+        "value": 5537
+      },
+      {
+        "date": "2026-08-28",
+        "value": 5343
+      },
+      {
+        "date": "2026-08-29",
+        "value": 5278
+      },
+      {
+        "date": "2026-08-30",
+        "value": 5301
+      },
+      {
+        "date": "2026-08-31",
+        "value": 5523
+      },
+      {
+        "date": "2026-09-01",
+        "value": 5647
+      },
+      {
+        "date": "2026-09-02",
+        "value": 5548
+      },
+      {
+        "date": "2026-09-03",
+        "value": 5283
+      },
+      {
+        "date": "2026-09-04",
+        "value": 5551
+      },
+      {
+        "date": "2026-09-05",
+        "value": 5515
+      },
+      {
+        "date": "2026-09-06",
+        "value": 5231
+      },
+      {
+        "date": "2026-09-07",
+        "value": 5511
+      },
+      {
+        "date": "2026-09-08",
+        "value": 5387
+      }
+    ],
+    "bio": "Finance creator sharing insights on api economy and customer support."
+  },
+  {
+    "id": "inf-14",
+    "name": "Omar Bose",
+    "handle": "@omartalks13",
+    "category": "Finance",
+    "platform": "Instagram",
+    "location": "New York",
+    "followers": 217650,
+    "followerGrowth": -2.4,
+    "engagementRate": 8.3,
+    "sentiment": 79,
+    "influenceScore": 73,
+    "trending": false,
+    "topContentCategory": "Product Launch",
+    "followerSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 372615
+      },
+      {
+        "date": "2026-08-11",
+        "value": 373148
+      },
+      {
+        "date": "2026-08-12",
+        "value": 372107
+      },
+      {
+        "date": "2026-08-13",
+        "value": 370649
+      },
+      {
+        "date": "2026-08-14",
+        "value": 371019
+      },
+      {
+        "date": "2026-08-15",
+        "value": 369811
+      },
+      {
+        "date": "2026-08-16",
+        "value": 369989
+      },
+      {
+        "date": "2026-08-17",
+        "value": 371245
+      },
+      {
+        "date": "2026-08-18",
+        "value": 370755
+      },
+      {
+        "date": "2026-08-19",
+        "value": 369158
+      },
+      {
+        "date": "2026-08-20",
+        "value": 371292
+      },
+      {
+        "date": "2026-08-21",
+        "value": 372333
+      },
+      {
+        "date": "2026-08-22",
+        "value": 373397
+      },
+      {
+        "date": "2026-08-23",
+        "value": 374111
+      },
+      {
+        "date": "2026-08-24",
+        "value": 373715
+      },
+      {
+        "date": "2026-08-25",
+        "value": 371989
+      },
+      {
+        "date": "2026-08-26",
+        "value": 372171
+      },
+      {
+        "date": "2026-08-27",
+        "value": 373020
+      },
+      {
+        "date": "2026-08-28",
+        "value": 374695
+      },
+      {
+        "date": "2026-08-29",
+        "value": 372832
+      },
+      {
+        "date": "2026-08-30",
+        "value": 372738
+      },
+      {
+        "date": "2026-08-31",
+        "value": 374141
+      },
+      {
+        "date": "2026-09-01",
+        "value": 374860
+      },
+      {
+        "date": "2026-09-02",
+        "value": 376324
+      },
+      {
+        "date": "2026-09-03",
+        "value": 377335
+      },
+      {
+        "date": "2026-09-04",
+        "value": 379171
+      },
+      {
+        "date": "2026-09-05",
+        "value": 380280
+      },
+      {
+        "date": "2026-09-06",
+        "value": 378424
+      },
+      {
+        "date": "2026-09-07",
+        "value": 378231
+      },
+      {
+        "date": "2026-09-08",
+        "value": 377883
+      }
+    ],
+    "engagementSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 2832
+      },
+      {
+        "date": "2026-08-11",
+        "value": 2840
+      },
+      {
+        "date": "2026-08-12",
+        "value": 3092
+      },
+      {
+        "date": "2026-08-13",
+        "value": 2988
+      },
+      {
+        "date": "2026-08-14",
+        "value": 3040
+      },
+      {
+        "date": "2026-08-15",
+        "value": 3135
+      },
+      {
+        "date": "2026-08-16",
+        "value": 3245
+      },
+      {
+        "date": "2026-08-17",
+        "value": 3002
+      },
+      {
+        "date": "2026-08-18",
+        "value": 2883
+      },
+      {
+        "date": "2026-08-19",
+        "value": 3161
+      },
+      {
+        "date": "2026-08-20",
+        "value": 3141
+      },
+      {
+        "date": "2026-08-21",
+        "value": 2903
+      },
+      {
+        "date": "2026-08-22",
+        "value": 2888
+      },
+      {
+        "date": "2026-08-23",
+        "value": 2835
+      },
+      {
+        "date": "2026-08-24",
+        "value": 2589
+      },
+      {
+        "date": "2026-08-25",
+        "value": 2766
+      },
+      {
+        "date": "2026-08-26",
+        "value": 2784
+      },
+      {
+        "date": "2026-08-27",
+        "value": 2869
+      },
+      {
+        "date": "2026-08-28",
+        "value": 2967
+      },
+      {
+        "date": "2026-08-29",
+        "value": 2827
+      },
+      {
+        "date": "2026-08-30",
+        "value": 2742
+      },
+      {
+        "date": "2026-08-31",
+        "value": 2977
+      },
+      {
+        "date": "2026-09-01",
+        "value": 2766
+      },
+      {
+        "date": "2026-09-02",
+        "value": 2863
+      },
+      {
+        "date": "2026-09-03",
+        "value": 2864
+      },
+      {
+        "date": "2026-09-04",
+        "value": 2831
+      },
+      {
+        "date": "2026-09-05",
+        "value": 2738
+      },
+      {
+        "date": "2026-09-06",
+        "value": 2609
+      },
+      {
+        "date": "2026-09-07",
+        "value": 2386
+      },
+      {
+        "date": "2026-09-08",
+        "value": 2477
+      }
+    ],
+    "bio": "Finance creator sharing insights on remote work tools and cloud security."
+  },
+  {
+    "id": "inf-15",
+    "name": "Tanvi Rao",
+    "handle": "@tanvitech14",
+    "category": "Design",
+    "platform": "LinkedIn",
+    "location": "Pune",
+    "followers": 189323,
+    "followerGrowth": 20.7,
+    "engagementRate": 9.1,
+    "sentiment": 68,
+    "influenceScore": 99,
+    "trending": true,
+    "topContentCategory": "Product Launch",
+    "followerSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 1
+      },
+      {
+        "date": "2026-08-11",
+        "value": 494
+      },
+      {
+        "date": "2026-08-12",
+        "value": 111
+      },
+      {
+        "date": "2026-08-13",
+        "value": 80
+      },
+      {
+        "date": "2026-08-14",
+        "value": 1211
+      },
+      {
+        "date": "2026-08-15",
+        "value": 631
+      },
+      {
+        "date": "2026-08-16",
+        "value": 1
+      },
+      {
+        "date": "2026-08-17",
+        "value": 1
+      },
+      {
+        "date": "2026-08-18",
+        "value": 412
+      },
+      {
+        "date": "2026-08-19",
+        "value": 1188
+      },
+      {
+        "date": "2026-08-20",
+        "value": 983
+      },
+      {
+        "date": "2026-08-21",
+        "value": 997
+      },
+      {
+        "date": "2026-08-22",
+        "value": 604
+      },
+      {
+        "date": "2026-08-23",
+        "value": 614
+      },
+      {
+        "date": "2026-08-24",
+        "value": 1
+      },
+      {
+        "date": "2026-08-25",
+        "value": 9
+      },
+      {
+        "date": "2026-08-26",
+        "value": 329
+      },
+      {
+        "date": "2026-08-27",
+        "value": 1
+      },
+      {
+        "date": "2026-08-28",
+        "value": 1
+      },
+      {
+        "date": "2026-08-29",
+        "value": 1
+      },
+      {
+        "date": "2026-08-30",
+        "value": 1
+      },
+      {
+        "date": "2026-08-31",
+        "value": 1
+      },
+      {
+        "date": "2026-09-01",
+        "value": 1
+      },
+      {
+        "date": "2026-09-02",
+        "value": 677
+      },
+      {
+        "date": "2026-09-03",
+        "value": 700
+      },
+      {
+        "date": "2026-09-04",
+        "value": 1524
+      },
+      {
+        "date": "2026-09-05",
+        "value": 1
+      },
+      {
+        "date": "2026-09-06",
+        "value": 1
+      },
+      {
+        "date": "2026-09-07",
+        "value": 1
+      },
+      {
+        "date": "2026-09-08",
+        "value": 1524
+      }
+    ],
+    "engagementSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 6358
+      },
+      {
+        "date": "2026-08-11",
+        "value": 6285
+      },
+      {
+        "date": "2026-08-12",
+        "value": 6446
+      },
+      {
+        "date": "2026-08-13",
+        "value": 6676
+      },
+      {
+        "date": "2026-08-14",
+        "value": 6750
+      },
+      {
+        "date": "2026-08-15",
+        "value": 6584
+      },
+      {
+        "date": "2026-08-16",
+        "value": 6852
+      },
+      {
+        "date": "2026-08-17",
+        "value": 6910
+      },
+      {
+        "date": "2026-08-18",
+        "value": 6742
+      },
+      {
+        "date": "2026-08-19",
+        "value": 6892
+      },
+      {
+        "date": "2026-08-20",
+        "value": 6842
+      },
+      {
+        "date": "2026-08-21",
+        "value": 6970
+      },
+      {
+        "date": "2026-08-22",
+        "value": 6707
+      },
+      {
+        "date": "2026-08-23",
+        "value": 6608
+      },
+      {
+        "date": "2026-08-24",
+        "value": 6737
+      },
+      {
+        "date": "2026-08-25",
+        "value": 6445
+      },
+      {
+        "date": "2026-08-26",
+        "value": 6384
+      },
+      {
+        "date": "2026-08-27",
+        "value": 6238
+      },
+      {
+        "date": "2026-08-28",
+        "value": 6439
+      },
+      {
+        "date": "2026-08-29",
+        "value": 6249
+      },
+      {
+        "date": "2026-08-30",
+        "value": 6219
+      },
+      {
+        "date": "2026-08-31",
+        "value": 5924
+      },
+      {
+        "date": "2026-09-01",
+        "value": 6087
+      },
+      {
+        "date": "2026-09-02",
+        "value": 6316
+      },
+      {
+        "date": "2026-09-03",
+        "value": 6546
+      },
+      {
+        "date": "2026-09-04",
+        "value": 6393
+      },
+      {
+        "date": "2026-09-05",
+        "value": 6599
+      },
+      {
+        "date": "2026-09-06",
+        "value": 6650
+      },
+      {
+        "date": "2026-09-07",
+        "value": 6934
+      },
+      {
+        "date": "2026-09-08",
+        "value": 7170
+      }
+    ],
+    "bio": "Design creator sharing insights on data privacy and generative ai."
+  },
+  {
+    "id": "inf-16",
+    "name": "Simran Gupta",
+    "handle": "@simrantalks15",
+    "category": "Startups",
+    "platform": "X",
+    "location": "Berlin",
+    "followers": 426856,
+    "followerGrowth": 20.8,
+    "engagementRate": 3.8,
+    "sentiment": 61,
+    "influenceScore": 98,
+    "trending": false,
+    "topContentCategory": "Tutorial",
+    "followerSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 1
+      },
+      {
+        "date": "2026-08-11",
+        "value": 817
+      },
+      {
+        "date": "2026-08-12",
+        "value": 850
+      },
+      {
+        "date": "2026-08-13",
+        "value": 1
+      },
+      {
+        "date": "2026-08-14",
+        "value": 1138
+      },
+      {
+        "date": "2026-08-15",
+        "value": 87
+      },
+      {
+        "date": "2026-08-16",
+        "value": 3587
+      },
+      {
+        "date": "2026-08-17",
+        "value": 4969
+      },
+      {
+        "date": "2026-08-18",
+        "value": 1493
+      },
+      {
+        "date": "2026-08-19",
+        "value": 2112
+      },
+      {
+        "date": "2026-08-20",
+        "value": 5151
+      },
+      {
+        "date": "2026-08-21",
+        "value": 4278
+      },
+      {
+        "date": "2026-08-22",
+        "value": 8122
+      },
+      {
+        "date": "2026-08-23",
+        "value": 7968
+      },
+      {
+        "date": "2026-08-24",
+        "value": 5715
+      },
+      {
+        "date": "2026-08-25",
+        "value": 2781
+      },
+      {
+        "date": "2026-08-26",
+        "value": 4358
+      },
+      {
+        "date": "2026-08-27",
+        "value": 5810
+      },
+      {
+        "date": "2026-08-28",
+        "value": 2185
+      },
+      {
+        "date": "2026-08-29",
+        "value": 1
+      },
+      {
+        "date": "2026-08-30",
+        "value": 1
+      },
+      {
+        "date": "2026-08-31",
+        "value": 3672
+      },
+      {
+        "date": "2026-09-01",
+        "value": 2134
+      },
+      {
+        "date": "2026-09-02",
+        "value": 5072
+      },
+      {
+        "date": "2026-09-03",
+        "value": 6550
+      },
+      {
+        "date": "2026-09-04",
+        "value": 4845
+      },
+      {
+        "date": "2026-09-05",
+        "value": 3850
+      },
+      {
+        "date": "2026-09-06",
+        "value": 1188
+      },
+      {
+        "date": "2026-09-07",
+        "value": 1
+      },
+      {
+        "date": "2026-09-08",
+        "value": 869
+      }
+    ],
+    "engagementSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 3935
+      },
+      {
+        "date": "2026-08-11",
+        "value": 4174
+      },
+      {
+        "date": "2026-08-12",
+        "value": 4366
+      },
+      {
+        "date": "2026-08-13",
+        "value": 4216
+      },
+      {
+        "date": "2026-08-14",
+        "value": 3941
+      },
+      {
+        "date": "2026-08-15",
+        "value": 4112
+      },
+      {
+        "date": "2026-08-16",
+        "value": 4103
+      },
+      {
+        "date": "2026-08-17",
+        "value": 4161
+      },
+      {
+        "date": "2026-08-18",
+        "value": 4169
+      },
+      {
+        "date": "2026-08-19",
+        "value": 4265
+      },
+      {
+        "date": "2026-08-20",
+        "value": 4508
+      },
+      {
+        "date": "2026-08-21",
+        "value": 4574
+      },
+      {
+        "date": "2026-08-22",
+        "value": 4766
+      },
+      {
+        "date": "2026-08-23",
+        "value": 4829
+      },
+      {
+        "date": "2026-08-24",
+        "value": 4863
+      },
+      {
+        "date": "2026-08-25",
+        "value": 5021
+      },
+      {
+        "date": "2026-08-26",
+        "value": 4743
+      },
+      {
+        "date": "2026-08-27",
+        "value": 4776
+      },
+      {
+        "date": "2026-08-28",
+        "value": 5004
+      },
+      {
+        "date": "2026-08-29",
+        "value": 4850
+      },
+      {
+        "date": "2026-08-30",
+        "value": 4836
+      },
+      {
+        "date": "2026-08-31",
+        "value": 4640
+      },
+      {
+        "date": "2026-09-01",
+        "value": 4754
+      },
+      {
+        "date": "2026-09-02",
+        "value": 4736
+      },
+      {
+        "date": "2026-09-03",
+        "value": 4540
+      },
+      {
+        "date": "2026-09-04",
+        "value": 4542
+      },
+      {
+        "date": "2026-09-05",
+        "value": 4413
+      },
+      {
+        "date": "2026-09-06",
+        "value": 4246
+      },
+      {
+        "date": "2026-09-07",
+        "value": 4494
+      },
+      {
+        "date": "2026-09-08",
+        "value": 4593
+      }
+    ],
+    "bio": "Startups creator sharing insights on customer success and mlops."
+  },
+  {
+    "id": "inf-17",
+    "name": "Jamie Joshi",
+    "handle": "@jamie16",
+    "category": "Productivity",
+    "platform": "YouTube",
+    "location": "New York",
+    "followers": 301850,
+    "followerGrowth": 0.6,
+    "engagementRate": 4.2,
+    "sentiment": 78,
+    "influenceScore": 68,
+    "trending": false,
+    "topContentCategory": "Promotional",
+    "followerSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 247307
+      },
+      {
+        "date": "2026-08-11",
+        "value": 244636
+      },
+      {
+        "date": "2026-08-12",
+        "value": 246702
+      },
+      {
+        "date": "2026-08-13",
+        "value": 245496
+      },
+      {
+        "date": "2026-08-14",
+        "value": 242911
+      },
+      {
+        "date": "2026-08-15",
+        "value": 240605
+      },
+      {
+        "date": "2026-08-16",
+        "value": 239651
+      },
+      {
+        "date": "2026-08-17",
+        "value": 240851
+      },
+      {
+        "date": "2026-08-18",
+        "value": 239125
+      },
+      {
+        "date": "2026-08-19",
+        "value": 241569
+      },
+      {
+        "date": "2026-08-20",
+        "value": 244550
+      },
+      {
+        "date": "2026-08-21",
+        "value": 245319
+      },
+      {
+        "date": "2026-08-22",
+        "value": 247267
+      },
+      {
+        "date": "2026-08-23",
+        "value": 245492
+      },
+      {
+        "date": "2026-08-24",
+        "value": 243327
+      },
+      {
+        "date": "2026-08-25",
+        "value": 240565
+      },
+      {
+        "date": "2026-08-26",
+        "value": 241454
+      },
+      {
+        "date": "2026-08-27",
+        "value": 243975
+      },
+      {
+        "date": "2026-08-28",
+        "value": 245506
+      },
+      {
+        "date": "2026-08-29",
+        "value": 243351
+      },
+      {
+        "date": "2026-08-30",
+        "value": 244871
+      },
+      {
+        "date": "2026-08-31",
+        "value": 247352
+      },
+      {
+        "date": "2026-09-01",
+        "value": 244348
+      },
+      {
+        "date": "2026-09-02",
+        "value": 243178
+      },
+      {
+        "date": "2026-09-03",
+        "value": 242860
+      },
+      {
+        "date": "2026-09-04",
+        "value": 243062
+      },
+      {
+        "date": "2026-09-05",
+        "value": 242315
+      },
+      {
+        "date": "2026-09-06",
+        "value": 241978
+      },
+      {
+        "date": "2026-09-07",
+        "value": 244548
+      },
+      {
+        "date": "2026-09-08",
+        "value": 244528
+      }
+    ],
+    "engagementSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 9074
+      },
+      {
+        "date": "2026-08-11",
+        "value": 8948
+      },
+      {
+        "date": "2026-08-12",
+        "value": 8670
+      },
+      {
+        "date": "2026-08-13",
+        "value": 8425
+      },
+      {
+        "date": "2026-08-14",
+        "value": 8465
+      },
+      {
+        "date": "2026-08-15",
+        "value": 8188
+      },
+      {
+        "date": "2026-08-16",
+        "value": 8011
+      },
+      {
+        "date": "2026-08-17",
+        "value": 7809
+      },
+      {
+        "date": "2026-08-18",
+        "value": 7909
+      },
+      {
+        "date": "2026-08-19",
+        "value": 8168
+      },
+      {
+        "date": "2026-08-20",
+        "value": 8403
+      },
+      {
+        "date": "2026-08-21",
+        "value": 8627
+      },
+      {
+        "date": "2026-08-22",
+        "value": 8603
+      },
+      {
+        "date": "2026-08-23",
+        "value": 8729
+      },
+      {
+        "date": "2026-08-24",
+        "value": 8617
+      },
+      {
+        "date": "2026-08-25",
+        "value": 8894
+      },
+      {
+        "date": "2026-08-26",
+        "value": 8958
+      },
+      {
+        "date": "2026-08-27",
+        "value": 9008
+      },
+      {
+        "date": "2026-08-28",
+        "value": 9000
+      },
+      {
+        "date": "2026-08-29",
+        "value": 9044
+      },
+      {
+        "date": "2026-08-30",
+        "value": 9276
+      },
+      {
+        "date": "2026-08-31",
+        "value": 9145
+      },
+      {
+        "date": "2026-09-01",
+        "value": 9371
+      },
+      {
+        "date": "2026-09-02",
+        "value": 9402
+      },
+      {
+        "date": "2026-09-03",
+        "value": 9564
+      },
+      {
+        "date": "2026-09-04",
+        "value": 9827
+      },
+      {
+        "date": "2026-09-05",
+        "value": 9553
+      },
+      {
+        "date": "2026-09-06",
+        "value": 9288
+      },
+      {
+        "date": "2026-09-07",
+        "value": 9523
+      },
+      {
+        "date": "2026-09-08",
+        "value": 9653
+      }
+    ],
+    "bio": "Productivity creator sharing insights on generative ai and automation."
+  },
+  {
+    "id": "inf-18",
+    "name": "Zara Bose",
+    "handle": "@zaraai17",
+    "category": "Productivity",
+    "platform": "YouTube",
+    "location": "Bengaluru",
+    "followers": 125988,
+    "followerGrowth": 3,
+    "engagementRate": 4,
+    "sentiment": 77,
+    "influenceScore": 62,
+    "trending": false,
+    "topContentCategory": "Tutorial",
+    "followerSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 11709
+      },
+      {
+        "date": "2026-08-11",
+        "value": 11812
+      },
+      {
+        "date": "2026-08-12",
+        "value": 12414
+      },
+      {
+        "date": "2026-08-13",
+        "value": 13378
+      },
+      {
+        "date": "2026-08-14",
+        "value": 13951
+      },
+      {
+        "date": "2026-08-15",
+        "value": 13456
+      },
+      {
+        "date": "2026-08-16",
+        "value": 12601
+      },
+      {
+        "date": "2026-08-17",
+        "value": 11485
+      },
+      {
+        "date": "2026-08-18",
+        "value": 10708
+      },
+      {
+        "date": "2026-08-19",
+        "value": 9715
+      },
+      {
+        "date": "2026-08-20",
+        "value": 9110
+      },
+      {
+        "date": "2026-08-21",
+        "value": 8510
+      },
+      {
+        "date": "2026-08-22",
+        "value": 8633
+      },
+      {
+        "date": "2026-08-23",
+        "value": 8278
+      },
+      {
+        "date": "2026-08-24",
+        "value": 9430
+      },
+      {
+        "date": "2026-08-25",
+        "value": 9872
+      },
+      {
+        "date": "2026-08-26",
+        "value": 10864
+      },
+      {
+        "date": "2026-08-27",
+        "value": 11322
+      },
+      {
+        "date": "2026-08-28",
+        "value": 11269
+      },
+      {
+        "date": "2026-08-29",
+        "value": 11296
+      },
+      {
+        "date": "2026-08-30",
+        "value": 12402
+      },
+      {
+        "date": "2026-08-31",
+        "value": 11519
+      },
+      {
+        "date": "2026-09-01",
+        "value": 11407
+      },
+      {
+        "date": "2026-09-02",
+        "value": 11532
+      },
+      {
+        "date": "2026-09-03",
+        "value": 12579
+      },
+      {
+        "date": "2026-09-04",
+        "value": 13139
+      },
+      {
+        "date": "2026-09-05",
+        "value": 12866
+      },
+      {
+        "date": "2026-09-06",
+        "value": 12814
+      },
+      {
+        "date": "2026-09-07",
+        "value": 12867
+      },
+      {
+        "date": "2026-09-08",
+        "value": 11983
+      }
+    ],
+    "engagementSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 9302
+      },
+      {
+        "date": "2026-08-11",
+        "value": 9126
+      },
+      {
+        "date": "2026-08-12",
+        "value": 9056
+      },
+      {
+        "date": "2026-08-13",
+        "value": 9308
+      },
+      {
+        "date": "2026-08-14",
+        "value": 9062
+      },
+      {
+        "date": "2026-08-15",
+        "value": 9024
+      },
+      {
+        "date": "2026-08-16",
+        "value": 9109
+      },
+      {
+        "date": "2026-08-17",
+        "value": 9102
+      },
+      {
+        "date": "2026-08-18",
+        "value": 9164
+      },
+      {
+        "date": "2026-08-19",
+        "value": 9288
+      },
+      {
+        "date": "2026-08-20",
+        "value": 9288
+      },
+      {
+        "date": "2026-08-21",
+        "value": 9529
+      },
+      {
+        "date": "2026-08-22",
+        "value": 9607
+      },
+      {
+        "date": "2026-08-23",
+        "value": 9527
+      },
+      {
+        "date": "2026-08-24",
+        "value": 9769
+      },
+      {
+        "date": "2026-08-25",
+        "value": 10044
+      },
+      {
+        "date": "2026-08-26",
+        "value": 9809
+      },
+      {
+        "date": "2026-08-27",
+        "value": 9697
+      },
+      {
+        "date": "2026-08-28",
+        "value": 9499
+      },
+      {
+        "date": "2026-08-29",
+        "value": 9548
+      },
+      {
+        "date": "2026-08-30",
+        "value": 9423
+      },
+      {
+        "date": "2026-08-31",
+        "value": 9628
+      },
+      {
+        "date": "2026-09-01",
+        "value": 9530
+      },
+      {
+        "date": "2026-09-02",
+        "value": 9378
+      },
+      {
+        "date": "2026-09-03",
+        "value": 9270
+      },
+      {
+        "date": "2026-09-04",
+        "value": 9532
+      },
+      {
+        "date": "2026-09-05",
+        "value": 9407
+      },
+      {
+        "date": "2026-09-06",
+        "value": 9386
+      },
+      {
+        "date": "2026-09-07",
+        "value": 9185
+      },
+      {
+        "date": "2026-09-08",
+        "value": 9214
+      }
+    ],
+    "bio": "Productivity creator sharing insights on generative ai and automation."
+  },
+  {
+    "id": "inf-19",
+    "name": "Aisha Singh",
+    "handle": "@aishalabs18",
+    "category": "Marketing",
+    "platform": "TikTok",
+    "location": "Berlin",
+    "followers": 24913,
+    "followerGrowth": 12.8,
+    "engagementRate": 5.2,
+    "sentiment": 60,
+    "influenceScore": 72,
+    "trending": true,
+    "topContentCategory": "Tutorial",
+    "followerSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 1
+      },
+      {
+        "date": "2026-08-11",
+        "value": 1
+      },
+      {
+        "date": "2026-08-12",
+        "value": 1
+      },
+      {
+        "date": "2026-08-13",
+        "value": 91
+      },
+      {
+        "date": "2026-08-14",
+        "value": 147
+      },
+      {
+        "date": "2026-08-15",
+        "value": 308
+      },
+      {
+        "date": "2026-08-16",
+        "value": 501
+      },
+      {
+        "date": "2026-08-17",
+        "value": 271
+      },
+      {
+        "date": "2026-08-18",
+        "value": 162
+      },
+      {
+        "date": "2026-08-19",
+        "value": 1
+      },
+      {
+        "date": "2026-08-20",
+        "value": 107
+      },
+      {
+        "date": "2026-08-21",
+        "value": 290
+      },
+      {
+        "date": "2026-08-22",
+        "value": 456
+      },
+      {
+        "date": "2026-08-23",
+        "value": 313
+      },
+      {
+        "date": "2026-08-24",
+        "value": 349
+      },
+      {
+        "date": "2026-08-25",
+        "value": 535
+      },
+      {
+        "date": "2026-08-26",
+        "value": 612
+      },
+      {
+        "date": "2026-08-27",
+        "value": 849
+      },
+      {
+        "date": "2026-08-28",
+        "value": 717
+      },
+      {
+        "date": "2026-08-29",
+        "value": 664
+      },
+      {
+        "date": "2026-08-30",
+        "value": 593
+      },
+      {
+        "date": "2026-08-31",
+        "value": 358
+      },
+      {
+        "date": "2026-09-01",
+        "value": 399
+      },
+      {
+        "date": "2026-09-02",
+        "value": 493
+      },
+      {
+        "date": "2026-09-03",
+        "value": 390
+      },
+      {
+        "date": "2026-09-04",
+        "value": 152
+      },
+      {
+        "date": "2026-09-05",
+        "value": 1
+      },
+      {
+        "date": "2026-09-06",
+        "value": 138
+      },
+      {
+        "date": "2026-09-07",
+        "value": 71
+      },
+      {
+        "date": "2026-09-08",
+        "value": 103
+      }
+    ],
+    "engagementSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 3884
+      },
+      {
+        "date": "2026-08-11",
+        "value": 3924
+      },
+      {
+        "date": "2026-08-12",
+        "value": 3817
+      },
+      {
+        "date": "2026-08-13",
+        "value": 3950
+      },
+      {
+        "date": "2026-08-14",
+        "value": 4219
+      },
+      {
+        "date": "2026-08-15",
+        "value": 4489
+      },
+      {
+        "date": "2026-08-16",
+        "value": 4664
+      },
+      {
+        "date": "2026-08-17",
+        "value": 4465
+      },
+      {
+        "date": "2026-08-18",
+        "value": 4345
+      },
+      {
+        "date": "2026-08-19",
+        "value": 4329
+      },
+      {
+        "date": "2026-08-20",
+        "value": 4122
+      },
+      {
+        "date": "2026-08-21",
+        "value": 4311
+      },
+      {
+        "date": "2026-08-22",
+        "value": 4351
+      },
+      {
+        "date": "2026-08-23",
+        "value": 4472
+      },
+      {
+        "date": "2026-08-24",
+        "value": 4375
+      },
+      {
+        "date": "2026-08-25",
+        "value": 4527
+      },
+      {
+        "date": "2026-08-26",
+        "value": 4647
+      },
+      {
+        "date": "2026-08-27",
+        "value": 4677
+      },
+      {
+        "date": "2026-08-28",
+        "value": 4921
+      },
+      {
+        "date": "2026-08-29",
+        "value": 5143
+      },
+      {
+        "date": "2026-08-30",
+        "value": 5252
+      },
+      {
+        "date": "2026-08-31",
+        "value": 5040
+      },
+      {
+        "date": "2026-09-01",
+        "value": 5224
+      },
+      {
+        "date": "2026-09-02",
+        "value": 5405
+      },
+      {
+        "date": "2026-09-03",
+        "value": 5276
+      },
+      {
+        "date": "2026-09-04",
+        "value": 5064
+      },
+      {
+        "date": "2026-09-05",
+        "value": 5065
+      },
+      {
+        "date": "2026-09-06",
+        "value": 5150
+      },
+      {
+        "date": "2026-09-07",
+        "value": 5388
+      },
+      {
+        "date": "2026-09-08",
+        "value": 5651
+      }
+    ],
+    "bio": "Marketing creator sharing insights on api economy and sustainability tech."
+  },
+  {
+    "id": "inf-20",
+    "name": "Isha Pillai",
+    "handle": "@isha19",
+    "category": "Marketing",
+    "platform": "Instagram",
+    "location": "London",
+    "followers": 474582,
+    "followerGrowth": 8.3,
+    "engagementRate": 3,
+    "sentiment": 86,
+    "influenceScore": 83,
+    "trending": false,
+    "topContentCategory": "Educational",
+    "followerSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 1
+      },
+      {
+        "date": "2026-08-11",
+        "value": 2968
+      },
+      {
+        "date": "2026-08-12",
+        "value": 2202
+      },
+      {
+        "date": "2026-08-13",
+        "value": 6679
+      },
+      {
+        "date": "2026-08-14",
+        "value": 6728
+      },
+      {
+        "date": "2026-08-15",
+        "value": 2658
+      },
+      {
+        "date": "2026-08-16",
+        "value": 5019
+      },
+      {
+        "date": "2026-08-17",
+        "value": 8722
+      },
+      {
+        "date": "2026-08-18",
+        "value": 7016
+      },
+      {
+        "date": "2026-08-19",
+        "value": 2945
+      },
+      {
+        "date": "2026-08-20",
+        "value": 1
+      },
+      {
+        "date": "2026-08-21",
+        "value": 1599
+      },
+      {
+        "date": "2026-08-22",
+        "value": 3444
+      },
+      {
+        "date": "2026-08-23",
+        "value": 792
+      },
+      {
+        "date": "2026-08-24",
+        "value": 1
+      },
+      {
+        "date": "2026-08-25",
+        "value": 1484
+      },
+      {
+        "date": "2026-08-26",
+        "value": 1
+      },
+      {
+        "date": "2026-08-27",
+        "value": 4482
+      },
+      {
+        "date": "2026-08-28",
+        "value": 7730
+      },
+      {
+        "date": "2026-08-29",
+        "value": 5600
+      },
+      {
+        "date": "2026-08-30",
+        "value": 4685
+      },
+      {
+        "date": "2026-08-31",
+        "value": 1463
+      },
+      {
+        "date": "2026-09-01",
+        "value": 347
+      },
+      {
+        "date": "2026-09-02",
+        "value": 1417
+      },
+      {
+        "date": "2026-09-03",
+        "value": 368
+      },
+      {
+        "date": "2026-09-04",
+        "value": 508
+      },
+      {
+        "date": "2026-09-05",
+        "value": 1185
+      },
+      {
+        "date": "2026-09-06",
+        "value": 959
+      },
+      {
+        "date": "2026-09-07",
+        "value": 3537
+      },
+      {
+        "date": "2026-09-08",
+        "value": 1
+      }
+    ],
+    "engagementSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 4870
+      },
+      {
+        "date": "2026-08-11",
+        "value": 5141
+      },
+      {
+        "date": "2026-08-12",
+        "value": 5385
+      },
+      {
+        "date": "2026-08-13",
+        "value": 5316
+      },
+      {
+        "date": "2026-08-14",
+        "value": 5504
+      },
+      {
+        "date": "2026-08-15",
+        "value": 5607
+      },
+      {
+        "date": "2026-08-16",
+        "value": 5598
+      },
+      {
+        "date": "2026-08-17",
+        "value": 5889
+      },
+      {
+        "date": "2026-08-18",
+        "value": 5885
+      },
+      {
+        "date": "2026-08-19",
+        "value": 5936
+      },
+      {
+        "date": "2026-08-20",
+        "value": 5689
+      },
+      {
+        "date": "2026-08-21",
+        "value": 5946
+      },
+      {
+        "date": "2026-08-22",
+        "value": 5737
+      },
+      {
+        "date": "2026-08-23",
+        "value": 5718
+      },
+      {
+        "date": "2026-08-24",
+        "value": 5993
+      },
+      {
+        "date": "2026-08-25",
+        "value": 6176
+      },
+      {
+        "date": "2026-08-26",
+        "value": 6197
+      },
+      {
+        "date": "2026-08-27",
+        "value": 6442
+      },
+      {
+        "date": "2026-08-28",
+        "value": 6592
+      },
+      {
+        "date": "2026-08-29",
+        "value": 6419
+      },
+      {
+        "date": "2026-08-30",
+        "value": 6234
+      },
+      {
+        "date": "2026-08-31",
+        "value": 6051
+      },
+      {
+        "date": "2026-09-01",
+        "value": 6024
+      },
+      {
+        "date": "2026-09-02",
+        "value": 5983
+      },
+      {
+        "date": "2026-09-03",
+        "value": 5976
+      },
+      {
+        "date": "2026-09-04",
+        "value": 6169
+      },
+      {
+        "date": "2026-09-05",
+        "value": 6294
+      },
+      {
+        "date": "2026-09-06",
+        "value": 6281
+      },
+      {
+        "date": "2026-09-07",
+        "value": 6419
+      },
+      {
+        "date": "2026-09-08",
+        "value": 6611
+      }
+    ],
+    "bio": "Marketing creator sharing insights on open source and product features."
+  },
+  {
+    "id": "inf-21",
+    "name": "Isha Nair",
+    "handle": "@isha20",
+    "category": "Tech",
+    "platform": "Instagram",
+    "location": "Delhi NCR",
+    "followers": 367610,
+    "followerGrowth": 15.8,
+    "engagementRate": 6.8,
+    "sentiment": 70,
+    "influenceScore": 98,
+    "trending": true,
+    "topContentCategory": "Promotional",
+    "followerSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 1
+      },
+      {
+        "date": "2026-08-11",
+        "value": 1801
+      },
+      {
+        "date": "2026-08-12",
+        "value": 4977
+      },
+      {
+        "date": "2026-08-13",
+        "value": 5559
+      },
+      {
+        "date": "2026-08-14",
+        "value": 4957
+      },
+      {
+        "date": "2026-08-15",
+        "value": 4777
+      },
+      {
+        "date": "2026-08-16",
+        "value": 8116
+      },
+      {
+        "date": "2026-08-17",
+        "value": 6782
+      },
+      {
+        "date": "2026-08-18",
+        "value": 5029
+      },
+      {
+        "date": "2026-08-19",
+        "value": 5822
+      },
+      {
+        "date": "2026-08-20",
+        "value": 6396
+      },
+      {
+        "date": "2026-08-21",
+        "value": 7381
+      },
+      {
+        "date": "2026-08-22",
+        "value": 5076
+      },
+      {
+        "date": "2026-08-23",
+        "value": 3305
+      },
+      {
+        "date": "2026-08-24",
+        "value": 1550
+      },
+      {
+        "date": "2026-08-25",
+        "value": 522
+      },
+      {
+        "date": "2026-08-26",
+        "value": 1
+      },
+      {
+        "date": "2026-08-27",
+        "value": 3572
+      },
+      {
+        "date": "2026-08-28",
+        "value": 4108
+      },
+      {
+        "date": "2026-08-29",
+        "value": 1818
+      },
+      {
+        "date": "2026-08-30",
+        "value": 2615
+      },
+      {
+        "date": "2026-08-31",
+        "value": 633
+      },
+      {
+        "date": "2026-09-01",
+        "value": 747
+      },
+      {
+        "date": "2026-09-02",
+        "value": 2013
+      },
+      {
+        "date": "2026-09-03",
+        "value": 5513
+      },
+      {
+        "date": "2026-09-04",
+        "value": 8340
+      },
+      {
+        "date": "2026-09-05",
+        "value": 11225
+      },
+      {
+        "date": "2026-09-06",
+        "value": 8161
+      },
+      {
+        "date": "2026-09-07",
+        "value": 5218
+      },
+      {
+        "date": "2026-09-08",
+        "value": 5485
+      }
+    ],
+    "engagementSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 7088
+      },
+      {
+        "date": "2026-08-11",
+        "value": 7136
+      },
+      {
+        "date": "2026-08-12",
+        "value": 7088
+      },
+      {
+        "date": "2026-08-13",
+        "value": 6888
+      },
+      {
+        "date": "2026-08-14",
+        "value": 7121
+      },
+      {
+        "date": "2026-08-15",
+        "value": 6943
+      },
+      {
+        "date": "2026-08-16",
+        "value": 6966
+      },
+      {
+        "date": "2026-08-17",
+        "value": 6672
+      },
+      {
+        "date": "2026-08-18",
+        "value": 6891
+      },
+      {
+        "date": "2026-08-19",
+        "value": 6702
+      },
+      {
+        "date": "2026-08-20",
+        "value": 6794
+      },
+      {
+        "date": "2026-08-21",
+        "value": 6617
+      },
+      {
+        "date": "2026-08-22",
+        "value": 6908
+      },
+      {
+        "date": "2026-08-23",
+        "value": 6746
+      },
+      {
+        "date": "2026-08-24",
+        "value": 6597
+      },
+      {
+        "date": "2026-08-25",
+        "value": 6773
+      },
+      {
+        "date": "2026-08-26",
+        "value": 6750
+      },
+      {
+        "date": "2026-08-27",
+        "value": 6747
+      },
+      {
+        "date": "2026-08-28",
+        "value": 6516
+      },
+      {
+        "date": "2026-08-29",
+        "value": 6563
+      },
+      {
+        "date": "2026-08-30",
+        "value": 6536
+      },
+      {
+        "date": "2026-08-31",
+        "value": 6314
+      },
+      {
+        "date": "2026-09-01",
+        "value": 6563
+      },
+      {
+        "date": "2026-09-02",
+        "value": 6862
+      },
+      {
+        "date": "2026-09-03",
+        "value": 7160
+      },
+      {
+        "date": "2026-09-04",
+        "value": 6910
+      },
+      {
+        "date": "2026-09-05",
+        "value": 7044
+      },
+      {
+        "date": "2026-09-06",
+        "value": 7331
+      },
+      {
+        "date": "2026-09-07",
+        "value": 7183
+      },
+      {
+        "date": "2026-09-08",
+        "value": 7403
+      }
+    ],
+    "bio": "Tech creator sharing insights on cloud security and data privacy."
+  },
+  {
+    "id": "inf-22",
+    "name": "Arjun Bansal",
+    "handle": "@arjuntalks21",
+    "category": "Marketing",
+    "platform": "X",
+    "location": "Mumbai",
+    "followers": 138186,
+    "followerGrowth": 21.6,
+    "engagementRate": 8.6,
+    "sentiment": 92,
+    "influenceScore": 99,
+    "trending": true,
+    "topContentCategory": "Opinion",
+    "followerSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 1
+      },
+      {
+        "date": "2026-08-11",
+        "value": 1
+      },
+      {
+        "date": "2026-08-12",
+        "value": 1
+      },
+      {
+        "date": "2026-08-13",
+        "value": 1
+      },
+      {
+        "date": "2026-08-14",
+        "value": 1
+      },
+      {
+        "date": "2026-08-15",
+        "value": 662
+      },
+      {
+        "date": "2026-08-16",
+        "value": 993
+      },
+      {
+        "date": "2026-08-17",
+        "value": 1257
+      },
+      {
+        "date": "2026-08-18",
+        "value": 2587
+      },
+      {
+        "date": "2026-08-19",
+        "value": 3653
+      },
+      {
+        "date": "2026-08-20",
+        "value": 3582
+      },
+      {
+        "date": "2026-08-21",
+        "value": 3645
+      },
+      {
+        "date": "2026-08-22",
+        "value": 4358
+      },
+      {
+        "date": "2026-08-23",
+        "value": 4981
+      },
+      {
+        "date": "2026-08-24",
+        "value": 5637
+      },
+      {
+        "date": "2026-08-25",
+        "value": 4952
+      },
+      {
+        "date": "2026-08-26",
+        "value": 5505
+      },
+      {
+        "date": "2026-08-27",
+        "value": 6412
+      },
+      {
+        "date": "2026-08-28",
+        "value": 6282
+      },
+      {
+        "date": "2026-08-29",
+        "value": 7405
+      },
+      {
+        "date": "2026-08-30",
+        "value": 7513
+      },
+      {
+        "date": "2026-08-31",
+        "value": 8310
+      },
+      {
+        "date": "2026-09-01",
+        "value": 8014
+      },
+      {
+        "date": "2026-09-02",
+        "value": 7136
+      },
+      {
+        "date": "2026-09-03",
+        "value": 7599
+      },
+      {
+        "date": "2026-09-04",
+        "value": 7453
+      },
+      {
+        "date": "2026-09-05",
+        "value": 6227
+      },
+      {
+        "date": "2026-09-06",
+        "value": 6966
+      },
+      {
+        "date": "2026-09-07",
+        "value": 7321
+      },
+      {
+        "date": "2026-09-08",
+        "value": 6508
+      }
+    ],
+    "engagementSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 4642
+      },
+      {
+        "date": "2026-08-11",
+        "value": 4599
+      },
+      {
+        "date": "2026-08-12",
+        "value": 4371
+      },
+      {
+        "date": "2026-08-13",
+        "value": 4642
+      },
+      {
+        "date": "2026-08-14",
+        "value": 4847
+      },
+      {
+        "date": "2026-08-15",
+        "value": 4647
+      },
+      {
+        "date": "2026-08-16",
+        "value": 4708
+      },
+      {
+        "date": "2026-08-17",
+        "value": 4574
+      },
+      {
+        "date": "2026-08-18",
+        "value": 4368
+      },
+      {
+        "date": "2026-08-19",
+        "value": 4165
+      },
+      {
+        "date": "2026-08-20",
+        "value": 4263
+      },
+      {
+        "date": "2026-08-21",
+        "value": 4195
+      },
+      {
+        "date": "2026-08-22",
+        "value": 4007
+      },
+      {
+        "date": "2026-08-23",
+        "value": 3996
+      },
+      {
+        "date": "2026-08-24",
+        "value": 3996
+      },
+      {
+        "date": "2026-08-25",
+        "value": 3995
+      },
+      {
+        "date": "2026-08-26",
+        "value": 4054
+      },
+      {
+        "date": "2026-08-27",
+        "value": 4327
+      },
+      {
+        "date": "2026-08-28",
+        "value": 4117
+      },
+      {
+        "date": "2026-08-29",
+        "value": 3996
+      },
+      {
+        "date": "2026-08-30",
+        "value": 3878
+      },
+      {
+        "date": "2026-08-31",
+        "value": 3815
+      },
+      {
+        "date": "2026-09-01",
+        "value": 3746
+      },
+      {
+        "date": "2026-09-02",
+        "value": 3690
+      },
+      {
+        "date": "2026-09-03",
+        "value": 3519
+      },
+      {
+        "date": "2026-09-04",
+        "value": 3599
+      },
+      {
+        "date": "2026-09-05",
+        "value": 3629
+      },
+      {
+        "date": "2026-09-06",
+        "value": 3561
+      },
+      {
+        "date": "2026-09-07",
+        "value": 3737
+      },
+      {
+        "date": "2026-09-08",
+        "value": 3734
+      }
+    ],
+    "bio": "Marketing creator sharing insights on customer success and api economy."
+  },
+  {
+    "id": "inf-23",
+    "name": "Kabir Joshi",
+    "handle": "@kabirtalks22",
+    "category": "Data Science",
+    "platform": "LinkedIn",
+    "location": "Berlin",
+    "followers": 434107,
+    "followerGrowth": -2.5,
+    "engagementRate": 6.3,
+    "sentiment": 70,
+    "influenceScore": 78,
+    "trending": false,
+    "topContentCategory": "Tutorial",
+    "followerSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 758099
+      },
+      {
+        "date": "2026-08-11",
+        "value": 757480
+      },
+      {
+        "date": "2026-08-12",
+        "value": 753523
+      },
+      {
+        "date": "2026-08-13",
+        "value": 750105
+      },
+      {
+        "date": "2026-08-14",
+        "value": 754368
+      },
+      {
+        "date": "2026-08-15",
+        "value": 757331
+      },
+      {
+        "date": "2026-08-16",
+        "value": 753560
+      },
+      {
+        "date": "2026-08-17",
+        "value": 751902
+      },
+      {
+        "date": "2026-08-18",
+        "value": 753090
+      },
+      {
+        "date": "2026-08-19",
+        "value": 749483
+      },
+      {
+        "date": "2026-08-20",
+        "value": 748872
+      },
+      {
+        "date": "2026-08-21",
+        "value": 746663
+      },
+      {
+        "date": "2026-08-22",
+        "value": 749930
+      },
+      {
+        "date": "2026-08-23",
+        "value": 749684
+      },
+      {
+        "date": "2026-08-24",
+        "value": 749621
+      },
+      {
+        "date": "2026-08-25",
+        "value": 748521
+      },
+      {
+        "date": "2026-08-26",
+        "value": 747418
+      },
+      {
+        "date": "2026-08-27",
+        "value": 747406
+      },
+      {
+        "date": "2026-08-28",
+        "value": 743953
+      },
+      {
+        "date": "2026-08-29",
+        "value": 742915
+      },
+      {
+        "date": "2026-08-30",
+        "value": 741929
+      },
+      {
+        "date": "2026-08-31",
+        "value": 737998
+      },
+      {
+        "date": "2026-09-01",
+        "value": 738740
+      },
+      {
+        "date": "2026-09-02",
+        "value": 740706
+      },
+      {
+        "date": "2026-09-03",
+        "value": 741215
+      },
+      {
+        "date": "2026-09-04",
+        "value": 745338
+      },
+      {
+        "date": "2026-09-05",
+        "value": 745059
+      },
+      {
+        "date": "2026-09-06",
+        "value": 743641
+      },
+      {
+        "date": "2026-09-07",
+        "value": 743539
+      },
+      {
+        "date": "2026-09-08",
+        "value": 740502
+      }
+    ],
+    "engagementSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 3089
+      },
+      {
+        "date": "2026-08-11",
+        "value": 3351
+      },
+      {
+        "date": "2026-08-12",
+        "value": 3213
+      },
+      {
+        "date": "2026-08-13",
+        "value": 2933
+      },
+      {
+        "date": "2026-08-14",
+        "value": 2682
+      },
+      {
+        "date": "2026-08-15",
+        "value": 2632
+      },
+      {
+        "date": "2026-08-16",
+        "value": 2494
+      },
+      {
+        "date": "2026-08-17",
+        "value": 2721
+      },
+      {
+        "date": "2026-08-18",
+        "value": 2607
+      },
+      {
+        "date": "2026-08-19",
+        "value": 2473
+      },
+      {
+        "date": "2026-08-20",
+        "value": 2234
+      },
+      {
+        "date": "2026-08-21",
+        "value": 2105
+      },
+      {
+        "date": "2026-08-22",
+        "value": 2198
+      },
+      {
+        "date": "2026-08-23",
+        "value": 2374
+      },
+      {
+        "date": "2026-08-24",
+        "value": 2166
+      },
+      {
+        "date": "2026-08-25",
+        "value": 2054
+      },
+      {
+        "date": "2026-08-26",
+        "value": 2224
+      },
+      {
+        "date": "2026-08-27",
+        "value": 2509
+      },
+      {
+        "date": "2026-08-28",
+        "value": 2284
+      },
+      {
+        "date": "2026-08-29",
+        "value": 2152
+      },
+      {
+        "date": "2026-08-30",
+        "value": 2267
+      },
+      {
+        "date": "2026-08-31",
+        "value": 2328
+      },
+      {
+        "date": "2026-09-01",
+        "value": 2162
+      },
+      {
+        "date": "2026-09-02",
+        "value": 2007
+      },
+      {
+        "date": "2026-09-03",
+        "value": 1797
+      },
+      {
+        "date": "2026-09-04",
+        "value": 1895
+      },
+      {
+        "date": "2026-09-05",
+        "value": 1855
+      },
+      {
+        "date": "2026-09-06",
+        "value": 2018
+      },
+      {
+        "date": "2026-09-07",
+        "value": 2104
+      },
+      {
+        "date": "2026-09-08",
+        "value": 2074
+      }
+    ],
+    "bio": "Data Science creator sharing insights on ai agents and sustainability tech."
+  },
+  {
+    "id": "inf-24",
+    "name": "Elena Chen",
+    "handle": "@elenaai23",
+    "category": "Startups",
+    "platform": "Instagram",
+    "location": "London",
+    "followers": 271625,
+    "followerGrowth": 0.9,
+    "engagementRate": 7.1,
+    "sentiment": 88,
+    "influenceScore": 76,
+    "trending": false,
+    "topContentCategory": "Tutorial",
+    "followerSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 199989
+      },
+      {
+        "date": "2026-08-11",
+        "value": 199167
+      },
+      {
+        "date": "2026-08-12",
+        "value": 198741
+      },
+      {
+        "date": "2026-08-13",
+        "value": 198409
+      },
+      {
+        "date": "2026-08-14",
+        "value": 199401
+      },
+      {
+        "date": "2026-08-15",
+        "value": 198100
+      },
+      {
+        "date": "2026-08-16",
+        "value": 195705
+      },
+      {
+        "date": "2026-08-17",
+        "value": 193158
+      },
+      {
+        "date": "2026-08-18",
+        "value": 195465
+      },
+      {
+        "date": "2026-08-19",
+        "value": 193725
+      },
+      {
+        "date": "2026-08-20",
+        "value": 191150
+      },
+      {
+        "date": "2026-08-21",
+        "value": 192505
+      },
+      {
+        "date": "2026-08-22",
+        "value": 190543
+      },
+      {
+        "date": "2026-08-23",
+        "value": 192399
+      },
+      {
+        "date": "2026-08-24",
+        "value": 193558
+      },
+      {
+        "date": "2026-08-25",
+        "value": 192082
+      },
+      {
+        "date": "2026-08-26",
+        "value": 189867
+      },
+      {
+        "date": "2026-08-27",
+        "value": 188213
+      },
+      {
+        "date": "2026-08-28",
+        "value": 187583
+      },
+      {
+        "date": "2026-08-29",
+        "value": 188761
+      },
+      {
+        "date": "2026-08-30",
+        "value": 190861
+      },
+      {
+        "date": "2026-08-31",
+        "value": 193356
+      },
+      {
+        "date": "2026-09-01",
+        "value": 194376
+      },
+      {
+        "date": "2026-09-02",
+        "value": 193491
+      },
+      {
+        "date": "2026-09-03",
+        "value": 194898
+      },
+      {
+        "date": "2026-09-04",
+        "value": 193859
+      },
+      {
+        "date": "2026-09-05",
+        "value": 194614
+      },
+      {
+        "date": "2026-09-06",
+        "value": 194513
+      },
+      {
+        "date": "2026-09-07",
+        "value": 194628
+      },
+      {
+        "date": "2026-09-08",
+        "value": 195486
+      }
+    ],
+    "engagementSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 4318
+      },
+      {
+        "date": "2026-08-11",
+        "value": 4423
+      },
+      {
+        "date": "2026-08-12",
+        "value": 4500
+      },
+      {
+        "date": "2026-08-13",
+        "value": 4613
+      },
+      {
+        "date": "2026-08-14",
+        "value": 4556
+      },
+      {
+        "date": "2026-08-15",
+        "value": 4267
+      },
+      {
+        "date": "2026-08-16",
+        "value": 4020
+      },
+      {
+        "date": "2026-08-17",
+        "value": 3981
+      },
+      {
+        "date": "2026-08-18",
+        "value": 3832
+      },
+      {
+        "date": "2026-08-19",
+        "value": 3989
+      },
+      {
+        "date": "2026-08-20",
+        "value": 4186
+      },
+      {
+        "date": "2026-08-21",
+        "value": 4221
+      },
+      {
+        "date": "2026-08-22",
+        "value": 4054
+      },
+      {
+        "date": "2026-08-23",
+        "value": 4078
+      },
+      {
+        "date": "2026-08-24",
+        "value": 4325
+      },
+      {
+        "date": "2026-08-25",
+        "value": 4329
+      },
+      {
+        "date": "2026-08-26",
+        "value": 4523
+      },
+      {
+        "date": "2026-08-27",
+        "value": 4359
+      },
+      {
+        "date": "2026-08-28",
+        "value": 4631
+      },
+      {
+        "date": "2026-08-29",
+        "value": 4698
+      },
+      {
+        "date": "2026-08-30",
+        "value": 4989
+      },
+      {
+        "date": "2026-08-31",
+        "value": 5210
+      },
+      {
+        "date": "2026-09-01",
+        "value": 5262
+      },
+      {
+        "date": "2026-09-02",
+        "value": 5092
+      },
+      {
+        "date": "2026-09-03",
+        "value": 4922
+      },
+      {
+        "date": "2026-09-04",
+        "value": 5216
+      },
+      {
+        "date": "2026-09-05",
+        "value": 5246
+      },
+      {
+        "date": "2026-09-06",
+        "value": 5031
+      },
+      {
+        "date": "2026-09-07",
+        "value": 4975
+      },
+      {
+        "date": "2026-09-08",
+        "value": 4996
+      }
+    ],
+    "bio": "Startups creator sharing insights on cloud security and data privacy."
+  },
+  {
+    "id": "inf-25",
+    "name": "Maya Kapoor",
+    "handle": "@mayaai24",
+    "category": "Design",
+    "platform": "Instagram",
+    "location": "Singapore",
+    "followers": 144744,
+    "followerGrowth": 18.4,
+    "engagementRate": 8.5,
+    "sentiment": 71,
+    "influenceScore": 95,
+    "trending": true,
+    "topContentCategory": "Product Launch",
+    "followerSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 1
+      },
+      {
+        "date": "2026-08-11",
+        "value": 1
+      },
+      {
+        "date": "2026-08-12",
+        "value": 1
+      },
+      {
+        "date": "2026-08-13",
+        "value": 1
+      },
+      {
+        "date": "2026-08-14",
+        "value": 1
+      },
+      {
+        "date": "2026-08-15",
+        "value": 1318
+      },
+      {
+        "date": "2026-08-16",
+        "value": 2173
+      },
+      {
+        "date": "2026-08-17",
+        "value": 2204
+      },
+      {
+        "date": "2026-08-18",
+        "value": 2331
+      },
+      {
+        "date": "2026-08-19",
+        "value": 956
+      },
+      {
+        "date": "2026-08-20",
+        "value": 237
+      },
+      {
+        "date": "2026-08-21",
+        "value": 1
+      },
+      {
+        "date": "2026-08-22",
+        "value": 1
+      },
+      {
+        "date": "2026-08-23",
+        "value": 1
+      },
+      {
+        "date": "2026-08-24",
+        "value": 901
+      },
+      {
+        "date": "2026-08-25",
+        "value": 1477
+      },
+      {
+        "date": "2026-08-26",
+        "value": 103
+      },
+      {
+        "date": "2026-08-27",
+        "value": 1
+      },
+      {
+        "date": "2026-08-28",
+        "value": 706
+      },
+      {
+        "date": "2026-08-29",
+        "value": 1
+      },
+      {
+        "date": "2026-08-30",
+        "value": 1
+      },
+      {
+        "date": "2026-08-31",
+        "value": 1
+      },
+      {
+        "date": "2026-09-01",
+        "value": 1
+      },
+      {
+        "date": "2026-09-02",
+        "value": 241
+      },
+      {
+        "date": "2026-09-03",
+        "value": 1206
+      },
+      {
+        "date": "2026-09-04",
+        "value": 1003
+      },
+      {
+        "date": "2026-09-05",
+        "value": 858
+      },
+      {
+        "date": "2026-09-06",
+        "value": 1648
+      },
+      {
+        "date": "2026-09-07",
+        "value": 557
+      },
+      {
+        "date": "2026-09-08",
+        "value": 933
+      }
+    ],
+    "engagementSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 1423
+      },
+      {
+        "date": "2026-08-11",
+        "value": 1542
+      },
+      {
+        "date": "2026-08-12",
+        "value": 1635
+      },
+      {
+        "date": "2026-08-13",
+        "value": 1850
+      },
+      {
+        "date": "2026-08-14",
+        "value": 1776
+      },
+      {
+        "date": "2026-08-15",
+        "value": 1595
+      },
+      {
+        "date": "2026-08-16",
+        "value": 1821
+      },
+      {
+        "date": "2026-08-17",
+        "value": 1905
+      },
+      {
+        "date": "2026-08-18",
+        "value": 1898
+      },
+      {
+        "date": "2026-08-19",
+        "value": 1998
+      },
+      {
+        "date": "2026-08-20",
+        "value": 1966
+      },
+      {
+        "date": "2026-08-21",
+        "value": 1684
+      },
+      {
+        "date": "2026-08-22",
+        "value": 1974
+      },
+      {
+        "date": "2026-08-23",
+        "value": 2083
+      },
+      {
+        "date": "2026-08-24",
+        "value": 2335
+      },
+      {
+        "date": "2026-08-25",
+        "value": 2382
+      },
+      {
+        "date": "2026-08-26",
+        "value": 2591
+      },
+      {
+        "date": "2026-08-27",
+        "value": 2875
+      },
+      {
+        "date": "2026-08-28",
+        "value": 2626
+      },
+      {
+        "date": "2026-08-29",
+        "value": 2484
+      },
+      {
+        "date": "2026-08-30",
+        "value": 2767
+      },
+      {
+        "date": "2026-08-31",
+        "value": 2638
+      },
+      {
+        "date": "2026-09-01",
+        "value": 2731
+      },
+      {
+        "date": "2026-09-02",
+        "value": 2989
+      },
+      {
+        "date": "2026-09-03",
+        "value": 3111
+      },
+      {
+        "date": "2026-09-04",
+        "value": 3407
+      },
+      {
+        "date": "2026-09-05",
+        "value": 3417
+      },
+      {
+        "date": "2026-09-06",
+        "value": 3302
+      },
+      {
+        "date": "2026-09-07",
+        "value": 3512
+      },
+      {
+        "date": "2026-09-08",
+        "value": 3500
+      }
+    ],
+    "bio": "Design creator sharing insights on automation and customer support."
+  },
+  {
+    "id": "inf-26",
+    "name": "Sara Verma",
+    "handle": "@saratech25",
+    "category": "Productivity",
+    "platform": "Instagram",
+    "location": "Bengaluru",
+    "followers": 73315,
+    "followerGrowth": 2.6,
+    "engagementRate": 2.8,
+    "sentiment": 62,
+    "influenceScore": 55,
+    "trending": false,
+    "topContentCategory": "Promotional",
+    "followerSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 16637
+      },
+      {
+        "date": "2026-08-11",
+        "value": 17118
+      },
+      {
+        "date": "2026-08-12",
+        "value": 16974
+      },
+      {
+        "date": "2026-08-13",
+        "value": 16468
+      },
+      {
+        "date": "2026-08-14",
+        "value": 16531
+      },
+      {
+        "date": "2026-08-15",
+        "value": 16752
+      },
+      {
+        "date": "2026-08-16",
+        "value": 16877
+      },
+      {
+        "date": "2026-08-17",
+        "value": 16568
+      },
+      {
+        "date": "2026-08-18",
+        "value": 16845
+      },
+      {
+        "date": "2026-08-19",
+        "value": 16632
+      },
+      {
+        "date": "2026-08-20",
+        "value": 16984
+      },
+      {
+        "date": "2026-08-21",
+        "value": 16415
+      },
+      {
+        "date": "2026-08-22",
+        "value": 15993
+      },
+      {
+        "date": "2026-08-23",
+        "value": 15766
+      },
+      {
+        "date": "2026-08-24",
+        "value": 16379
+      },
+      {
+        "date": "2026-08-25",
+        "value": 16826
+      },
+      {
+        "date": "2026-08-26",
+        "value": 16880
+      },
+      {
+        "date": "2026-08-27",
+        "value": 16526
+      },
+      {
+        "date": "2026-08-28",
+        "value": 16989
+      },
+      {
+        "date": "2026-08-29",
+        "value": 17379
+      },
+      {
+        "date": "2026-08-30",
+        "value": 17742
+      },
+      {
+        "date": "2026-08-31",
+        "value": 17574
+      },
+      {
+        "date": "2026-09-01",
+        "value": 17564
+      },
+      {
+        "date": "2026-09-02",
+        "value": 17920
+      },
+      {
+        "date": "2026-09-03",
+        "value": 18306
+      },
+      {
+        "date": "2026-09-04",
+        "value": 18485
+      },
+      {
+        "date": "2026-09-05",
+        "value": 18260
+      },
+      {
+        "date": "2026-09-06",
+        "value": 17659
+      },
+      {
+        "date": "2026-09-07",
+        "value": 17043
+      },
+      {
+        "date": "2026-09-08",
+        "value": 16959
+      }
+    ],
+    "engagementSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 9606
+      },
+      {
+        "date": "2026-08-11",
+        "value": 9871
+      },
+      {
+        "date": "2026-08-12",
+        "value": 10159
+      },
+      {
+        "date": "2026-08-13",
+        "value": 10159
+      },
+      {
+        "date": "2026-08-14",
+        "value": 10413
+      },
+      {
+        "date": "2026-08-15",
+        "value": 10240
+      },
+      {
+        "date": "2026-08-16",
+        "value": 10486
+      },
+      {
+        "date": "2026-08-17",
+        "value": 10217
+      },
+      {
+        "date": "2026-08-18",
+        "value": 9925
+      },
+      {
+        "date": "2026-08-19",
+        "value": 9916
+      },
+      {
+        "date": "2026-08-20",
+        "value": 10099
+      },
+      {
+        "date": "2026-08-21",
+        "value": 9992
+      },
+      {
+        "date": "2026-08-22",
+        "value": 10232
+      },
+      {
+        "date": "2026-08-23",
+        "value": 10322
+      },
+      {
+        "date": "2026-08-24",
+        "value": 10343
+      },
+      {
+        "date": "2026-08-25",
+        "value": 10613
+      },
+      {
+        "date": "2026-08-26",
+        "value": 10687
+      },
+      {
+        "date": "2026-08-27",
+        "value": 10710
+      },
+      {
+        "date": "2026-08-28",
+        "value": 10471
+      },
+      {
+        "date": "2026-08-29",
+        "value": 10420
+      },
+      {
+        "date": "2026-08-30",
+        "value": 10389
+      },
+      {
+        "date": "2026-08-31",
+        "value": 10511
+      },
+      {
+        "date": "2026-09-01",
+        "value": 10309
+      },
+      {
+        "date": "2026-09-02",
+        "value": 10398
+      },
+      {
+        "date": "2026-09-03",
+        "value": 10128
+      },
+      {
+        "date": "2026-09-04",
+        "value": 10336
+      },
+      {
+        "date": "2026-09-05",
+        "value": 10338
+      },
+      {
+        "date": "2026-09-06",
+        "value": 10283
+      },
+      {
+        "date": "2026-09-07",
+        "value": 10124
+      },
+      {
+        "date": "2026-09-08",
+        "value": 10140
+      }
+    ],
+    "bio": "Productivity creator sharing insights on automation and mlops."
+  },
+  {
+    "id": "inf-27",
+    "name": "Jamie Pillai",
+    "handle": "@jamie26",
+    "category": "Finance",
+    "platform": "YouTube",
+    "location": "Delhi NCR",
+    "followers": 494431,
+    "followerGrowth": -0.8,
+    "engagementRate": 7.4,
+    "sentiment": 67,
+    "influenceScore": 86,
+    "trending": false,
+    "topContentCategory": "Tutorial",
+    "followerSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 610774
+      },
+      {
+        "date": "2026-08-11",
+        "value": 606199
+      },
+      {
+        "date": "2026-08-12",
+        "value": 608790
+      },
+      {
+        "date": "2026-08-13",
+        "value": 611317
+      },
+      {
+        "date": "2026-08-14",
+        "value": 615826
+      },
+      {
+        "date": "2026-08-15",
+        "value": 615858
+      },
+      {
+        "date": "2026-08-16",
+        "value": 611472
+      },
+      {
+        "date": "2026-08-17",
+        "value": 612638
+      },
+      {
+        "date": "2026-08-18",
+        "value": 608906
+      },
+      {
+        "date": "2026-08-19",
+        "value": 606628
+      },
+      {
+        "date": "2026-08-20",
+        "value": 606251
+      },
+      {
+        "date": "2026-08-21",
+        "value": 601706
+      },
+      {
+        "date": "2026-08-22",
+        "value": 601181
+      },
+      {
+        "date": "2026-08-23",
+        "value": 605637
+      },
+      {
+        "date": "2026-08-24",
+        "value": 601256
+      },
+      {
+        "date": "2026-08-25",
+        "value": 599098
+      },
+      {
+        "date": "2026-08-26",
+        "value": 603438
+      },
+      {
+        "date": "2026-08-27",
+        "value": 600387
+      },
+      {
+        "date": "2026-08-28",
+        "value": 595569
+      },
+      {
+        "date": "2026-08-29",
+        "value": 594542
+      },
+      {
+        "date": "2026-08-30",
+        "value": 595486
+      },
+      {
+        "date": "2026-08-31",
+        "value": 597321
+      },
+      {
+        "date": "2026-09-01",
+        "value": 600767
+      },
+      {
+        "date": "2026-09-02",
+        "value": 601239
+      },
+      {
+        "date": "2026-09-03",
+        "value": 597556
+      },
+      {
+        "date": "2026-09-04",
+        "value": 601066
+      },
+      {
+        "date": "2026-09-05",
+        "value": 604920
+      },
+      {
+        "date": "2026-09-06",
+        "value": 609803
+      },
+      {
+        "date": "2026-09-07",
+        "value": 610118
+      },
+      {
+        "date": "2026-09-08",
+        "value": 607456
+      }
+    ],
+    "engagementSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 8179
+      },
+      {
+        "date": "2026-08-11",
+        "value": 8123
+      },
+      {
+        "date": "2026-08-12",
+        "value": 8292
+      },
+      {
+        "date": "2026-08-13",
+        "value": 8551
+      },
+      {
+        "date": "2026-08-14",
+        "value": 8412
+      },
+      {
+        "date": "2026-08-15",
+        "value": 8180
+      },
+      {
+        "date": "2026-08-16",
+        "value": 8465
+      },
+      {
+        "date": "2026-08-17",
+        "value": 8530
+      },
+      {
+        "date": "2026-08-18",
+        "value": 8287
+      },
+      {
+        "date": "2026-08-19",
+        "value": 8464
+      },
+      {
+        "date": "2026-08-20",
+        "value": 8174
+      },
+      {
+        "date": "2026-08-21",
+        "value": 8022
+      },
+      {
+        "date": "2026-08-22",
+        "value": 7911
+      },
+      {
+        "date": "2026-08-23",
+        "value": 7700
+      },
+      {
+        "date": "2026-08-24",
+        "value": 7587
+      },
+      {
+        "date": "2026-08-25",
+        "value": 7768
+      },
+      {
+        "date": "2026-08-26",
+        "value": 7578
+      },
+      {
+        "date": "2026-08-27",
+        "value": 7790
+      },
+      {
+        "date": "2026-08-28",
+        "value": 7920
+      },
+      {
+        "date": "2026-08-29",
+        "value": 7981
+      },
+      {
+        "date": "2026-08-30",
+        "value": 7815
+      },
+      {
+        "date": "2026-08-31",
+        "value": 7814
+      },
+      {
+        "date": "2026-09-01",
+        "value": 7985
+      },
+      {
+        "date": "2026-09-02",
+        "value": 8222
+      },
+      {
+        "date": "2026-09-03",
+        "value": 8304
+      },
+      {
+        "date": "2026-09-04",
+        "value": 8174
+      },
+      {
+        "date": "2026-09-05",
+        "value": 8061
+      },
+      {
+        "date": "2026-09-06",
+        "value": 8338
+      },
+      {
+        "date": "2026-09-07",
+        "value": 8243
+      },
+      {
+        "date": "2026-09-08",
+        "value": 8045
+      }
+    ],
+    "bio": "Finance creator sharing insights on hiring and remote work tools."
+  },
+  {
+    "id": "inf-28",
+    "name": "Ethan Verma",
+    "handle": "@ethanlabs27",
+    "category": "Productivity",
+    "platform": "X",
+    "location": "Delhi NCR",
+    "followers": 65722,
+    "followerGrowth": -2,
+    "engagementRate": 2.6,
+    "sentiment": 86,
+    "influenceScore": 49,
+    "trending": false,
+    "topContentCategory": "Tutorial",
+    "followerSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 104873
+      },
+      {
+        "date": "2026-08-11",
+        "value": 104255
+      },
+      {
+        "date": "2026-08-12",
+        "value": 104683
+      },
+      {
+        "date": "2026-08-13",
+        "value": 104422
+      },
+      {
+        "date": "2026-08-14",
+        "value": 104207
+      },
+      {
+        "date": "2026-08-15",
+        "value": 104225
+      },
+      {
+        "date": "2026-08-16",
+        "value": 104470
+      },
+      {
+        "date": "2026-08-17",
+        "value": 104148
+      },
+      {
+        "date": "2026-08-18",
+        "value": 104263
+      },
+      {
+        "date": "2026-08-19",
+        "value": 104482
+      },
+      {
+        "date": "2026-08-20",
+        "value": 104874
+      },
+      {
+        "date": "2026-08-21",
+        "value": 104880
+      },
+      {
+        "date": "2026-08-22",
+        "value": 104565
+      },
+      {
+        "date": "2026-08-23",
+        "value": 105029
+      },
+      {
+        "date": "2026-08-24",
+        "value": 104389
+      },
+      {
+        "date": "2026-08-25",
+        "value": 103885
+      },
+      {
+        "date": "2026-08-26",
+        "value": 104263
+      },
+      {
+        "date": "2026-08-27",
+        "value": 104086
+      },
+      {
+        "date": "2026-08-28",
+        "value": 104000
+      },
+      {
+        "date": "2026-08-29",
+        "value": 104335
+      },
+      {
+        "date": "2026-08-30",
+        "value": 104755
+      },
+      {
+        "date": "2026-08-31",
+        "value": 104709
+      },
+      {
+        "date": "2026-09-01",
+        "value": 104864
+      },
+      {
+        "date": "2026-09-02",
+        "value": 104731
+      },
+      {
+        "date": "2026-09-03",
+        "value": 104403
+      },
+      {
+        "date": "2026-09-04",
+        "value": 103944
+      },
+      {
+        "date": "2026-09-05",
+        "value": 104567
+      },
+      {
+        "date": "2026-09-06",
+        "value": 103935
+      },
+      {
+        "date": "2026-09-07",
+        "value": 103378
+      },
+      {
+        "date": "2026-09-08",
+        "value": 104006
+      }
+    ],
+    "engagementSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 3134
+      },
+      {
+        "date": "2026-08-11",
+        "value": 3276
+      },
+      {
+        "date": "2026-08-12",
+        "value": 3073
+      },
+      {
+        "date": "2026-08-13",
+        "value": 3082
+      },
+      {
+        "date": "2026-08-14",
+        "value": 2915
+      },
+      {
+        "date": "2026-08-15",
+        "value": 3111
+      },
+      {
+        "date": "2026-08-16",
+        "value": 3394
+      },
+      {
+        "date": "2026-08-17",
+        "value": 3437
+      },
+      {
+        "date": "2026-08-18",
+        "value": 3668
+      },
+      {
+        "date": "2026-08-19",
+        "value": 3764
+      },
+      {
+        "date": "2026-08-20",
+        "value": 3710
+      },
+      {
+        "date": "2026-08-21",
+        "value": 4004
+      },
+      {
+        "date": "2026-08-22",
+        "value": 4204
+      },
+      {
+        "date": "2026-08-23",
+        "value": 4021
+      },
+      {
+        "date": "2026-08-24",
+        "value": 3981
+      },
+      {
+        "date": "2026-08-25",
+        "value": 4106
+      },
+      {
+        "date": "2026-08-26",
+        "value": 4330
+      },
+      {
+        "date": "2026-08-27",
+        "value": 4308
+      },
+      {
+        "date": "2026-08-28",
+        "value": 4202
+      },
+      {
+        "date": "2026-08-29",
+        "value": 3964
+      },
+      {
+        "date": "2026-08-30",
+        "value": 3982
+      },
+      {
+        "date": "2026-08-31",
+        "value": 4184
+      },
+      {
+        "date": "2026-09-01",
+        "value": 4307
+      },
+      {
+        "date": "2026-09-02",
+        "value": 4280
+      },
+      {
+        "date": "2026-09-03",
+        "value": 4348
+      },
+      {
+        "date": "2026-09-04",
+        "value": 4318
+      },
+      {
+        "date": "2026-09-05",
+        "value": 4184
+      },
+      {
+        "date": "2026-09-06",
+        "value": 4193
+      },
+      {
+        "date": "2026-09-07",
+        "value": 4126
+      },
+      {
+        "date": "2026-09-08",
+        "value": 4340
+      }
+    ],
+    "bio": "Productivity creator sharing insights on pricing and pricing."
+  },
+  {
+    "id": "inf-29",
+    "name": "Elena Khan",
+    "handle": "@elenaai28",
+    "category": "Design",
+    "platform": "Instagram",
+    "location": "New York",
+    "followers": 323877,
+    "followerGrowth": 0.5,
+    "engagementRate": 4.1,
+    "sentiment": 57,
+    "influenceScore": 69,
+    "trending": false,
+    "topContentCategory": "Tutorial",
+    "followerSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 274168
+      },
+      {
+        "date": "2026-08-11",
+        "value": 276206
+      },
+      {
+        "date": "2026-08-12",
+        "value": 273291
+      },
+      {
+        "date": "2026-08-13",
+        "value": 275526
+      },
+      {
+        "date": "2026-08-14",
+        "value": 275503
+      },
+      {
+        "date": "2026-08-15",
+        "value": 275123
+      },
+      {
+        "date": "2026-08-16",
+        "value": 277133
+      },
+      {
+        "date": "2026-08-17",
+        "value": 279952
+      },
+      {
+        "date": "2026-08-18",
+        "value": 281956
+      },
+      {
+        "date": "2026-08-19",
+        "value": 282866
+      },
+      {
+        "date": "2026-08-20",
+        "value": 282068
+      },
+      {
+        "date": "2026-08-21",
+        "value": 279532
+      },
+      {
+        "date": "2026-08-22",
+        "value": 278999
+      },
+      {
+        "date": "2026-08-23",
+        "value": 276715
+      },
+      {
+        "date": "2026-08-24",
+        "value": 276328
+      },
+      {
+        "date": "2026-08-25",
+        "value": 274934
+      },
+      {
+        "date": "2026-08-26",
+        "value": 276433
+      },
+      {
+        "date": "2026-08-27",
+        "value": 279505
+      },
+      {
+        "date": "2026-08-28",
+        "value": 276456
+      },
+      {
+        "date": "2026-08-29",
+        "value": 279602
+      },
+      {
+        "date": "2026-08-30",
+        "value": 282539
+      },
+      {
+        "date": "2026-08-31",
+        "value": 280831
+      },
+      {
+        "date": "2026-09-01",
+        "value": 280469
+      },
+      {
+        "date": "2026-09-02",
+        "value": 280320
+      },
+      {
+        "date": "2026-09-03",
+        "value": 278635
+      },
+      {
+        "date": "2026-09-04",
+        "value": 281046
+      },
+      {
+        "date": "2026-09-05",
+        "value": 284162
+      },
+      {
+        "date": "2026-09-06",
+        "value": 284268
+      },
+      {
+        "date": "2026-09-07",
+        "value": 281651
+      },
+      {
+        "date": "2026-09-08",
+        "value": 280320
+      }
+    ],
+    "engagementSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 11954
+      },
+      {
+        "date": "2026-08-11",
+        "value": 12072
+      },
+      {
+        "date": "2026-08-12",
+        "value": 11876
+      },
+      {
+        "date": "2026-08-13",
+        "value": 11971
+      },
+      {
+        "date": "2026-08-14",
+        "value": 11824
+      },
+      {
+        "date": "2026-08-15",
+        "value": 11681
+      },
+      {
+        "date": "2026-08-16",
+        "value": 11660
+      },
+      {
+        "date": "2026-08-17",
+        "value": 11388
+      },
+      {
+        "date": "2026-08-18",
+        "value": 11200
+      },
+      {
+        "date": "2026-08-19",
+        "value": 11474
+      },
+      {
+        "date": "2026-08-20",
+        "value": 11653
+      },
+      {
+        "date": "2026-08-21",
+        "value": 11660
+      },
+      {
+        "date": "2026-08-22",
+        "value": 11937
+      },
+      {
+        "date": "2026-08-23",
+        "value": 12224
+      },
+      {
+        "date": "2026-08-24",
+        "value": 12089
+      },
+      {
+        "date": "2026-08-25",
+        "value": 12251
+      },
+      {
+        "date": "2026-08-26",
+        "value": 12366
+      },
+      {
+        "date": "2026-08-27",
+        "value": 12618
+      },
+      {
+        "date": "2026-08-28",
+        "value": 12517
+      },
+      {
+        "date": "2026-08-29",
+        "value": 12368
+      },
+      {
+        "date": "2026-08-30",
+        "value": 12502
+      },
+      {
+        "date": "2026-08-31",
+        "value": 12378
+      },
+      {
+        "date": "2026-09-01",
+        "value": 12315
+      },
+      {
+        "date": "2026-09-02",
+        "value": 12275
+      },
+      {
+        "date": "2026-09-03",
+        "value": 12053
+      },
+      {
+        "date": "2026-09-04",
+        "value": 12087
+      },
+      {
+        "date": "2026-09-05",
+        "value": 12097
+      },
+      {
+        "date": "2026-09-06",
+        "value": 12091
+      },
+      {
+        "date": "2026-09-07",
+        "value": 12024
+      },
+      {
+        "date": "2026-09-08",
+        "value": 12173
+      }
+    ],
+    "bio": "Design creator sharing insights on mlops and product features."
+  },
+  {
+    "id": "inf-30",
+    "name": "Nikhil Bansal",
+    "handle": "@nikhil29",
+    "category": "Tech",
+    "platform": "TikTok",
+    "location": "Bengaluru",
+    "followers": 189375,
+    "followerGrowth": 6.5,
+    "engagementRate": 5.3,
+    "sentiment": 86,
+    "influenceScore": 73,
+    "trending": false,
+    "topContentCategory": "Tutorial",
+    "followerSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 1
+      },
+      {
+        "date": "2026-08-11",
+        "value": 1
+      },
+      {
+        "date": "2026-08-12",
+        "value": 1
+      },
+      {
+        "date": "2026-08-13",
+        "value": 1
+      },
+      {
+        "date": "2026-08-14",
+        "value": 446
+      },
+      {
+        "date": "2026-08-15",
+        "value": 1
+      },
+      {
+        "date": "2026-08-16",
+        "value": 1134
+      },
+      {
+        "date": "2026-08-17",
+        "value": 1807
+      },
+      {
+        "date": "2026-08-18",
+        "value": 589
+      },
+      {
+        "date": "2026-08-19",
+        "value": 1930
+      },
+      {
+        "date": "2026-08-20",
+        "value": 829
+      },
+      {
+        "date": "2026-08-21",
+        "value": 636
+      },
+      {
+        "date": "2026-08-22",
+        "value": 1339
+      },
+      {
+        "date": "2026-08-23",
+        "value": 890
+      },
+      {
+        "date": "2026-08-24",
+        "value": 70
+      },
+      {
+        "date": "2026-08-25",
+        "value": 855
+      },
+      {
+        "date": "2026-08-26",
+        "value": 1
+      },
+      {
+        "date": "2026-08-27",
+        "value": 1
+      },
+      {
+        "date": "2026-08-28",
+        "value": 33
+      },
+      {
+        "date": "2026-08-29",
+        "value": 1
+      },
+      {
+        "date": "2026-08-30",
+        "value": 1
+      },
+      {
+        "date": "2026-08-31",
+        "value": 1396
+      },
+      {
+        "date": "2026-09-01",
+        "value": 454
+      },
+      {
+        "date": "2026-09-02",
+        "value": 1566
+      },
+      {
+        "date": "2026-09-03",
+        "value": 1554
+      },
+      {
+        "date": "2026-09-04",
+        "value": 185
+      },
+      {
+        "date": "2026-09-05",
+        "value": 921
+      },
+      {
+        "date": "2026-09-06",
+        "value": 1
+      },
+      {
+        "date": "2026-09-07",
+        "value": 945
+      },
+      {
+        "date": "2026-09-08",
+        "value": 906
+      }
+    ],
+    "engagementSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 3100
+      },
+      {
+        "date": "2026-08-11",
+        "value": 3048
+      },
+      {
+        "date": "2026-08-12",
+        "value": 3184
+      },
+      {
+        "date": "2026-08-13",
+        "value": 3099
+      },
+      {
+        "date": "2026-08-14",
+        "value": 2836
+      },
+      {
+        "date": "2026-08-15",
+        "value": 2961
+      },
+      {
+        "date": "2026-08-16",
+        "value": 3027
+      },
+      {
+        "date": "2026-08-17",
+        "value": 3244
+      },
+      {
+        "date": "2026-08-18",
+        "value": 2995
+      },
+      {
+        "date": "2026-08-19",
+        "value": 2713
+      },
+      {
+        "date": "2026-08-20",
+        "value": 2930
+      },
+      {
+        "date": "2026-08-21",
+        "value": 3177
+      },
+      {
+        "date": "2026-08-22",
+        "value": 3398
+      },
+      {
+        "date": "2026-08-23",
+        "value": 3535
+      },
+      {
+        "date": "2026-08-24",
+        "value": 3635
+      },
+      {
+        "date": "2026-08-25",
+        "value": 3605
+      },
+      {
+        "date": "2026-08-26",
+        "value": 3771
+      },
+      {
+        "date": "2026-08-27",
+        "value": 3510
+      },
+      {
+        "date": "2026-08-28",
+        "value": 3428
+      },
+      {
+        "date": "2026-08-29",
+        "value": 3626
+      },
+      {
+        "date": "2026-08-30",
+        "value": 3435
+      },
+      {
+        "date": "2026-08-31",
+        "value": 3192
+      },
+      {
+        "date": "2026-09-01",
+        "value": 3171
+      },
+      {
+        "date": "2026-09-02",
+        "value": 3391
+      },
+      {
+        "date": "2026-09-03",
+        "value": 3360
+      },
+      {
+        "date": "2026-09-04",
+        "value": 3417
+      },
+      {
+        "date": "2026-09-05",
+        "value": 3145
+      },
+      {
+        "date": "2026-09-06",
+        "value": 2849
+      },
+      {
+        "date": "2026-09-07",
+        "value": 3024
+      },
+      {
+        "date": "2026-09-08",
+        "value": 2892
+      }
+    ],
+    "bio": "Tech creator sharing insights on low-code and hiring."
+  },
+  {
+    "id": "inf-31",
+    "name": "Rahul Das",
+    "handle": "@rahulai30",
+    "category": "Marketing",
+    "platform": "X",
+    "location": "Berlin",
+    "followers": 229833,
+    "followerGrowth": 19.2,
+    "engagementRate": 3.9,
+    "sentiment": 86,
+    "influenceScore": 86,
+    "trending": false,
+    "topContentCategory": "Promotional",
+    "followerSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 1
+      },
+      {
+        "date": "2026-08-11",
+        "value": 822
+      },
+      {
+        "date": "2026-08-12",
+        "value": 1974
+      },
+      {
+        "date": "2026-08-13",
+        "value": 3279
+      },
+      {
+        "date": "2026-08-14",
+        "value": 3576
+      },
+      {
+        "date": "2026-08-15",
+        "value": 1303
+      },
+      {
+        "date": "2026-08-16",
+        "value": 1
+      },
+      {
+        "date": "2026-08-17",
+        "value": 1
+      },
+      {
+        "date": "2026-08-18",
+        "value": 1199
+      },
+      {
+        "date": "2026-08-19",
+        "value": 1
+      },
+      {
+        "date": "2026-08-20",
+        "value": 1007
+      },
+      {
+        "date": "2026-08-21",
+        "value": 2197
+      },
+      {
+        "date": "2026-08-22",
+        "value": 2606
+      },
+      {
+        "date": "2026-08-23",
+        "value": 2817
+      },
+      {
+        "date": "2026-08-24",
+        "value": 4416
+      },
+      {
+        "date": "2026-08-25",
+        "value": 3756
+      },
+      {
+        "date": "2026-08-26",
+        "value": 4827
+      },
+      {
+        "date": "2026-08-27",
+        "value": 6945
+      },
+      {
+        "date": "2026-08-28",
+        "value": 6934
+      },
+      {
+        "date": "2026-08-29",
+        "value": 7231
+      },
+      {
+        "date": "2026-08-30",
+        "value": 8976
+      },
+      {
+        "date": "2026-08-31",
+        "value": 10740
+      },
+      {
+        "date": "2026-09-01",
+        "value": 8848
+      },
+      {
+        "date": "2026-09-02",
+        "value": 8003
+      },
+      {
+        "date": "2026-09-03",
+        "value": 6068
+      },
+      {
+        "date": "2026-09-04",
+        "value": 7358
+      },
+      {
+        "date": "2026-09-05",
+        "value": 6241
+      },
+      {
+        "date": "2026-09-06",
+        "value": 7546
+      },
+      {
+        "date": "2026-09-07",
+        "value": 9718
+      },
+      {
+        "date": "2026-09-08",
+        "value": 9701
+      }
+    ],
+    "engagementSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 5692
+      },
+      {
+        "date": "2026-08-11",
+        "value": 5431
+      },
+      {
+        "date": "2026-08-12",
+        "value": 5294
+      },
+      {
+        "date": "2026-08-13",
+        "value": 5509
+      },
+      {
+        "date": "2026-08-14",
+        "value": 5582
+      },
+      {
+        "date": "2026-08-15",
+        "value": 5661
+      },
+      {
+        "date": "2026-08-16",
+        "value": 5758
+      },
+      {
+        "date": "2026-08-17",
+        "value": 5505
+      },
+      {
+        "date": "2026-08-18",
+        "value": 5788
+      },
+      {
+        "date": "2026-08-19",
+        "value": 5618
+      },
+      {
+        "date": "2026-08-20",
+        "value": 5523
+      },
+      {
+        "date": "2026-08-21",
+        "value": 5805
+      },
+      {
+        "date": "2026-08-22",
+        "value": 5787
+      },
+      {
+        "date": "2026-08-23",
+        "value": 5573
+      },
+      {
+        "date": "2026-08-24",
+        "value": 5810
+      },
+      {
+        "date": "2026-08-25",
+        "value": 6091
+      },
+      {
+        "date": "2026-08-26",
+        "value": 5800
+      },
+      {
+        "date": "2026-08-27",
+        "value": 5934
+      },
+      {
+        "date": "2026-08-28",
+        "value": 6101
+      },
+      {
+        "date": "2026-08-29",
+        "value": 6234
+      },
+      {
+        "date": "2026-08-30",
+        "value": 6489
+      },
+      {
+        "date": "2026-08-31",
+        "value": 6343
+      },
+      {
+        "date": "2026-09-01",
+        "value": 6215
+      },
+      {
+        "date": "2026-09-02",
+        "value": 6482
+      },
+      {
+        "date": "2026-09-03",
+        "value": 6514
+      },
+      {
+        "date": "2026-09-04",
+        "value": 6739
+      },
+      {
+        "date": "2026-09-05",
+        "value": 6507
+      },
+      {
+        "date": "2026-09-06",
+        "value": 6640
+      },
+      {
+        "date": "2026-09-07",
+        "value": 6414
+      },
+      {
+        "date": "2026-09-08",
+        "value": 6559
+      }
+    ],
+    "bio": "Marketing creator sharing insights on product features and open source."
+  },
+  {
+    "id": "inf-32",
+    "name": "Yash Rao",
+    "handle": "@yashai31",
+    "category": "Startups",
+    "platform": "YouTube",
+    "location": "Delhi NCR",
+    "followers": 369016,
+    "followerGrowth": 6.3,
+    "engagementRate": 2.5,
+    "sentiment": 89,
+    "influenceScore": 74,
+    "trending": false,
+    "topContentCategory": "Tutorial",
+    "followerSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 1
+      },
+      {
+        "date": "2026-08-11",
+        "value": 3674
+      },
+      {
+        "date": "2026-08-12",
+        "value": 2588
+      },
+      {
+        "date": "2026-08-13",
+        "value": 2396
+      },
+      {
+        "date": "2026-08-14",
+        "value": 195
+      },
+      {
+        "date": "2026-08-15",
+        "value": 1
+      },
+      {
+        "date": "2026-08-16",
+        "value": 1
+      },
+      {
+        "date": "2026-08-17",
+        "value": 367
+      },
+      {
+        "date": "2026-08-18",
+        "value": 1
+      },
+      {
+        "date": "2026-08-19",
+        "value": 1
+      },
+      {
+        "date": "2026-08-20",
+        "value": 1
+      },
+      {
+        "date": "2026-08-21",
+        "value": 1
+      },
+      {
+        "date": "2026-08-22",
+        "value": 762
+      },
+      {
+        "date": "2026-08-23",
+        "value": 2323
+      },
+      {
+        "date": "2026-08-24",
+        "value": 5662
+      },
+      {
+        "date": "2026-08-25",
+        "value": 9052
+      },
+      {
+        "date": "2026-08-26",
+        "value": 11704
+      },
+      {
+        "date": "2026-08-27",
+        "value": 9538
+      },
+      {
+        "date": "2026-08-28",
+        "value": 7349
+      },
+      {
+        "date": "2026-08-29",
+        "value": 9229
+      },
+      {
+        "date": "2026-08-30",
+        "value": 7855
+      },
+      {
+        "date": "2026-08-31",
+        "value": 8792
+      },
+      {
+        "date": "2026-09-01",
+        "value": 8003
+      },
+      {
+        "date": "2026-09-02",
+        "value": 11024
+      },
+      {
+        "date": "2026-09-03",
+        "value": 9512
+      },
+      {
+        "date": "2026-09-04",
+        "value": 11746
+      },
+      {
+        "date": "2026-09-05",
+        "value": 9611
+      },
+      {
+        "date": "2026-09-06",
+        "value": 7843
+      },
+      {
+        "date": "2026-09-07",
+        "value": 10747
+      },
+      {
+        "date": "2026-09-08",
+        "value": 8629
+      }
+    ],
+    "engagementSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 8493
+      },
+      {
+        "date": "2026-08-11",
+        "value": 8692
+      },
+      {
+        "date": "2026-08-12",
+        "value": 8396
+      },
+      {
+        "date": "2026-08-13",
+        "value": 8302
+      },
+      {
+        "date": "2026-08-14",
+        "value": 8172
+      },
+      {
+        "date": "2026-08-15",
+        "value": 8151
+      },
+      {
+        "date": "2026-08-16",
+        "value": 8141
+      },
+      {
+        "date": "2026-08-17",
+        "value": 8162
+      },
+      {
+        "date": "2026-08-18",
+        "value": 8380
+      },
+      {
+        "date": "2026-08-19",
+        "value": 8400
+      },
+      {
+        "date": "2026-08-20",
+        "value": 8404
+      },
+      {
+        "date": "2026-08-21",
+        "value": 8273
+      },
+      {
+        "date": "2026-08-22",
+        "value": 8064
+      },
+      {
+        "date": "2026-08-23",
+        "value": 7772
+      },
+      {
+        "date": "2026-08-24",
+        "value": 7941
+      },
+      {
+        "date": "2026-08-25",
+        "value": 8170
+      },
+      {
+        "date": "2026-08-26",
+        "value": 7959
+      },
+      {
+        "date": "2026-08-27",
+        "value": 7755
+      },
+      {
+        "date": "2026-08-28",
+        "value": 7550
+      },
+      {
+        "date": "2026-08-29",
+        "value": 7765
+      },
+      {
+        "date": "2026-08-30",
+        "value": 7776
+      },
+      {
+        "date": "2026-08-31",
+        "value": 7535
+      },
+      {
+        "date": "2026-09-01",
+        "value": 7550
+      },
+      {
+        "date": "2026-09-02",
+        "value": 7734
+      },
+      {
+        "date": "2026-09-03",
+        "value": 7773
+      },
+      {
+        "date": "2026-09-04",
+        "value": 8023
+      },
+      {
+        "date": "2026-09-05",
+        "value": 8231
+      },
+      {
+        "date": "2026-09-06",
+        "value": 8242
+      },
+      {
+        "date": "2026-09-07",
+        "value": 8229
+      },
+      {
+        "date": "2026-09-08",
+        "value": 8070
+      }
+    ],
+    "bio": "Startups creator sharing insights on generative ai and web3."
+  },
+  {
+    "id": "inf-33",
+    "name": "Rahul Khan",
+    "handle": "@rahullabs32",
+    "category": "Productivity",
+    "platform": "X",
+    "location": "Berlin",
+    "followers": 269850,
+    "followerGrowth": 1.7,
+    "engagementRate": 5.1,
+    "sentiment": 84,
+    "influenceScore": 71,
+    "trending": false,
+    "topContentCategory": "Opinion",
+    "followerSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 134659
+      },
+      {
+        "date": "2026-08-11",
+        "value": 132071
+      },
+      {
+        "date": "2026-08-12",
+        "value": 134145
+      },
+      {
+        "date": "2026-08-13",
+        "value": 134533
+      },
+      {
+        "date": "2026-08-14",
+        "value": 132272
+      },
+      {
+        "date": "2026-08-15",
+        "value": 132617
+      },
+      {
+        "date": "2026-08-16",
+        "value": 133728
+      },
+      {
+        "date": "2026-08-17",
+        "value": 133051
+      },
+      {
+        "date": "2026-08-18",
+        "value": 134053
+      },
+      {
+        "date": "2026-08-19",
+        "value": 131584
+      },
+      {
+        "date": "2026-08-20",
+        "value": 131743
+      },
+      {
+        "date": "2026-08-21",
+        "value": 129157
+      },
+      {
+        "date": "2026-08-22",
+        "value": 127640
+      },
+      {
+        "date": "2026-08-23",
+        "value": 128158
+      },
+      {
+        "date": "2026-08-24",
+        "value": 129741
+      },
+      {
+        "date": "2026-08-25",
+        "value": 129875
+      },
+      {
+        "date": "2026-08-26",
+        "value": 129439
+      },
+      {
+        "date": "2026-08-27",
+        "value": 130616
+      },
+      {
+        "date": "2026-08-28",
+        "value": 131520
+      },
+      {
+        "date": "2026-08-29",
+        "value": 134080
+      },
+      {
+        "date": "2026-08-30",
+        "value": 135468
+      },
+      {
+        "date": "2026-08-31",
+        "value": 135631
+      },
+      {
+        "date": "2026-09-01",
+        "value": 133677
+      },
+      {
+        "date": "2026-09-02",
+        "value": 131197
+      },
+      {
+        "date": "2026-09-03",
+        "value": 132417
+      },
+      {
+        "date": "2026-09-04",
+        "value": 132116
+      },
+      {
+        "date": "2026-09-05",
+        "value": 133072
+      },
+      {
+        "date": "2026-09-06",
+        "value": 134740
+      },
+      {
+        "date": "2026-09-07",
+        "value": 135412
+      },
+      {
+        "date": "2026-09-08",
+        "value": 137444
+      }
+    ],
+    "engagementSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 6922
+      },
+      {
+        "date": "2026-08-11",
+        "value": 6629
+      },
+      {
+        "date": "2026-08-12",
+        "value": 6691
+      },
+      {
+        "date": "2026-08-13",
+        "value": 6636
+      },
+      {
+        "date": "2026-08-14",
+        "value": 6582
+      },
+      {
+        "date": "2026-08-15",
+        "value": 6291
+      },
+      {
+        "date": "2026-08-16",
+        "value": 6579
+      },
+      {
+        "date": "2026-08-17",
+        "value": 6863
+      },
+      {
+        "date": "2026-08-18",
+        "value": 7030
+      },
+      {
+        "date": "2026-08-19",
+        "value": 6991
+      },
+      {
+        "date": "2026-08-20",
+        "value": 7190
+      },
+      {
+        "date": "2026-08-21",
+        "value": 6979
+      },
+      {
+        "date": "2026-08-22",
+        "value": 7057
+      },
+      {
+        "date": "2026-08-23",
+        "value": 7321
+      },
+      {
+        "date": "2026-08-24",
+        "value": 7410
+      },
+      {
+        "date": "2026-08-25",
+        "value": 7237
+      },
+      {
+        "date": "2026-08-26",
+        "value": 7327
+      },
+      {
+        "date": "2026-08-27",
+        "value": 7280
+      },
+      {
+        "date": "2026-08-28",
+        "value": 6986
+      },
+      {
+        "date": "2026-08-29",
+        "value": 6935
+      },
+      {
+        "date": "2026-08-30",
+        "value": 6663
+      },
+      {
+        "date": "2026-08-31",
+        "value": 6378
+      },
+      {
+        "date": "2026-09-01",
+        "value": 6590
+      },
+      {
+        "date": "2026-09-02",
+        "value": 6394
+      },
+      {
+        "date": "2026-09-03",
+        "value": 6097
+      },
+      {
+        "date": "2026-09-04",
+        "value": 6152
+      },
+      {
+        "date": "2026-09-05",
+        "value": 5886
+      },
+      {
+        "date": "2026-09-06",
+        "value": 5661
+      },
+      {
+        "date": "2026-09-07",
+        "value": 5551
+      },
+      {
+        "date": "2026-09-08",
+        "value": 5322
+      }
+    ],
+    "bio": "Productivity creator sharing insights on data privacy and web3."
+  },
+  {
+    "id": "inf-34",
+    "name": "Sameer Iyer",
+    "handle": "@sameer33",
+    "category": "Design",
+    "platform": "X",
+    "location": "Pune",
+    "followers": 70376,
+    "followerGrowth": 4.3,
+    "engagementRate": 9.1,
+    "sentiment": 91,
+    "influenceScore": 76,
+    "trending": false,
+    "topContentCategory": "Tutorial",
+    "followerSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 1
+      },
+      {
+        "date": "2026-08-11",
+        "value": 492
+      },
+      {
+        "date": "2026-08-12",
+        "value": 1
+      },
+      {
+        "date": "2026-08-13",
+        "value": 309
+      },
+      {
+        "date": "2026-08-14",
+        "value": 480
+      },
+      {
+        "date": "2026-08-15",
+        "value": 1
+      },
+      {
+        "date": "2026-08-16",
+        "value": 53
+      },
+      {
+        "date": "2026-08-17",
+        "value": 1
+      },
+      {
+        "date": "2026-08-18",
+        "value": 1
+      },
+      {
+        "date": "2026-08-19",
+        "value": 260
+      },
+      {
+        "date": "2026-08-20",
+        "value": 266
+      },
+      {
+        "date": "2026-08-21",
+        "value": 1
+      },
+      {
+        "date": "2026-08-22",
+        "value": 1
+      },
+      {
+        "date": "2026-08-23",
+        "value": 117
+      },
+      {
+        "date": "2026-08-24",
+        "value": 1
+      },
+      {
+        "date": "2026-08-25",
+        "value": 1
+      },
+      {
+        "date": "2026-08-26",
+        "value": 82
+      },
+      {
+        "date": "2026-08-27",
+        "value": 169
+      },
+      {
+        "date": "2026-08-28",
+        "value": 1
+      },
+      {
+        "date": "2026-08-29",
+        "value": 254
+      },
+      {
+        "date": "2026-08-30",
+        "value": 54
+      },
+      {
+        "date": "2026-08-31",
+        "value": 1
+      },
+      {
+        "date": "2026-09-01",
+        "value": 456
+      },
+      {
+        "date": "2026-09-02",
+        "value": 489
+      },
+      {
+        "date": "2026-09-03",
+        "value": 931
+      },
+      {
+        "date": "2026-09-04",
+        "value": 286
+      },
+      {
+        "date": "2026-09-05",
+        "value": 1
+      },
+      {
+        "date": "2026-09-06",
+        "value": 203
+      },
+      {
+        "date": "2026-09-07",
+        "value": 801
+      },
+      {
+        "date": "2026-09-08",
+        "value": 176
+      }
+    ],
+    "engagementSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 2103
+      },
+      {
+        "date": "2026-08-11",
+        "value": 2222
+      },
+      {
+        "date": "2026-08-12",
+        "value": 2389
+      },
+      {
+        "date": "2026-08-13",
+        "value": 2147
+      },
+      {
+        "date": "2026-08-14",
+        "value": 1879
+      },
+      {
+        "date": "2026-08-15",
+        "value": 1651
+      },
+      {
+        "date": "2026-08-16",
+        "value": 1871
+      },
+      {
+        "date": "2026-08-17",
+        "value": 1816
+      },
+      {
+        "date": "2026-08-18",
+        "value": 1936
+      },
+      {
+        "date": "2026-08-19",
+        "value": 1686
+      },
+      {
+        "date": "2026-08-20",
+        "value": 1513
+      },
+      {
+        "date": "2026-08-21",
+        "value": 1751
+      },
+      {
+        "date": "2026-08-22",
+        "value": 1660
+      },
+      {
+        "date": "2026-08-23",
+        "value": 1901
+      },
+      {
+        "date": "2026-08-24",
+        "value": 2016
+      },
+      {
+        "date": "2026-08-25",
+        "value": 2230
+      },
+      {
+        "date": "2026-08-26",
+        "value": 2453
+      },
+      {
+        "date": "2026-08-27",
+        "value": 2383
+      },
+      {
+        "date": "2026-08-28",
+        "value": 2496
+      },
+      {
+        "date": "2026-08-29",
+        "value": 2419
+      },
+      {
+        "date": "2026-08-30",
+        "value": 2545
+      },
+      {
+        "date": "2026-08-31",
+        "value": 2606
+      },
+      {
+        "date": "2026-09-01",
+        "value": 2810
+      },
+      {
+        "date": "2026-09-02",
+        "value": 2993
+      },
+      {
+        "date": "2026-09-03",
+        "value": 2894
+      },
+      {
+        "date": "2026-09-04",
+        "value": 3122
+      },
+      {
+        "date": "2026-09-05",
+        "value": 3289
+      },
+      {
+        "date": "2026-09-06",
+        "value": 3081
+      },
+      {
+        "date": "2026-09-07",
+        "value": 3137
+      },
+      {
+        "date": "2026-09-08",
+        "value": 2885
+      }
+    ],
+    "bio": "Design creator sharing insights on cybersecurity and sustainability tech."
+  },
+  {
+    "id": "inf-35",
+    "name": "Karan Sharma",
+    "handle": "@karantech34",
+    "category": "Productivity",
+    "platform": "TikTok",
+    "location": "Toronto",
+    "followers": 358168,
+    "followerGrowth": 7.9,
+    "engagementRate": 2.8,
+    "sentiment": 50,
+    "influenceScore": 76,
+    "trending": false,
+    "topContentCategory": "Product Launch",
+    "followerSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 1
+      },
+      {
+        "date": "2026-08-11",
+        "value": 1
+      },
+      {
+        "date": "2026-08-12",
+        "value": 1
+      },
+      {
+        "date": "2026-08-13",
+        "value": 2686
+      },
+      {
+        "date": "2026-08-14",
+        "value": 2860
+      },
+      {
+        "date": "2026-08-15",
+        "value": 385
+      },
+      {
+        "date": "2026-08-16",
+        "value": 1
+      },
+      {
+        "date": "2026-08-17",
+        "value": 1
+      },
+      {
+        "date": "2026-08-18",
+        "value": 3310
+      },
+      {
+        "date": "2026-08-19",
+        "value": 1
+      },
+      {
+        "date": "2026-08-20",
+        "value": 3095
+      },
+      {
+        "date": "2026-08-21",
+        "value": 2905
+      },
+      {
+        "date": "2026-08-22",
+        "value": 4998
+      },
+      {
+        "date": "2026-08-23",
+        "value": 7701
+      },
+      {
+        "date": "2026-08-24",
+        "value": 4942
+      },
+      {
+        "date": "2026-08-25",
+        "value": 4713
+      },
+      {
+        "date": "2026-08-26",
+        "value": 2954
+      },
+      {
+        "date": "2026-08-27",
+        "value": 6411
+      },
+      {
+        "date": "2026-08-28",
+        "value": 9710
+      },
+      {
+        "date": "2026-08-29",
+        "value": 8592
+      },
+      {
+        "date": "2026-08-30",
+        "value": 6419
+      },
+      {
+        "date": "2026-08-31",
+        "value": 9633
+      },
+      {
+        "date": "2026-09-01",
+        "value": 8622
+      },
+      {
+        "date": "2026-09-02",
+        "value": 5526
+      },
+      {
+        "date": "2026-09-03",
+        "value": 8733
+      },
+      {
+        "date": "2026-09-04",
+        "value": 5817
+      },
+      {
+        "date": "2026-09-05",
+        "value": 5009
+      },
+      {
+        "date": "2026-09-06",
+        "value": 7926
+      },
+      {
+        "date": "2026-09-07",
+        "value": 9188
+      },
+      {
+        "date": "2026-09-08",
+        "value": 5984
+      }
+    ],
+    "engagementSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 5058
+      },
+      {
+        "date": "2026-08-11",
+        "value": 4902
+      },
+      {
+        "date": "2026-08-12",
+        "value": 4829
+      },
+      {
+        "date": "2026-08-13",
+        "value": 4648
+      },
+      {
+        "date": "2026-08-14",
+        "value": 4451
+      },
+      {
+        "date": "2026-08-15",
+        "value": 4525
+      },
+      {
+        "date": "2026-08-16",
+        "value": 4428
+      },
+      {
+        "date": "2026-08-17",
+        "value": 4625
+      },
+      {
+        "date": "2026-08-18",
+        "value": 4744
+      },
+      {
+        "date": "2026-08-19",
+        "value": 4545
+      },
+      {
+        "date": "2026-08-20",
+        "value": 4702
+      },
+      {
+        "date": "2026-08-21",
+        "value": 4506
+      },
+      {
+        "date": "2026-08-22",
+        "value": 4679
+      },
+      {
+        "date": "2026-08-23",
+        "value": 4497
+      },
+      {
+        "date": "2026-08-24",
+        "value": 4425
+      },
+      {
+        "date": "2026-08-25",
+        "value": 4364
+      },
+      {
+        "date": "2026-08-26",
+        "value": 4317
+      },
+      {
+        "date": "2026-08-27",
+        "value": 4392
+      },
+      {
+        "date": "2026-08-28",
+        "value": 4549
+      },
+      {
+        "date": "2026-08-29",
+        "value": 4665
+      },
+      {
+        "date": "2026-08-30",
+        "value": 4740
+      },
+      {
+        "date": "2026-08-31",
+        "value": 4690
+      },
+      {
+        "date": "2026-09-01",
+        "value": 4794
+      },
+      {
+        "date": "2026-09-02",
+        "value": 4805
+      },
+      {
+        "date": "2026-09-03",
+        "value": 4614
+      },
+      {
+        "date": "2026-09-04",
+        "value": 4345
+      },
+      {
+        "date": "2026-09-05",
+        "value": 4071
+      },
+      {
+        "date": "2026-09-06",
+        "value": 4099
+      },
+      {
+        "date": "2026-09-07",
+        "value": 4362
+      },
+      {
+        "date": "2026-09-08",
+        "value": 4376
+      }
+    ],
+    "bio": "Productivity creator sharing insights on low-code and product features."
+  },
+  {
+    "id": "inf-36",
+    "name": "Farhan Gupta",
+    "handle": "@farhantech35",
+    "category": "Marketing",
+    "platform": "TikTok",
+    "location": "London",
+    "followers": 235925,
+    "followerGrowth": 16.3,
+    "engagementRate": 2.6,
+    "sentiment": 85,
+    "influenceScore": 79,
+    "trending": false,
+    "topContentCategory": "Opinion",
+    "followerSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 1
+      },
+      {
+        "date": "2026-08-11",
+        "value": 1
+      },
+      {
+        "date": "2026-08-12",
+        "value": 1
+      },
+      {
+        "date": "2026-08-13",
+        "value": 1
+      },
+      {
+        "date": "2026-08-14",
+        "value": 1
+      },
+      {
+        "date": "2026-08-15",
+        "value": 1
+      },
+      {
+        "date": "2026-08-16",
+        "value": 281
+      },
+      {
+        "date": "2026-08-17",
+        "value": 1
+      },
+      {
+        "date": "2026-08-18",
+        "value": 1752
+      },
+      {
+        "date": "2026-08-19",
+        "value": 3963
+      },
+      {
+        "date": "2026-08-20",
+        "value": 4147
+      },
+      {
+        "date": "2026-08-21",
+        "value": 2904
+      },
+      {
+        "date": "2026-08-22",
+        "value": 5252
+      },
+      {
+        "date": "2026-08-23",
+        "value": 4211
+      },
+      {
+        "date": "2026-08-24",
+        "value": 5260
+      },
+      {
+        "date": "2026-08-25",
+        "value": 7505
+      },
+      {
+        "date": "2026-08-26",
+        "value": 5934
+      },
+      {
+        "date": "2026-08-27",
+        "value": 5639
+      },
+      {
+        "date": "2026-08-28",
+        "value": 7857
+      },
+      {
+        "date": "2026-08-29",
+        "value": 8116
+      },
+      {
+        "date": "2026-08-30",
+        "value": 9673
+      },
+      {
+        "date": "2026-08-31",
+        "value": 10480
+      },
+      {
+        "date": "2026-09-01",
+        "value": 11660
+      },
+      {
+        "date": "2026-09-02",
+        "value": 10540
+      },
+      {
+        "date": "2026-09-03",
+        "value": 10012
+      },
+      {
+        "date": "2026-09-04",
+        "value": 11184
+      },
+      {
+        "date": "2026-09-05",
+        "value": 10790
+      },
+      {
+        "date": "2026-09-06",
+        "value": 13037
+      },
+      {
+        "date": "2026-09-07",
+        "value": 12833
+      },
+      {
+        "date": "2026-09-08",
+        "value": 13011
+      }
+    ],
+    "engagementSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 11228
+      },
+      {
+        "date": "2026-08-11",
+        "value": 11017
+      },
+      {
+        "date": "2026-08-12",
+        "value": 10817
+      },
+      {
+        "date": "2026-08-13",
+        "value": 10743
+      },
+      {
+        "date": "2026-08-14",
+        "value": 11038
+      },
+      {
+        "date": "2026-08-15",
+        "value": 11223
+      },
+      {
+        "date": "2026-08-16",
+        "value": 11423
+      },
+      {
+        "date": "2026-08-17",
+        "value": 11389
+      },
+      {
+        "date": "2026-08-18",
+        "value": 11604
+      },
+      {
+        "date": "2026-08-19",
+        "value": 11753
+      },
+      {
+        "date": "2026-08-20",
+        "value": 11687
+      },
+      {
+        "date": "2026-08-21",
+        "value": 11958
+      },
+      {
+        "date": "2026-08-22",
+        "value": 12255
+      },
+      {
+        "date": "2026-08-23",
+        "value": 12067
+      },
+      {
+        "date": "2026-08-24",
+        "value": 12364
+      },
+      {
+        "date": "2026-08-25",
+        "value": 12387
+      },
+      {
+        "date": "2026-08-26",
+        "value": 12103
+      },
+      {
+        "date": "2026-08-27",
+        "value": 11969
+      },
+      {
+        "date": "2026-08-28",
+        "value": 11697
+      },
+      {
+        "date": "2026-08-29",
+        "value": 11740
+      },
+      {
+        "date": "2026-08-30",
+        "value": 11786
+      },
+      {
+        "date": "2026-08-31",
+        "value": 11593
+      },
+      {
+        "date": "2026-09-01",
+        "value": 11491
+      },
+      {
+        "date": "2026-09-02",
+        "value": 11766
+      },
+      {
+        "date": "2026-09-03",
+        "value": 11922
+      },
+      {
+        "date": "2026-09-04",
+        "value": 11704
+      },
+      {
+        "date": "2026-09-05",
+        "value": 11597
+      },
+      {
+        "date": "2026-09-06",
+        "value": 11442
+      },
+      {
+        "date": "2026-09-07",
+        "value": 11218
+      },
+      {
+        "date": "2026-09-08",
+        "value": 11285
+      }
+    ],
+    "bio": "Marketing creator sharing insights on customer success and product features."
+  },
+  {
+    "id": "inf-37",
+    "name": "Harsh Fernandes",
+    "handle": "@harshlabs36",
+    "category": "Productivity",
+    "platform": "YouTube",
+    "location": "Berlin",
+    "followers": 403321,
+    "followerGrowth": 21.6,
+    "engagementRate": 7.3,
+    "sentiment": 91,
+    "influenceScore": 99,
+    "trending": true,
+    "topContentCategory": "Educational",
+    "followerSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 1
+      },
+      {
+        "date": "2026-08-11",
+        "value": 992
+      },
+      {
+        "date": "2026-08-12",
+        "value": 4781
+      },
+      {
+        "date": "2026-08-13",
+        "value": 6362
+      },
+      {
+        "date": "2026-08-14",
+        "value": 3777
+      },
+      {
+        "date": "2026-08-15",
+        "value": 6829
+      },
+      {
+        "date": "2026-08-16",
+        "value": 4625
+      },
+      {
+        "date": "2026-08-17",
+        "value": 771
+      },
+      {
+        "date": "2026-08-18",
+        "value": 3732
+      },
+      {
+        "date": "2026-08-19",
+        "value": 7019
+      },
+      {
+        "date": "2026-08-20",
+        "value": 4621
+      },
+      {
+        "date": "2026-08-21",
+        "value": 5911
+      },
+      {
+        "date": "2026-08-22",
+        "value": 5990
+      },
+      {
+        "date": "2026-08-23",
+        "value": 2325
+      },
+      {
+        "date": "2026-08-24",
+        "value": 2784
+      },
+      {
+        "date": "2026-08-25",
+        "value": 5692
+      },
+      {
+        "date": "2026-08-26",
+        "value": 2129
+      },
+      {
+        "date": "2026-08-27",
+        "value": 1053
+      },
+      {
+        "date": "2026-08-28",
+        "value": 4081
+      },
+      {
+        "date": "2026-08-29",
+        "value": 6359
+      },
+      {
+        "date": "2026-08-30",
+        "value": 7350
+      },
+      {
+        "date": "2026-08-31",
+        "value": 7065
+      },
+      {
+        "date": "2026-09-01",
+        "value": 11036
+      },
+      {
+        "date": "2026-09-02",
+        "value": 14045
+      },
+      {
+        "date": "2026-09-03",
+        "value": 14304
+      },
+      {
+        "date": "2026-09-04",
+        "value": 18329
+      },
+      {
+        "date": "2026-09-05",
+        "value": 20888
+      },
+      {
+        "date": "2026-09-06",
+        "value": 24454
+      },
+      {
+        "date": "2026-09-07",
+        "value": 20749
+      },
+      {
+        "date": "2026-09-08",
+        "value": 22274
+      }
+    ],
+    "engagementSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 3791
+      },
+      {
+        "date": "2026-08-11",
+        "value": 3493
+      },
+      {
+        "date": "2026-08-12",
+        "value": 3581
+      },
+      {
+        "date": "2026-08-13",
+        "value": 3651
+      },
+      {
+        "date": "2026-08-14",
+        "value": 3535
+      },
+      {
+        "date": "2026-08-15",
+        "value": 3656
+      },
+      {
+        "date": "2026-08-16",
+        "value": 3689
+      },
+      {
+        "date": "2026-08-17",
+        "value": 3874
+      },
+      {
+        "date": "2026-08-18",
+        "value": 4056
+      },
+      {
+        "date": "2026-08-19",
+        "value": 4356
+      },
+      {
+        "date": "2026-08-20",
+        "value": 4385
+      },
+      {
+        "date": "2026-08-21",
+        "value": 4099
+      },
+      {
+        "date": "2026-08-22",
+        "value": 4391
+      },
+      {
+        "date": "2026-08-23",
+        "value": 4662
+      },
+      {
+        "date": "2026-08-24",
+        "value": 4444
+      },
+      {
+        "date": "2026-08-25",
+        "value": 4279
+      },
+      {
+        "date": "2026-08-26",
+        "value": 4037
+      },
+      {
+        "date": "2026-08-27",
+        "value": 3872
+      },
+      {
+        "date": "2026-08-28",
+        "value": 3855
+      },
+      {
+        "date": "2026-08-29",
+        "value": 3927
+      },
+      {
+        "date": "2026-08-30",
+        "value": 3675
+      },
+      {
+        "date": "2026-08-31",
+        "value": 3794
+      },
+      {
+        "date": "2026-09-01",
+        "value": 3968
+      },
+      {
+        "date": "2026-09-02",
+        "value": 3797
+      },
+      {
+        "date": "2026-09-03",
+        "value": 3799
+      },
+      {
+        "date": "2026-09-04",
+        "value": 3598
+      },
+      {
+        "date": "2026-09-05",
+        "value": 3366
+      },
+      {
+        "date": "2026-09-06",
+        "value": 3214
+      },
+      {
+        "date": "2026-09-07",
+        "value": 3237
+      },
+      {
+        "date": "2026-09-08",
+        "value": 3132
+      }
+    ],
+    "bio": "Productivity creator sharing insights on pricing and customer success."
+  },
+  {
+    "id": "inf-38",
+    "name": "Zara Singh",
+    "handle": "@zaratalks37",
+    "category": "Data Science",
+    "platform": "LinkedIn",
+    "location": "Delhi NCR",
+    "followers": 180795,
+    "followerGrowth": 13.7,
+    "engagementRate": 5.9,
+    "sentiment": 86,
+    "influenceScore": 83,
+    "trending": true,
+    "topContentCategory": "Opinion",
+    "followerSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 1
+      },
+      {
+        "date": "2026-08-11",
+        "value": 1
+      },
+      {
+        "date": "2026-08-12",
+        "value": 1298
+      },
+      {
+        "date": "2026-08-13",
+        "value": 2473
+      },
+      {
+        "date": "2026-08-14",
+        "value": 956
+      },
+      {
+        "date": "2026-08-15",
+        "value": 2020
+      },
+      {
+        "date": "2026-08-16",
+        "value": 1330
+      },
+      {
+        "date": "2026-08-17",
+        "value": 2543
+      },
+      {
+        "date": "2026-08-18",
+        "value": 1110
+      },
+      {
+        "date": "2026-08-19",
+        "value": 891
+      },
+      {
+        "date": "2026-08-20",
+        "value": 1912
+      },
+      {
+        "date": "2026-08-21",
+        "value": 748
+      },
+      {
+        "date": "2026-08-22",
+        "value": 1
+      },
+      {
+        "date": "2026-08-23",
+        "value": 418
+      },
+      {
+        "date": "2026-08-24",
+        "value": 239
+      },
+      {
+        "date": "2026-08-25",
+        "value": 1700
+      },
+      {
+        "date": "2026-08-26",
+        "value": 2475
+      },
+      {
+        "date": "2026-08-27",
+        "value": 2146
+      },
+      {
+        "date": "2026-08-28",
+        "value": 1873
+      },
+      {
+        "date": "2026-08-29",
+        "value": 3270
+      },
+      {
+        "date": "2026-08-30",
+        "value": 2446
+      },
+      {
+        "date": "2026-08-31",
+        "value": 2242
+      },
+      {
+        "date": "2026-09-01",
+        "value": 2406
+      },
+      {
+        "date": "2026-09-02",
+        "value": 1443
+      },
+      {
+        "date": "2026-09-03",
+        "value": 159
+      },
+      {
+        "date": "2026-09-04",
+        "value": 1
+      },
+      {
+        "date": "2026-09-05",
+        "value": 1
+      },
+      {
+        "date": "2026-09-06",
+        "value": 1
+      },
+      {
+        "date": "2026-09-07",
+        "value": 900
+      },
+      {
+        "date": "2026-09-08",
+        "value": 1824
+      }
+    ],
+    "engagementSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 8089
+      },
+      {
+        "date": "2026-08-11",
+        "value": 8206
+      },
+      {
+        "date": "2026-08-12",
+        "value": 8018
+      },
+      {
+        "date": "2026-08-13",
+        "value": 8191
+      },
+      {
+        "date": "2026-08-14",
+        "value": 7937
+      },
+      {
+        "date": "2026-08-15",
+        "value": 8090
+      },
+      {
+        "date": "2026-08-16",
+        "value": 8377
+      },
+      {
+        "date": "2026-08-17",
+        "value": 8155
+      },
+      {
+        "date": "2026-08-18",
+        "value": 8208
+      },
+      {
+        "date": "2026-08-19",
+        "value": 8432
+      },
+      {
+        "date": "2026-08-20",
+        "value": 8590
+      },
+      {
+        "date": "2026-08-21",
+        "value": 8690
+      },
+      {
+        "date": "2026-08-22",
+        "value": 8434
+      },
+      {
+        "date": "2026-08-23",
+        "value": 8180
+      },
+      {
+        "date": "2026-08-24",
+        "value": 7979
+      },
+      {
+        "date": "2026-08-25",
+        "value": 7750
+      },
+      {
+        "date": "2026-08-26",
+        "value": 7571
+      },
+      {
+        "date": "2026-08-27",
+        "value": 7410
+      },
+      {
+        "date": "2026-08-28",
+        "value": 7623
+      },
+      {
+        "date": "2026-08-29",
+        "value": 7328
+      },
+      {
+        "date": "2026-08-30",
+        "value": 7104
+      },
+      {
+        "date": "2026-08-31",
+        "value": 7278
+      },
+      {
+        "date": "2026-09-01",
+        "value": 7029
+      },
+      {
+        "date": "2026-09-02",
+        "value": 6997
+      },
+      {
+        "date": "2026-09-03",
+        "value": 6871
+      },
+      {
+        "date": "2026-09-04",
+        "value": 7148
+      },
+      {
+        "date": "2026-09-05",
+        "value": 7078
+      },
+      {
+        "date": "2026-09-06",
+        "value": 7296
+      },
+      {
+        "date": "2026-09-07",
+        "value": 7219
+      },
+      {
+        "date": "2026-09-08",
+        "value": 7212
+      }
+    ],
+    "bio": "Data Science creator sharing insights on remote work tools and sustainability tech."
+  },
+  {
+    "id": "inf-39",
+    "name": "Leah Iyer",
+    "handle": "@leah38",
+    "category": "Marketing",
+    "platform": "LinkedIn",
+    "location": "Pune",
+    "followers": 81157,
+    "followerGrowth": 15.3,
+    "engagementRate": 2.1,
+    "sentiment": 89,
+    "influenceScore": 69,
+    "trending": false,
+    "topContentCategory": "Educational",
+    "followerSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 1
+      },
+      {
+        "date": "2026-08-11",
+        "value": 208
+      },
+      {
+        "date": "2026-08-12",
+        "value": 1
+      },
+      {
+        "date": "2026-08-13",
+        "value": 647
+      },
+      {
+        "date": "2026-08-14",
+        "value": 344
+      },
+      {
+        "date": "2026-08-15",
+        "value": 1
+      },
+      {
+        "date": "2026-08-16",
+        "value": 263
+      },
+      {
+        "date": "2026-08-17",
+        "value": 697
+      },
+      {
+        "date": "2026-08-18",
+        "value": 330
+      },
+      {
+        "date": "2026-08-19",
+        "value": 979
+      },
+      {
+        "date": "2026-08-20",
+        "value": 1462
+      },
+      {
+        "date": "2026-08-21",
+        "value": 1948
+      },
+      {
+        "date": "2026-08-22",
+        "value": 1519
+      },
+      {
+        "date": "2026-08-23",
+        "value": 781
+      },
+      {
+        "date": "2026-08-24",
+        "value": 841
+      },
+      {
+        "date": "2026-08-25",
+        "value": 1090
+      },
+      {
+        "date": "2026-08-26",
+        "value": 399
+      },
+      {
+        "date": "2026-08-27",
+        "value": 122
+      },
+      {
+        "date": "2026-08-28",
+        "value": 522
+      },
+      {
+        "date": "2026-08-29",
+        "value": 1019
+      },
+      {
+        "date": "2026-08-30",
+        "value": 1411
+      },
+      {
+        "date": "2026-08-31",
+        "value": 1775
+      },
+      {
+        "date": "2026-09-01",
+        "value": 2430
+      },
+      {
+        "date": "2026-09-02",
+        "value": 2495
+      },
+      {
+        "date": "2026-09-03",
+        "value": 2262
+      },
+      {
+        "date": "2026-09-04",
+        "value": 1735
+      },
+      {
+        "date": "2026-09-05",
+        "value": 2516
+      },
+      {
+        "date": "2026-09-06",
+        "value": 1752
+      },
+      {
+        "date": "2026-09-07",
+        "value": 1381
+      },
+      {
+        "date": "2026-09-08",
+        "value": 1378
+      }
+    ],
+    "engagementSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 2628
+      },
+      {
+        "date": "2026-08-11",
+        "value": 2602
+      },
+      {
+        "date": "2026-08-12",
+        "value": 2622
+      },
+      {
+        "date": "2026-08-13",
+        "value": 2863
+      },
+      {
+        "date": "2026-08-14",
+        "value": 2958
+      },
+      {
+        "date": "2026-08-15",
+        "value": 2995
+      },
+      {
+        "date": "2026-08-16",
+        "value": 3033
+      },
+      {
+        "date": "2026-08-17",
+        "value": 3256
+      },
+      {
+        "date": "2026-08-18",
+        "value": 3027
+      },
+      {
+        "date": "2026-08-19",
+        "value": 2856
+      },
+      {
+        "date": "2026-08-20",
+        "value": 2622
+      },
+      {
+        "date": "2026-08-21",
+        "value": 2878
+      },
+      {
+        "date": "2026-08-22",
+        "value": 3044
+      },
+      {
+        "date": "2026-08-23",
+        "value": 2819
+      },
+      {
+        "date": "2026-08-24",
+        "value": 2955
+      },
+      {
+        "date": "2026-08-25",
+        "value": 2826
+      },
+      {
+        "date": "2026-08-26",
+        "value": 2802
+      },
+      {
+        "date": "2026-08-27",
+        "value": 2537
+      },
+      {
+        "date": "2026-08-28",
+        "value": 2793
+      },
+      {
+        "date": "2026-08-29",
+        "value": 2572
+      },
+      {
+        "date": "2026-08-30",
+        "value": 2379
+      },
+      {
+        "date": "2026-08-31",
+        "value": 2410
+      },
+      {
+        "date": "2026-09-01",
+        "value": 2435
+      },
+      {
+        "date": "2026-09-02",
+        "value": 2544
+      },
+      {
+        "date": "2026-09-03",
+        "value": 2346
+      },
+      {
+        "date": "2026-09-04",
+        "value": 2074
+      },
+      {
+        "date": "2026-09-05",
+        "value": 1956
+      },
+      {
+        "date": "2026-09-06",
+        "value": 2238
+      },
+      {
+        "date": "2026-09-07",
+        "value": 2172
+      },
+      {
+        "date": "2026-09-08",
+        "value": 2094
+      }
+    ],
+    "bio": "Marketing creator sharing insights on automation and api economy."
+  },
+  {
+    "id": "inf-40",
+    "name": "Nikhil Nair",
+    "handle": "@nikhillabs39",
+    "category": "Data Science",
+    "platform": "YouTube",
+    "location": "London",
+    "followers": 291732,
+    "followerGrowth": 1.4,
+    "engagementRate": 2.3,
+    "sentiment": 77,
+    "influenceScore": 63,
+    "trending": false,
+    "topContentCategory": "Opinion",
+    "followerSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 171203
+      },
+      {
+        "date": "2026-08-11",
+        "value": 173290
+      },
+      {
+        "date": "2026-08-12",
+        "value": 172085
+      },
+      {
+        "date": "2026-08-13",
+        "value": 170226
+      },
+      {
+        "date": "2026-08-14",
+        "value": 170664
+      },
+      {
+        "date": "2026-08-15",
+        "value": 168728
+      },
+      {
+        "date": "2026-08-16",
+        "value": 168646
+      },
+      {
+        "date": "2026-08-17",
+        "value": 170711
+      },
+      {
+        "date": "2026-08-18",
+        "value": 168895
+      },
+      {
+        "date": "2026-08-19",
+        "value": 168798
+      },
+      {
+        "date": "2026-08-20",
+        "value": 168190
+      },
+      {
+        "date": "2026-08-21",
+        "value": 168923
+      },
+      {
+        "date": "2026-08-22",
+        "value": 170052
+      },
+      {
+        "date": "2026-08-23",
+        "value": 169395
+      },
+      {
+        "date": "2026-08-24",
+        "value": 168148
+      },
+      {
+        "date": "2026-08-25",
+        "value": 169512
+      },
+      {
+        "date": "2026-08-26",
+        "value": 171303
+      },
+      {
+        "date": "2026-08-27",
+        "value": 170033
+      },
+      {
+        "date": "2026-08-28",
+        "value": 167422
+      },
+      {
+        "date": "2026-08-29",
+        "value": 165684
+      },
+      {
+        "date": "2026-08-30",
+        "value": 166006
+      },
+      {
+        "date": "2026-08-31",
+        "value": 166787
+      },
+      {
+        "date": "2026-09-01",
+        "value": 164174
+      },
+      {
+        "date": "2026-09-02",
+        "value": 165562
+      },
+      {
+        "date": "2026-09-03",
+        "value": 164991
+      },
+      {
+        "date": "2026-09-04",
+        "value": 163039
+      },
+      {
+        "date": "2026-09-05",
+        "value": 163564
+      },
+      {
+        "date": "2026-09-06",
+        "value": 166114
+      },
+      {
+        "date": "2026-09-07",
+        "value": 165374
+      },
+      {
+        "date": "2026-09-08",
+        "value": 167287
+      }
+    ],
+    "engagementSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 7384
+      },
+      {
+        "date": "2026-08-11",
+        "value": 7620
+      },
+      {
+        "date": "2026-08-12",
+        "value": 7608
+      },
+      {
+        "date": "2026-08-13",
+        "value": 7854
+      },
+      {
+        "date": "2026-08-14",
+        "value": 7907
+      },
+      {
+        "date": "2026-08-15",
+        "value": 7615
+      },
+      {
+        "date": "2026-08-16",
+        "value": 7639
+      },
+      {
+        "date": "2026-08-17",
+        "value": 7520
+      },
+      {
+        "date": "2026-08-18",
+        "value": 7676
+      },
+      {
+        "date": "2026-08-19",
+        "value": 7519
+      },
+      {
+        "date": "2026-08-20",
+        "value": 7800
+      },
+      {
+        "date": "2026-08-21",
+        "value": 7612
+      },
+      {
+        "date": "2026-08-22",
+        "value": 7898
+      },
+      {
+        "date": "2026-08-23",
+        "value": 7793
+      },
+      {
+        "date": "2026-08-24",
+        "value": 8041
+      },
+      {
+        "date": "2026-08-25",
+        "value": 8143
+      },
+      {
+        "date": "2026-08-26",
+        "value": 8400
+      },
+      {
+        "date": "2026-08-27",
+        "value": 8651
+      },
+      {
+        "date": "2026-08-28",
+        "value": 8557
+      },
+      {
+        "date": "2026-08-29",
+        "value": 8283
+      },
+      {
+        "date": "2026-08-30",
+        "value": 8443
+      },
+      {
+        "date": "2026-08-31",
+        "value": 8678
+      },
+      {
+        "date": "2026-09-01",
+        "value": 8440
+      },
+      {
+        "date": "2026-09-02",
+        "value": 8462
+      },
+      {
+        "date": "2026-09-03",
+        "value": 8739
+      },
+      {
+        "date": "2026-09-04",
+        "value": 8912
+      },
+      {
+        "date": "2026-09-05",
+        "value": 9038
+      },
+      {
+        "date": "2026-09-06",
+        "value": 9244
+      },
+      {
+        "date": "2026-09-07",
+        "value": 9175
+      },
+      {
+        "date": "2026-09-08",
+        "value": 8960
+      }
+    ],
+    "bio": "Data Science creator sharing insights on customer support and product features."
+  },
+  {
+    "id": "inf-41",
+    "name": "Divya Kim",
+    "handle": "@divya40",
+    "category": "Design",
+    "platform": "LinkedIn",
+    "location": "Singapore",
+    "followers": 153837,
+    "followerGrowth": 6.7,
+    "engagementRate": 6.1,
+    "sentiment": 92,
+    "influenceScore": 74,
+    "trending": false,
+    "topContentCategory": "Educational",
+    "followerSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 1
+      },
+      {
+        "date": "2026-08-11",
+        "value": 1
+      },
+      {
+        "date": "2026-08-12",
+        "value": 589
+      },
+      {
+        "date": "2026-08-13",
+        "value": 128
+      },
+      {
+        "date": "2026-08-14",
+        "value": 1357
+      },
+      {
+        "date": "2026-08-15",
+        "value": 1337
+      },
+      {
+        "date": "2026-08-16",
+        "value": 118
+      },
+      {
+        "date": "2026-08-17",
+        "value": 530
+      },
+      {
+        "date": "2026-08-18",
+        "value": 1547
+      },
+      {
+        "date": "2026-08-19",
+        "value": 1932
+      },
+      {
+        "date": "2026-08-20",
+        "value": 1561
+      },
+      {
+        "date": "2026-08-21",
+        "value": 1792
+      },
+      {
+        "date": "2026-08-22",
+        "value": 295
+      },
+      {
+        "date": "2026-08-23",
+        "value": 1351
+      },
+      {
+        "date": "2026-08-24",
+        "value": 2319
+      },
+      {
+        "date": "2026-08-25",
+        "value": 2638
+      },
+      {
+        "date": "2026-08-26",
+        "value": 1662
+      },
+      {
+        "date": "2026-08-27",
+        "value": 2849
+      },
+      {
+        "date": "2026-08-28",
+        "value": 2383
+      },
+      {
+        "date": "2026-08-29",
+        "value": 3886
+      },
+      {
+        "date": "2026-08-30",
+        "value": 2567
+      },
+      {
+        "date": "2026-08-31",
+        "value": 1876
+      },
+      {
+        "date": "2026-09-01",
+        "value": 371
+      },
+      {
+        "date": "2026-09-02",
+        "value": 76
+      },
+      {
+        "date": "2026-09-03",
+        "value": 1
+      },
+      {
+        "date": "2026-09-04",
+        "value": 842
+      },
+      {
+        "date": "2026-09-05",
+        "value": 566
+      },
+      {
+        "date": "2026-09-06",
+        "value": 1
+      },
+      {
+        "date": "2026-09-07",
+        "value": 1
+      },
+      {
+        "date": "2026-09-08",
+        "value": 1
+      }
+    ],
+    "engagementSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 7996
+      },
+      {
+        "date": "2026-08-11",
+        "value": 8194
+      },
+      {
+        "date": "2026-08-12",
+        "value": 8017
+      },
+      {
+        "date": "2026-08-13",
+        "value": 8067
+      },
+      {
+        "date": "2026-08-14",
+        "value": 8027
+      },
+      {
+        "date": "2026-08-15",
+        "value": 8115
+      },
+      {
+        "date": "2026-08-16",
+        "value": 8301
+      },
+      {
+        "date": "2026-08-17",
+        "value": 8534
+      },
+      {
+        "date": "2026-08-18",
+        "value": 8554
+      },
+      {
+        "date": "2026-08-19",
+        "value": 8261
+      },
+      {
+        "date": "2026-08-20",
+        "value": 8314
+      },
+      {
+        "date": "2026-08-21",
+        "value": 8100
+      },
+      {
+        "date": "2026-08-22",
+        "value": 8084
+      },
+      {
+        "date": "2026-08-23",
+        "value": 8074
+      },
+      {
+        "date": "2026-08-24",
+        "value": 8081
+      },
+      {
+        "date": "2026-08-25",
+        "value": 8253
+      },
+      {
+        "date": "2026-08-26",
+        "value": 8246
+      },
+      {
+        "date": "2026-08-27",
+        "value": 8219
+      },
+      {
+        "date": "2026-08-28",
+        "value": 8495
+      },
+      {
+        "date": "2026-08-29",
+        "value": 8495
+      },
+      {
+        "date": "2026-08-30",
+        "value": 8623
+      },
+      {
+        "date": "2026-08-31",
+        "value": 8403
+      },
+      {
+        "date": "2026-09-01",
+        "value": 8386
+      },
+      {
+        "date": "2026-09-02",
+        "value": 8613
+      },
+      {
+        "date": "2026-09-03",
+        "value": 8683
+      },
+      {
+        "date": "2026-09-04",
+        "value": 8895
+      },
+      {
+        "date": "2026-09-05",
+        "value": 9009
+      },
+      {
+        "date": "2026-09-06",
+        "value": 8944
+      },
+      {
+        "date": "2026-09-07",
+        "value": 9106
+      },
+      {
+        "date": "2026-09-08",
+        "value": 9210
+      }
+    ],
+    "bio": "Design creator sharing insights on edge computing and cloud security."
+  },
+  {
+    "id": "inf-42",
+    "name": "Dev Sharma",
+    "handle": "@dev41",
+    "category": "Productivity",
+    "platform": "TikTok",
+    "location": "Bengaluru",
+    "followers": 469898,
+    "followerGrowth": 16.8,
+    "engagementRate": 8.2,
+    "sentiment": 74,
+    "influenceScore": 99,
+    "trending": true,
+    "topContentCategory": "Product Launch",
+    "followerSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 1
+      },
+      {
+        "date": "2026-08-11",
+        "value": 1
+      },
+      {
+        "date": "2026-08-12",
+        "value": 2328
+      },
+      {
+        "date": "2026-08-13",
+        "value": 2054
+      },
+      {
+        "date": "2026-08-14",
+        "value": 1
+      },
+      {
+        "date": "2026-08-15",
+        "value": 1510
+      },
+      {
+        "date": "2026-08-16",
+        "value": 1558
+      },
+      {
+        "date": "2026-08-17",
+        "value": 2266
+      },
+      {
+        "date": "2026-08-18",
+        "value": 885
+      },
+      {
+        "date": "2026-08-19",
+        "value": 186
+      },
+      {
+        "date": "2026-08-20",
+        "value": 1
+      },
+      {
+        "date": "2026-08-21",
+        "value": 2249
+      },
+      {
+        "date": "2026-08-22",
+        "value": 4105
+      },
+      {
+        "date": "2026-08-23",
+        "value": 8700
+      },
+      {
+        "date": "2026-08-24",
+        "value": 6568
+      },
+      {
+        "date": "2026-08-25",
+        "value": 1941
+      },
+      {
+        "date": "2026-08-26",
+        "value": 1
+      },
+      {
+        "date": "2026-08-27",
+        "value": 1006
+      },
+      {
+        "date": "2026-08-28",
+        "value": 5643
+      },
+      {
+        "date": "2026-08-29",
+        "value": 7522
+      },
+      {
+        "date": "2026-08-30",
+        "value": 11460
+      },
+      {
+        "date": "2026-08-31",
+        "value": 10499
+      },
+      {
+        "date": "2026-09-01",
+        "value": 7294
+      },
+      {
+        "date": "2026-09-02",
+        "value": 11847
+      },
+      {
+        "date": "2026-09-03",
+        "value": 9780
+      },
+      {
+        "date": "2026-09-04",
+        "value": 14129
+      },
+      {
+        "date": "2026-09-05",
+        "value": 17129
+      },
+      {
+        "date": "2026-09-06",
+        "value": 13472
+      },
+      {
+        "date": "2026-09-07",
+        "value": 14091
+      },
+      {
+        "date": "2026-09-08",
+        "value": 13493
+      }
+    ],
+    "engagementSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 8165
+      },
+      {
+        "date": "2026-08-11",
+        "value": 7994
+      },
+      {
+        "date": "2026-08-12",
+        "value": 8233
+      },
+      {
+        "date": "2026-08-13",
+        "value": 8044
+      },
+      {
+        "date": "2026-08-14",
+        "value": 8135
+      },
+      {
+        "date": "2026-08-15",
+        "value": 7994
+      },
+      {
+        "date": "2026-08-16",
+        "value": 7823
+      },
+      {
+        "date": "2026-08-17",
+        "value": 7842
+      },
+      {
+        "date": "2026-08-18",
+        "value": 7912
+      },
+      {
+        "date": "2026-08-19",
+        "value": 7816
+      },
+      {
+        "date": "2026-08-20",
+        "value": 8051
+      },
+      {
+        "date": "2026-08-21",
+        "value": 8234
+      },
+      {
+        "date": "2026-08-22",
+        "value": 8175
+      },
+      {
+        "date": "2026-08-23",
+        "value": 8205
+      },
+      {
+        "date": "2026-08-24",
+        "value": 7964
+      },
+      {
+        "date": "2026-08-25",
+        "value": 8171
+      },
+      {
+        "date": "2026-08-26",
+        "value": 7882
+      },
+      {
+        "date": "2026-08-27",
+        "value": 7896
+      },
+      {
+        "date": "2026-08-28",
+        "value": 7964
+      },
+      {
+        "date": "2026-08-29",
+        "value": 7804
+      },
+      {
+        "date": "2026-08-30",
+        "value": 7801
+      },
+      {
+        "date": "2026-08-31",
+        "value": 7995
+      },
+      {
+        "date": "2026-09-01",
+        "value": 8111
+      },
+      {
+        "date": "2026-09-02",
+        "value": 8083
+      },
+      {
+        "date": "2026-09-03",
+        "value": 7844
+      },
+      {
+        "date": "2026-09-04",
+        "value": 7805
+      },
+      {
+        "date": "2026-09-05",
+        "value": 7556
+      },
+      {
+        "date": "2026-09-06",
+        "value": 7567
+      },
+      {
+        "date": "2026-09-07",
+        "value": 7742
+      },
+      {
+        "date": "2026-09-08",
+        "value": 7829
+      }
+    ],
+    "bio": "Productivity creator sharing insights on cybersecurity and hiring."
+  },
+  {
+    "id": "inf-43",
+    "name": "Liam Malhotra",
+    "handle": "@liamtalks42",
+    "category": "Data Science",
+    "platform": "X",
+    "location": "Delhi NCR",
+    "followers": 47709,
+    "followerGrowth": -3,
+    "engagementRate": 4.9,
+    "sentiment": 56,
+    "influenceScore": 53,
+    "trending": false,
+    "topContentCategory": "Tutorial",
+    "followerSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 90415
+      },
+      {
+        "date": "2026-08-11",
+        "value": 90612
+      },
+      {
+        "date": "2026-08-12",
+        "value": 90719
+      },
+      {
+        "date": "2026-08-13",
+        "value": 90800
+      },
+      {
+        "date": "2026-08-14",
+        "value": 90589
+      },
+      {
+        "date": "2026-08-15",
+        "value": 90673
+      },
+      {
+        "date": "2026-08-16",
+        "value": 90922
+      },
+      {
+        "date": "2026-08-17",
+        "value": 91248
+      },
+      {
+        "date": "2026-08-18",
+        "value": 91371
+      },
+      {
+        "date": "2026-08-19",
+        "value": 91814
+      },
+      {
+        "date": "2026-08-20",
+        "value": 92140
+      },
+      {
+        "date": "2026-08-21",
+        "value": 91841
+      },
+      {
+        "date": "2026-08-22",
+        "value": 92249
+      },
+      {
+        "date": "2026-08-23",
+        "value": 92317
+      },
+      {
+        "date": "2026-08-24",
+        "value": 92607
+      },
+      {
+        "date": "2026-08-25",
+        "value": 92403
+      },
+      {
+        "date": "2026-08-26",
+        "value": 92626
+      },
+      {
+        "date": "2026-08-27",
+        "value": 93057
+      },
+      {
+        "date": "2026-08-28",
+        "value": 92975
+      },
+      {
+        "date": "2026-08-29",
+        "value": 93240
+      },
+      {
+        "date": "2026-08-30",
+        "value": 93637
+      },
+      {
+        "date": "2026-08-31",
+        "value": 93737
+      },
+      {
+        "date": "2026-09-01",
+        "value": 93590
+      },
+      {
+        "date": "2026-09-02",
+        "value": 93488
+      },
+      {
+        "date": "2026-09-03",
+        "value": 93129
+      },
+      {
+        "date": "2026-09-04",
+        "value": 92670
+      },
+      {
+        "date": "2026-09-05",
+        "value": 92481
+      },
+      {
+        "date": "2026-09-06",
+        "value": 92306
+      },
+      {
+        "date": "2026-09-07",
+        "value": 92146
+      },
+      {
+        "date": "2026-09-08",
+        "value": 91920
+      }
+    ],
+    "engagementSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 8113
+      },
+      {
+        "date": "2026-08-11",
+        "value": 8093
+      },
+      {
+        "date": "2026-08-12",
+        "value": 8287
+      },
+      {
+        "date": "2026-08-13",
+        "value": 8384
+      },
+      {
+        "date": "2026-08-14",
+        "value": 8506
+      },
+      {
+        "date": "2026-08-15",
+        "value": 8615
+      },
+      {
+        "date": "2026-08-16",
+        "value": 8457
+      },
+      {
+        "date": "2026-08-17",
+        "value": 8300
+      },
+      {
+        "date": "2026-08-18",
+        "value": 8332
+      },
+      {
+        "date": "2026-08-19",
+        "value": 8368
+      },
+      {
+        "date": "2026-08-20",
+        "value": 8144
+      },
+      {
+        "date": "2026-08-21",
+        "value": 8240
+      },
+      {
+        "date": "2026-08-22",
+        "value": 8260
+      },
+      {
+        "date": "2026-08-23",
+        "value": 8287
+      },
+      {
+        "date": "2026-08-24",
+        "value": 8276
+      },
+      {
+        "date": "2026-08-25",
+        "value": 8314
+      },
+      {
+        "date": "2026-08-26",
+        "value": 8275
+      },
+      {
+        "date": "2026-08-27",
+        "value": 8518
+      },
+      {
+        "date": "2026-08-28",
+        "value": 8250
+      },
+      {
+        "date": "2026-08-29",
+        "value": 8098
+      },
+      {
+        "date": "2026-08-30",
+        "value": 7819
+      },
+      {
+        "date": "2026-08-31",
+        "value": 7811
+      },
+      {
+        "date": "2026-09-01",
+        "value": 7531
+      },
+      {
+        "date": "2026-09-02",
+        "value": 7572
+      },
+      {
+        "date": "2026-09-03",
+        "value": 7412
+      },
+      {
+        "date": "2026-09-04",
+        "value": 7388
+      },
+      {
+        "date": "2026-09-05",
+        "value": 7375
+      },
+      {
+        "date": "2026-09-06",
+        "value": 7546
+      },
+      {
+        "date": "2026-09-07",
+        "value": 7273
+      },
+      {
+        "date": "2026-09-08",
+        "value": 7360
+      }
+    ],
+    "bio": "Data Science creator sharing insights on open source and data privacy."
+  },
+  {
+    "id": "inf-44",
+    "name": "Arjun Mehta",
+    "handle": "@arjun43",
+    "category": "AI",
+    "platform": "TikTok",
+    "location": "San Francisco",
+    "followers": 334834,
+    "followerGrowth": 13.4,
+    "engagementRate": 2.2,
+    "sentiment": 61,
+    "influenceScore": 79,
+    "trending": false,
+    "topContentCategory": "Promotional",
+    "followerSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 1
+      },
+      {
+        "date": "2026-08-11",
+        "value": 1
+      },
+      {
+        "date": "2026-08-12",
+        "value": 1049
+      },
+      {
+        "date": "2026-08-13",
+        "value": 604
+      },
+      {
+        "date": "2026-08-14",
+        "value": 2124
+      },
+      {
+        "date": "2026-08-15",
+        "value": 2453
+      },
+      {
+        "date": "2026-08-16",
+        "value": 4535
+      },
+      {
+        "date": "2026-08-17",
+        "value": 4019
+      },
+      {
+        "date": "2026-08-18",
+        "value": 5719
+      },
+      {
+        "date": "2026-08-19",
+        "value": 7458
+      },
+      {
+        "date": "2026-08-20",
+        "value": 6682
+      },
+      {
+        "date": "2026-08-21",
+        "value": 7534
+      },
+      {
+        "date": "2026-08-22",
+        "value": 4991
+      },
+      {
+        "date": "2026-08-23",
+        "value": 5266
+      },
+      {
+        "date": "2026-08-24",
+        "value": 2037
+      },
+      {
+        "date": "2026-08-25",
+        "value": 754
+      },
+      {
+        "date": "2026-08-26",
+        "value": 1525
+      },
+      {
+        "date": "2026-08-27",
+        "value": 1044
+      },
+      {
+        "date": "2026-08-28",
+        "value": 1
+      },
+      {
+        "date": "2026-08-29",
+        "value": 2540
+      },
+      {
+        "date": "2026-08-30",
+        "value": 1344
+      },
+      {
+        "date": "2026-08-31",
+        "value": 2243
+      },
+      {
+        "date": "2026-09-01",
+        "value": 1
+      },
+      {
+        "date": "2026-09-02",
+        "value": 1765
+      },
+      {
+        "date": "2026-09-03",
+        "value": 1
+      },
+      {
+        "date": "2026-09-04",
+        "value": 733
+      },
+      {
+        "date": "2026-09-05",
+        "value": 1
+      },
+      {
+        "date": "2026-09-06",
+        "value": 1
+      },
+      {
+        "date": "2026-09-07",
+        "value": 1454
+      },
+      {
+        "date": "2026-09-08",
+        "value": 3486
+      }
+    ],
+    "engagementSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 10924
+      },
+      {
+        "date": "2026-08-11",
+        "value": 10798
+      },
+      {
+        "date": "2026-08-12",
+        "value": 10984
+      },
+      {
+        "date": "2026-08-13",
+        "value": 11253
+      },
+      {
+        "date": "2026-08-14",
+        "value": 11207
+      },
+      {
+        "date": "2026-08-15",
+        "value": 11084
+      },
+      {
+        "date": "2026-08-16",
+        "value": 11007
+      },
+      {
+        "date": "2026-08-17",
+        "value": 10896
+      },
+      {
+        "date": "2026-08-18",
+        "value": 10915
+      },
+      {
+        "date": "2026-08-19",
+        "value": 10672
+      },
+      {
+        "date": "2026-08-20",
+        "value": 10581
+      },
+      {
+        "date": "2026-08-21",
+        "value": 10423
+      },
+      {
+        "date": "2026-08-22",
+        "value": 10265
+      },
+      {
+        "date": "2026-08-23",
+        "value": 10299
+      },
+      {
+        "date": "2026-08-24",
+        "value": 10071
+      },
+      {
+        "date": "2026-08-25",
+        "value": 10338
+      },
+      {
+        "date": "2026-08-26",
+        "value": 10286
+      },
+      {
+        "date": "2026-08-27",
+        "value": 10291
+      },
+      {
+        "date": "2026-08-28",
+        "value": 10205
+      },
+      {
+        "date": "2026-08-29",
+        "value": 10255
+      },
+      {
+        "date": "2026-08-30",
+        "value": 10345
+      },
+      {
+        "date": "2026-08-31",
+        "value": 10536
+      },
+      {
+        "date": "2026-09-01",
+        "value": 10602
+      },
+      {
+        "date": "2026-09-02",
+        "value": 10858
+      },
+      {
+        "date": "2026-09-03",
+        "value": 10854
+      },
+      {
+        "date": "2026-09-04",
+        "value": 10592
+      },
+      {
+        "date": "2026-09-05",
+        "value": 10849
+      },
+      {
+        "date": "2026-09-06",
+        "value": 11133
+      },
+      {
+        "date": "2026-09-07",
+        "value": 11171
+      },
+      {
+        "date": "2026-09-08",
+        "value": 11383
+      }
+    ],
+    "bio": "AI creator sharing insights on ai agents and generative ai."
+  },
+  {
+    "id": "inf-45",
+    "name": "Tanvi Kapoor",
+    "handle": "@tanviai44",
+    "category": "Productivity",
+    "platform": "YouTube",
+    "location": "Bengaluru",
+    "followers": 76841,
+    "followerGrowth": 18.1,
+    "engagementRate": 4.4,
+    "sentiment": 79,
+    "influenceScore": 79,
+    "trending": true,
+    "topContentCategory": "Promotional",
+    "followerSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 1
+      },
+      {
+        "date": "2026-08-11",
+        "value": 160
+      },
+      {
+        "date": "2026-08-12",
+        "value": 379
+      },
+      {
+        "date": "2026-08-13",
+        "value": 1
+      },
+      {
+        "date": "2026-08-14",
+        "value": 510
+      },
+      {
+        "date": "2026-08-15",
+        "value": 691
+      },
+      {
+        "date": "2026-08-16",
+        "value": 1144
+      },
+      {
+        "date": "2026-08-17",
+        "value": 1639
+      },
+      {
+        "date": "2026-08-18",
+        "value": 2123
+      },
+      {
+        "date": "2026-08-19",
+        "value": 2420
+      },
+      {
+        "date": "2026-08-20",
+        "value": 2676
+      },
+      {
+        "date": "2026-08-21",
+        "value": 3184
+      },
+      {
+        "date": "2026-08-22",
+        "value": 2478
+      },
+      {
+        "date": "2026-08-23",
+        "value": 1874
+      },
+      {
+        "date": "2026-08-24",
+        "value": 1476
+      },
+      {
+        "date": "2026-08-25",
+        "value": 1550
+      },
+      {
+        "date": "2026-08-26",
+        "value": 1259
+      },
+      {
+        "date": "2026-08-27",
+        "value": 1894
+      },
+      {
+        "date": "2026-08-28",
+        "value": 2095
+      },
+      {
+        "date": "2026-08-29",
+        "value": 1506
+      },
+      {
+        "date": "2026-08-30",
+        "value": 2153
+      },
+      {
+        "date": "2026-08-31",
+        "value": 2148
+      },
+      {
+        "date": "2026-09-01",
+        "value": 1959
+      },
+      {
+        "date": "2026-09-02",
+        "value": 1497
+      },
+      {
+        "date": "2026-09-03",
+        "value": 2078
+      },
+      {
+        "date": "2026-09-04",
+        "value": 2742
+      },
+      {
+        "date": "2026-09-05",
+        "value": 2189
+      },
+      {
+        "date": "2026-09-06",
+        "value": 2816
+      },
+      {
+        "date": "2026-09-07",
+        "value": 2712
+      },
+      {
+        "date": "2026-09-08",
+        "value": 2231
+      }
+    ],
+    "engagementSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 1378
+      },
+      {
+        "date": "2026-08-11",
+        "value": 1208
+      },
+      {
+        "date": "2026-08-12",
+        "value": 1194
+      },
+      {
+        "date": "2026-08-13",
+        "value": 1479
+      },
+      {
+        "date": "2026-08-14",
+        "value": 1238
+      },
+      {
+        "date": "2026-08-15",
+        "value": 1231
+      },
+      {
+        "date": "2026-08-16",
+        "value": 1348
+      },
+      {
+        "date": "2026-08-17",
+        "value": 1470
+      },
+      {
+        "date": "2026-08-18",
+        "value": 1738
+      },
+      {
+        "date": "2026-08-19",
+        "value": 1769
+      },
+      {
+        "date": "2026-08-20",
+        "value": 1557
+      },
+      {
+        "date": "2026-08-21",
+        "value": 1660
+      },
+      {
+        "date": "2026-08-22",
+        "value": 1938
+      },
+      {
+        "date": "2026-08-23",
+        "value": 2038
+      },
+      {
+        "date": "2026-08-24",
+        "value": 2292
+      },
+      {
+        "date": "2026-08-25",
+        "value": 2080
+      },
+      {
+        "date": "2026-08-26",
+        "value": 2105
+      },
+      {
+        "date": "2026-08-27",
+        "value": 2335
+      },
+      {
+        "date": "2026-08-28",
+        "value": 2197
+      },
+      {
+        "date": "2026-08-29",
+        "value": 2298
+      },
+      {
+        "date": "2026-08-30",
+        "value": 2183
+      },
+      {
+        "date": "2026-08-31",
+        "value": 2252
+      },
+      {
+        "date": "2026-09-01",
+        "value": 2455
+      },
+      {
+        "date": "2026-09-02",
+        "value": 2498
+      },
+      {
+        "date": "2026-09-03",
+        "value": 2787
+      },
+      {
+        "date": "2026-09-04",
+        "value": 2688
+      },
+      {
+        "date": "2026-09-05",
+        "value": 2750
+      },
+      {
+        "date": "2026-09-06",
+        "value": 2593
+      },
+      {
+        "date": "2026-09-07",
+        "value": 2419
+      },
+      {
+        "date": "2026-09-08",
+        "value": 2634
+      }
+    ],
+    "bio": "Productivity creator sharing insights on customer success and customer support."
+  },
+  {
+    "id": "inf-46",
+    "name": "Grace Verma",
+    "handle": "@gracelabs45",
+    "category": "Startups",
+    "platform": "YouTube",
+    "location": "San Francisco",
+    "followers": 174773,
+    "followerGrowth": 12.5,
+    "engagementRate": 5.3,
+    "sentiment": 84,
+    "influenceScore": 80,
+    "trending": true,
+    "topContentCategory": "Product Launch",
+    "followerSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 1
+      },
+      {
+        "date": "2026-08-11",
+        "value": 1483
+      },
+      {
+        "date": "2026-08-12",
+        "value": 657
+      },
+      {
+        "date": "2026-08-13",
+        "value": 1261
+      },
+      {
+        "date": "2026-08-14",
+        "value": 1006
+      },
+      {
+        "date": "2026-08-15",
+        "value": 521
+      },
+      {
+        "date": "2026-08-16",
+        "value": 1
+      },
+      {
+        "date": "2026-08-17",
+        "value": 1
+      },
+      {
+        "date": "2026-08-18",
+        "value": 620
+      },
+      {
+        "date": "2026-08-19",
+        "value": 61
+      },
+      {
+        "date": "2026-08-20",
+        "value": 983
+      },
+      {
+        "date": "2026-08-21",
+        "value": 2316
+      },
+      {
+        "date": "2026-08-22",
+        "value": 647
+      },
+      {
+        "date": "2026-08-23",
+        "value": 899
+      },
+      {
+        "date": "2026-08-24",
+        "value": 2439
+      },
+      {
+        "date": "2026-08-25",
+        "value": 2060
+      },
+      {
+        "date": "2026-08-26",
+        "value": 2549
+      },
+      {
+        "date": "2026-08-27",
+        "value": 920
+      },
+      {
+        "date": "2026-08-28",
+        "value": 1
+      },
+      {
+        "date": "2026-08-29",
+        "value": 1
+      },
+      {
+        "date": "2026-08-30",
+        "value": 1
+      },
+      {
+        "date": "2026-08-31",
+        "value": 1
+      },
+      {
+        "date": "2026-09-01",
+        "value": 1
+      },
+      {
+        "date": "2026-09-02",
+        "value": 337
+      },
+      {
+        "date": "2026-09-03",
+        "value": 1
+      },
+      {
+        "date": "2026-09-04",
+        "value": 1137
+      },
+      {
+        "date": "2026-09-05",
+        "value": 969
+      },
+      {
+        "date": "2026-09-06",
+        "value": 877
+      },
+      {
+        "date": "2026-09-07",
+        "value": 1822
+      },
+      {
+        "date": "2026-09-08",
+        "value": 1115
+      }
+    ],
+    "engagementSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 1134
+      },
+      {
+        "date": "2026-08-11",
+        "value": 1172
+      },
+      {
+        "date": "2026-08-12",
+        "value": 1037
+      },
+      {
+        "date": "2026-08-13",
+        "value": 1151
+      },
+      {
+        "date": "2026-08-14",
+        "value": 1433
+      },
+      {
+        "date": "2026-08-15",
+        "value": 1463
+      },
+      {
+        "date": "2026-08-16",
+        "value": 1252
+      },
+      {
+        "date": "2026-08-17",
+        "value": 1145
+      },
+      {
+        "date": "2026-08-18",
+        "value": 855
+      },
+      {
+        "date": "2026-08-19",
+        "value": 1021
+      },
+      {
+        "date": "2026-08-20",
+        "value": 1183
+      },
+      {
+        "date": "2026-08-21",
+        "value": 928
+      },
+      {
+        "date": "2026-08-22",
+        "value": 818
+      },
+      {
+        "date": "2026-08-23",
+        "value": 928
+      },
+      {
+        "date": "2026-08-24",
+        "value": 1139
+      },
+      {
+        "date": "2026-08-25",
+        "value": 931
+      },
+      {
+        "date": "2026-08-26",
+        "value": 810
+      },
+      {
+        "date": "2026-08-27",
+        "value": 1100
+      },
+      {
+        "date": "2026-08-28",
+        "value": 912
+      },
+      {
+        "date": "2026-08-29",
+        "value": 1053
+      },
+      {
+        "date": "2026-08-30",
+        "value": 936
+      },
+      {
+        "date": "2026-08-31",
+        "value": 1188
+      },
+      {
+        "date": "2026-09-01",
+        "value": 1215
+      },
+      {
+        "date": "2026-09-02",
+        "value": 1346
+      },
+      {
+        "date": "2026-09-03",
+        "value": 1162
+      },
+      {
+        "date": "2026-09-04",
+        "value": 993
+      },
+      {
+        "date": "2026-09-05",
+        "value": 1231
+      },
+      {
+        "date": "2026-09-06",
+        "value": 1334
+      },
+      {
+        "date": "2026-09-07",
+        "value": 1247
+      },
+      {
+        "date": "2026-09-08",
+        "value": 1035
+      }
+    ],
+    "bio": "Startups creator sharing insights on ai agents and automation."
+  },
+  {
+    "id": "inf-47",
+    "name": "Marco Rao",
+    "handle": "@marcotech46",
+    "category": "Productivity",
+    "platform": "Instagram",
+    "location": "San Francisco",
+    "followers": 64232,
+    "followerGrowth": 15.5,
+    "engagementRate": 2.8,
+    "sentiment": 86,
+    "influenceScore": 70,
+    "trending": false,
+    "topContentCategory": "Promotional",
+    "followerSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 1
+      },
+      {
+        "date": "2026-08-11",
+        "value": 271
+      },
+      {
+        "date": "2026-08-12",
+        "value": 1
+      },
+      {
+        "date": "2026-08-13",
+        "value": 1
+      },
+      {
+        "date": "2026-08-14",
+        "value": 1
+      },
+      {
+        "date": "2026-08-15",
+        "value": 1
+      },
+      {
+        "date": "2026-08-16",
+        "value": 591
+      },
+      {
+        "date": "2026-08-17",
+        "value": 620
+      },
+      {
+        "date": "2026-08-18",
+        "value": 1104
+      },
+      {
+        "date": "2026-08-19",
+        "value": 537
+      },
+      {
+        "date": "2026-08-20",
+        "value": 959
+      },
+      {
+        "date": "2026-08-21",
+        "value": 761
+      },
+      {
+        "date": "2026-08-22",
+        "value": 1132
+      },
+      {
+        "date": "2026-08-23",
+        "value": 1517
+      },
+      {
+        "date": "2026-08-24",
+        "value": 972
+      },
+      {
+        "date": "2026-08-25",
+        "value": 685
+      },
+      {
+        "date": "2026-08-26",
+        "value": 943
+      },
+      {
+        "date": "2026-08-27",
+        "value": 1212
+      },
+      {
+        "date": "2026-08-28",
+        "value": 767
+      },
+      {
+        "date": "2026-08-29",
+        "value": 897
+      },
+      {
+        "date": "2026-08-30",
+        "value": 438
+      },
+      {
+        "date": "2026-08-31",
+        "value": 1
+      },
+      {
+        "date": "2026-09-01",
+        "value": 1
+      },
+      {
+        "date": "2026-09-02",
+        "value": 1
+      },
+      {
+        "date": "2026-09-03",
+        "value": 1
+      },
+      {
+        "date": "2026-09-04",
+        "value": 316
+      },
+      {
+        "date": "2026-09-05",
+        "value": 204
+      },
+      {
+        "date": "2026-09-06",
+        "value": 1
+      },
+      {
+        "date": "2026-09-07",
+        "value": 402
+      },
+      {
+        "date": "2026-09-08",
+        "value": 15
+      }
+    ],
+    "engagementSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 2725
+      },
+      {
+        "date": "2026-08-11",
+        "value": 2834
+      },
+      {
+        "date": "2026-08-12",
+        "value": 2727
+      },
+      {
+        "date": "2026-08-13",
+        "value": 2922
+      },
+      {
+        "date": "2026-08-14",
+        "value": 2651
+      },
+      {
+        "date": "2026-08-15",
+        "value": 2682
+      },
+      {
+        "date": "2026-08-16",
+        "value": 2426
+      },
+      {
+        "date": "2026-08-17",
+        "value": 2184
+      },
+      {
+        "date": "2026-08-18",
+        "value": 2304
+      },
+      {
+        "date": "2026-08-19",
+        "value": 2080
+      },
+      {
+        "date": "2026-08-20",
+        "value": 2014
+      },
+      {
+        "date": "2026-08-21",
+        "value": 1987
+      },
+      {
+        "date": "2026-08-22",
+        "value": 1795
+      },
+      {
+        "date": "2026-08-23",
+        "value": 1692
+      },
+      {
+        "date": "2026-08-24",
+        "value": 1907
+      },
+      {
+        "date": "2026-08-25",
+        "value": 2161
+      },
+      {
+        "date": "2026-08-26",
+        "value": 2025
+      },
+      {
+        "date": "2026-08-27",
+        "value": 2249
+      },
+      {
+        "date": "2026-08-28",
+        "value": 1976
+      },
+      {
+        "date": "2026-08-29",
+        "value": 2134
+      },
+      {
+        "date": "2026-08-30",
+        "value": 2156
+      },
+      {
+        "date": "2026-08-31",
+        "value": 2313
+      },
+      {
+        "date": "2026-09-01",
+        "value": 2326
+      },
+      {
+        "date": "2026-09-02",
+        "value": 2375
+      },
+      {
+        "date": "2026-09-03",
+        "value": 2174
+      },
+      {
+        "date": "2026-09-04",
+        "value": 2130
+      },
+      {
+        "date": "2026-09-05",
+        "value": 2098
+      },
+      {
+        "date": "2026-09-06",
+        "value": 2225
+      },
+      {
+        "date": "2026-09-07",
+        "value": 2064
+      },
+      {
+        "date": "2026-09-08",
+        "value": 1915
+      }
+    ],
+    "bio": "Productivity creator sharing insights on generative ai and cybersecurity."
+  },
+  {
+    "id": "inf-48",
+    "name": "Yash Pillai",
+    "handle": "@yash47",
+    "category": "Finance",
+    "platform": "X",
+    "location": "Singapore",
+    "followers": 495469,
+    "followerGrowth": -1.4,
+    "engagementRate": 5.1,
+    "sentiment": 63,
+    "influenceScore": 78,
+    "trending": false,
+    "topContentCategory": "Opinion",
+    "followerSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 703631
+      },
+      {
+        "date": "2026-08-11",
+        "value": 707430
+      },
+      {
+        "date": "2026-08-12",
+        "value": 709606
+      },
+      {
+        "date": "2026-08-13",
+        "value": 712494
+      },
+      {
+        "date": "2026-08-14",
+        "value": 708762
+      },
+      {
+        "date": "2026-08-15",
+        "value": 713099
+      },
+      {
+        "date": "2026-08-16",
+        "value": 709049
+      },
+      {
+        "date": "2026-08-17",
+        "value": 711563
+      },
+      {
+        "date": "2026-08-18",
+        "value": 708168
+      },
+      {
+        "date": "2026-08-19",
+        "value": 705438
+      },
+      {
+        "date": "2026-08-20",
+        "value": 705636
+      },
+      {
+        "date": "2026-08-21",
+        "value": 708902
+      },
+      {
+        "date": "2026-08-22",
+        "value": 707152
+      },
+      {
+        "date": "2026-08-23",
+        "value": 708251
+      },
+      {
+        "date": "2026-08-24",
+        "value": 711119
+      },
+      {
+        "date": "2026-08-25",
+        "value": 709977
+      },
+      {
+        "date": "2026-08-26",
+        "value": 706334
+      },
+      {
+        "date": "2026-08-27",
+        "value": 701425
+      },
+      {
+        "date": "2026-08-28",
+        "value": 705482
+      },
+      {
+        "date": "2026-08-29",
+        "value": 703929
+      },
+      {
+        "date": "2026-08-30",
+        "value": 702774
+      },
+      {
+        "date": "2026-08-31",
+        "value": 703358
+      },
+      {
+        "date": "2026-09-01",
+        "value": 703202
+      },
+      {
+        "date": "2026-09-02",
+        "value": 707788
+      },
+      {
+        "date": "2026-09-03",
+        "value": 705185
+      },
+      {
+        "date": "2026-09-04",
+        "value": 710104
+      },
+      {
+        "date": "2026-09-05",
+        "value": 710411
+      },
+      {
+        "date": "2026-09-06",
+        "value": 710772
+      },
+      {
+        "date": "2026-09-07",
+        "value": 713948
+      },
+      {
+        "date": "2026-09-08",
+        "value": 709067
+      }
+    ],
+    "engagementSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 1289
+      },
+      {
+        "date": "2026-08-11",
+        "value": 1409
+      },
+      {
+        "date": "2026-08-12",
+        "value": 1142
+      },
+      {
+        "date": "2026-08-13",
+        "value": 1385
+      },
+      {
+        "date": "2026-08-14",
+        "value": 1535
+      },
+      {
+        "date": "2026-08-15",
+        "value": 1529
+      },
+      {
+        "date": "2026-08-16",
+        "value": 1634
+      },
+      {
+        "date": "2026-08-17",
+        "value": 1346
+      },
+      {
+        "date": "2026-08-18",
+        "value": 1310
+      },
+      {
+        "date": "2026-08-19",
+        "value": 1195
+      },
+      {
+        "date": "2026-08-20",
+        "value": 1408
+      },
+      {
+        "date": "2026-08-21",
+        "value": 1559
+      },
+      {
+        "date": "2026-08-22",
+        "value": 1449
+      },
+      {
+        "date": "2026-08-23",
+        "value": 1436
+      },
+      {
+        "date": "2026-08-24",
+        "value": 1185
+      },
+      {
+        "date": "2026-08-25",
+        "value": 1201
+      },
+      {
+        "date": "2026-08-26",
+        "value": 1238
+      },
+      {
+        "date": "2026-08-27",
+        "value": 1505
+      },
+      {
+        "date": "2026-08-28",
+        "value": 1382
+      },
+      {
+        "date": "2026-08-29",
+        "value": 1383
+      },
+      {
+        "date": "2026-08-30",
+        "value": 1576
+      },
+      {
+        "date": "2026-08-31",
+        "value": 1682
+      },
+      {
+        "date": "2026-09-01",
+        "value": 1789
+      },
+      {
+        "date": "2026-09-02",
+        "value": 1842
+      },
+      {
+        "date": "2026-09-03",
+        "value": 1920
+      },
+      {
+        "date": "2026-09-04",
+        "value": 1702
+      },
+      {
+        "date": "2026-09-05",
+        "value": 1981
+      },
+      {
+        "date": "2026-09-06",
+        "value": 1833
+      },
+      {
+        "date": "2026-09-07",
+        "value": 1620
+      },
+      {
+        "date": "2026-09-08",
+        "value": 1393
+      }
+    ],
+    "bio": "Finance creator sharing insights on pricing and data privacy."
+  },
+  {
+    "id": "inf-49",
+    "name": "Liam Kim",
+    "handle": "@liamai48",
+    "category": "Startups",
+    "platform": "LinkedIn",
+    "location": "Bengaluru",
+    "followers": 375863,
+    "followerGrowth": 16.8,
+    "engagementRate": 3.9,
+    "sentiment": 61,
+    "influenceScore": 91,
+    "trending": false,
+    "topContentCategory": "Opinion",
+    "followerSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 1
+      },
+      {
+        "date": "2026-08-11",
+        "value": 1455
+      },
+      {
+        "date": "2026-08-12",
+        "value": 1
+      },
+      {
+        "date": "2026-08-13",
+        "value": 1141
+      },
+      {
+        "date": "2026-08-14",
+        "value": 854
+      },
+      {
+        "date": "2026-08-15",
+        "value": 1
+      },
+      {
+        "date": "2026-08-16",
+        "value": 1
+      },
+      {
+        "date": "2026-08-17",
+        "value": 1
+      },
+      {
+        "date": "2026-08-18",
+        "value": 3679
+      },
+      {
+        "date": "2026-08-19",
+        "value": 4668
+      },
+      {
+        "date": "2026-08-20",
+        "value": 6666
+      },
+      {
+        "date": "2026-08-21",
+        "value": 10132
+      },
+      {
+        "date": "2026-08-22",
+        "value": 12475
+      },
+      {
+        "date": "2026-08-23",
+        "value": 15586
+      },
+      {
+        "date": "2026-08-24",
+        "value": 14215
+      },
+      {
+        "date": "2026-08-25",
+        "value": 12131
+      },
+      {
+        "date": "2026-08-26",
+        "value": 8449
+      },
+      {
+        "date": "2026-08-27",
+        "value": 11547
+      },
+      {
+        "date": "2026-08-28",
+        "value": 7877
+      },
+      {
+        "date": "2026-08-29",
+        "value": 6074
+      },
+      {
+        "date": "2026-08-30",
+        "value": 5016
+      },
+      {
+        "date": "2026-08-31",
+        "value": 8333
+      },
+      {
+        "date": "2026-09-01",
+        "value": 7803
+      },
+      {
+        "date": "2026-09-02",
+        "value": 7695
+      },
+      {
+        "date": "2026-09-03",
+        "value": 5039
+      },
+      {
+        "date": "2026-09-04",
+        "value": 3032
+      },
+      {
+        "date": "2026-09-05",
+        "value": 562
+      },
+      {
+        "date": "2026-09-06",
+        "value": 1
+      },
+      {
+        "date": "2026-09-07",
+        "value": 731
+      },
+      {
+        "date": "2026-09-08",
+        "value": 1041
+      }
+    ],
+    "engagementSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 3770
+      },
+      {
+        "date": "2026-08-11",
+        "value": 3517
+      },
+      {
+        "date": "2026-08-12",
+        "value": 3556
+      },
+      {
+        "date": "2026-08-13",
+        "value": 3282
+      },
+      {
+        "date": "2026-08-14",
+        "value": 3529
+      },
+      {
+        "date": "2026-08-15",
+        "value": 3813
+      },
+      {
+        "date": "2026-08-16",
+        "value": 3639
+      },
+      {
+        "date": "2026-08-17",
+        "value": 3491
+      },
+      {
+        "date": "2026-08-18",
+        "value": 3427
+      },
+      {
+        "date": "2026-08-19",
+        "value": 3702
+      },
+      {
+        "date": "2026-08-20",
+        "value": 3834
+      },
+      {
+        "date": "2026-08-21",
+        "value": 3881
+      },
+      {
+        "date": "2026-08-22",
+        "value": 4083
+      },
+      {
+        "date": "2026-08-23",
+        "value": 4174
+      },
+      {
+        "date": "2026-08-24",
+        "value": 3939
+      },
+      {
+        "date": "2026-08-25",
+        "value": 3915
+      },
+      {
+        "date": "2026-08-26",
+        "value": 3666
+      },
+      {
+        "date": "2026-08-27",
+        "value": 3728
+      },
+      {
+        "date": "2026-08-28",
+        "value": 3429
+      },
+      {
+        "date": "2026-08-29",
+        "value": 3518
+      },
+      {
+        "date": "2026-08-30",
+        "value": 3798
+      },
+      {
+        "date": "2026-08-31",
+        "value": 3528
+      },
+      {
+        "date": "2026-09-01",
+        "value": 3504
+      },
+      {
+        "date": "2026-09-02",
+        "value": 3740
+      },
+      {
+        "date": "2026-09-03",
+        "value": 4018
+      },
+      {
+        "date": "2026-09-04",
+        "value": 4190
+      },
+      {
+        "date": "2026-09-05",
+        "value": 4222
+      },
+      {
+        "date": "2026-09-06",
+        "value": 4268
+      },
+      {
+        "date": "2026-09-07",
+        "value": 4396
+      },
+      {
+        "date": "2026-09-08",
+        "value": 4210
+      }
+    ],
+    "bio": "Startups creator sharing insights on automation and remote work tools."
+  },
+  {
+    "id": "inf-50",
+    "name": "Priya Pillai",
+    "handle": "@priya49",
+    "category": "Marketing",
+    "platform": "X",
+    "location": "Pune",
+    "followers": 245228,
+    "followerGrowth": 4.1,
+    "engagementRate": 4.6,
+    "sentiment": 61,
+    "influenceScore": 71,
+    "trending": false,
+    "topContentCategory": "Tutorial",
+    "followerSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 1
+      },
+      {
+        "date": "2026-08-11",
+        "value": 648
+      },
+      {
+        "date": "2026-08-12",
+        "value": 2468
+      },
+      {
+        "date": "2026-08-13",
+        "value": 1421
+      },
+      {
+        "date": "2026-08-14",
+        "value": 2670
+      },
+      {
+        "date": "2026-08-15",
+        "value": 1936
+      },
+      {
+        "date": "2026-08-16",
+        "value": 2757
+      },
+      {
+        "date": "2026-08-17",
+        "value": 2528
+      },
+      {
+        "date": "2026-08-18",
+        "value": 2529
+      },
+      {
+        "date": "2026-08-19",
+        "value": 4834
+      },
+      {
+        "date": "2026-08-20",
+        "value": 2868
+      },
+      {
+        "date": "2026-08-21",
+        "value": 4430
+      },
+      {
+        "date": "2026-08-22",
+        "value": 2753
+      },
+      {
+        "date": "2026-08-23",
+        "value": 573
+      },
+      {
+        "date": "2026-08-24",
+        "value": 1
+      },
+      {
+        "date": "2026-08-25",
+        "value": 1
+      },
+      {
+        "date": "2026-08-26",
+        "value": 1161
+      },
+      {
+        "date": "2026-08-27",
+        "value": 1260
+      },
+      {
+        "date": "2026-08-28",
+        "value": 1
+      },
+      {
+        "date": "2026-08-29",
+        "value": 1
+      },
+      {
+        "date": "2026-08-30",
+        "value": 1
+      },
+      {
+        "date": "2026-08-31",
+        "value": 1
+      },
+      {
+        "date": "2026-09-01",
+        "value": 2412
+      },
+      {
+        "date": "2026-09-02",
+        "value": 3077
+      },
+      {
+        "date": "2026-09-03",
+        "value": 1801
+      },
+      {
+        "date": "2026-09-04",
+        "value": 1
+      },
+      {
+        "date": "2026-09-05",
+        "value": 716
+      },
+      {
+        "date": "2026-09-06",
+        "value": 1783
+      },
+      {
+        "date": "2026-09-07",
+        "value": 1918
+      },
+      {
+        "date": "2026-09-08",
+        "value": 1432
+      }
+    ],
+    "engagementSeries": [
+      {
+        "date": "2026-08-10",
+        "value": 1913
+      },
+      {
+        "date": "2026-08-11",
+        "value": 1633
+      },
+      {
+        "date": "2026-08-12",
+        "value": 1375
+      },
+      {
+        "date": "2026-08-13",
+        "value": 1151
+      },
+      {
+        "date": "2026-08-14",
+        "value": 940
+      },
+      {
+        "date": "2026-08-15",
+        "value": 688
+      },
+      {
+        "date": "2026-08-16",
+        "value": 927
+      },
+      {
+        "date": "2026-08-17",
+        "value": 779
+      },
+      {
+        "date": "2026-08-18",
+        "value": 1075
+      },
+      {
+        "date": "2026-08-19",
+        "value": 1033
+      },
+      {
+        "date": "2026-08-20",
+        "value": 1100
+      },
+      {
+        "date": "2026-08-21",
+        "value": 1071
+      },
+      {
+        "date": "2026-08-22",
+        "value": 1202
+      },
+      {
+        "date": "2026-08-23",
+        "value": 1006
+      },
+      {
+        "date": "2026-08-24",
+        "value": 1039
+      },
+      {
+        "date": "2026-08-25",
+        "value": 1307
+      },
+      {
+        "date": "2026-08-26",
+        "value": 1132
+      },
+      {
+        "date": "2026-08-27",
+        "value": 1158
+      },
+      {
+        "date": "2026-08-28",
+        "value": 1255
+      },
+      {
+        "date": "2026-08-29",
+        "value": 1070
+      },
+      {
+        "date": "2026-08-30",
+        "value": 1178
+      },
+      {
+        "date": "2026-08-31",
+        "value": 1068
+      },
+      {
+        "date": "2026-09-01",
+        "value": 1296
+      },
+      {
+        "date": "2026-09-02",
+        "value": 1283
+      },
+      {
+        "date": "2026-09-03",
+        "value": 1378
+      },
+      {
+        "date": "2026-09-04",
+        "value": 1194
+      },
+      {
+        "date": "2026-09-05",
+        "value": 1335
+      },
+      {
+        "date": "2026-09-06",
+        "value": 1064
+      },
+      {
+        "date": "2026-09-07",
+        "value": 1033
+      },
+      {
+        "date": "2026-09-08",
+        "value": 889
+      }
+    ],
+    "bio": "Marketing creator sharing insights on sustainability tech and edge computing."
+  }
+];

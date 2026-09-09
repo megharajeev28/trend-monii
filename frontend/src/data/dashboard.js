@@ -1,0 +1,218 @@
+export const dashboardData = {
+  "kpis": {
+    "totalMentions": {
+      "value": 12331,
+      "change": 18.4
+    },
+    "engagement": {
+      "value": 166650,
+      "change": 12.1
+    },
+    "sentimentScore": {
+      "value": 65,
+      "change": 3.2
+    },
+    "trendingTopics": {
+      "value": 13,
+      "change": 9
+    },
+    "influencersTracked": {
+      "value": 50,
+      "change": 6.5
+    },
+    "competitorsTracked": {
+      "value": 20,
+      "change": 0
+    }
+  },
+  "mentionsOverTime": [
+    {
+      "date": "2026-08-10",
+      "mentions": 941
+    },
+    {
+      "date": "2026-08-11",
+      "mentions": 930
+    },
+    {
+      "date": "2026-08-12",
+      "mentions": 925
+    },
+    {
+      "date": "2026-08-13",
+      "mentions": 950
+    },
+    {
+      "date": "2026-08-14",
+      "mentions": 962
+    },
+    {
+      "date": "2026-08-15",
+      "mentions": 973
+    },
+    {
+      "date": "2026-08-16",
+      "mentions": 989
+    },
+    {
+      "date": "2026-08-17",
+      "mentions": 1013
+    },
+    {
+      "date": "2026-08-18",
+      "mentions": 1011
+    },
+    {
+      "date": "2026-08-19",
+      "mentions": 1062
+    },
+    {
+      "date": "2026-08-20",
+      "mentions": 1060
+    },
+    {
+      "date": "2026-08-21",
+      "mentions": 1041
+    },
+    {
+      "date": "2026-08-22",
+      "mentions": 1069
+    },
+    {
+      "date": "2026-08-23",
+      "mentions": 1072
+    },
+    {
+      "date": "2026-08-24",
+      "mentions": 1099
+    },
+    {
+      "date": "2026-08-25",
+      "mentions": 1089
+    },
+    {
+      "date": "2026-08-26",
+      "mentions": 1073
+    },
+    {
+      "date": "2026-08-27",
+      "mentions": 1083
+    },
+    {
+      "date": "2026-08-28",
+      "mentions": 1145
+    },
+    {
+      "date": "2026-08-29",
+      "mentions": 1111
+    },
+    {
+      "date": "2026-08-30",
+      "mentions": 1162
+    },
+    {
+      "date": "2026-08-31",
+      "mentions": 1145
+    },
+    {
+      "date": "2026-09-01",
+      "mentions": 1146
+    },
+    {
+      "date": "2026-09-02",
+      "mentions": 1159
+    },
+    {
+      "date": "2026-09-03",
+      "mentions": 1217
+    },
+    {
+      "date": "2026-09-04",
+      "mentions": 1162
+    },
+    {
+      "date": "2026-09-05",
+      "mentions": 1249
+    },
+    {
+      "date": "2026-09-06",
+      "mentions": 1216
+    },
+    {
+      "date": "2026-09-07",
+      "mentions": 1249
+    },
+    {
+      "date": "2026-09-08",
+      "mentions": 1208
+    }
+  ],
+  "insights": [
+    {
+      "id": "insight-1",
+      "icon": "TrendingUp",
+      "title": "NovaTech increased social activity by 31% this week",
+      "explanation": "Posting frequency rose sharply across X and LinkedIn, concentrated around product-launch content.",
+      "impact": "High",
+      "action": "Monitor NovaTech's launch messaging and prepare a competitive response brief."
+    },
+    {
+      "id": "insight-2",
+      "icon": "BarChart3",
+      "title": "Short-form educational content outperforms promotional content by 42%",
+      "explanation": "Across tracked competitors, educational threads and how-to content generate meaningfully higher engagement per post.",
+      "impact": "High",
+      "action": "Shift upcoming content calendar toward educational formats."
+    },
+    {
+      "id": "insight-3",
+      "icon": "Flame",
+      "title": "AI Agents is the fastest-growing tracked topic",
+      "explanation": "Mentions of AI Agents grew 51% week-over-week with accelerating engagement.",
+      "impact": "Medium",
+      "action": "Publish a point-of-view piece on AI Agents within the next week."
+    },
+    {
+      "id": "insight-4",
+      "icon": "UserPlus",
+      "title": "@techwithmaya gained 18.7K followers this month",
+      "explanation": "Consistent posting cadence and strong engagement rate signal a rising creator in the Tech category.",
+      "impact": "Medium",
+      "action": "Evaluate for a potential collaboration or sponsored content pilot."
+    },
+    {
+      "id": "insight-5",
+      "icon": "AlertTriangle",
+      "title": "Negative sentiment around NovaTech pricing rose 18%",
+      "explanation": "Comments and replies referencing pricing skew increasingly negative following a recent plan change.",
+      "impact": "Medium",
+      "action": "Track for a potential opportunity to highlight your own pricing transparency."
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "opp-1",
+      "name": "AI Agents",
+      "growth": 51,
+      "confidence": 89,
+      "reason": "Mentions increased 42% over the last 7 days while engagement increased 51%.",
+      "action": "Publish educational content around AI agents within the next 72 hours."
+    },
+    {
+      "id": "opp-2",
+      "name": "Cloud Security",
+      "growth": 22,
+      "confidence": 74,
+      "reason": "Steady mention growth paired with rising positive sentiment among enterprise audiences.",
+      "action": "Package existing security content into a downloadable guide this week."
+    },
+    {
+      "id": "opp-3",
+      "name": "Developer Experience",
+      "growth": 17,
+      "confidence": 68,
+      "reason": "Engagement per post is climbing faster than mention volume, suggesting an underserved audience.",
+      "action": "Test a short-form tutorial series over the next two weeks."
+    }
+  ]
+};

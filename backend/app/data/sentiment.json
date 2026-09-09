@@ -1,0 +1,222 @@
+{
+  "topics": [
+    {
+      "topic": "AI Agents",
+      "positive": 78,
+      "neutral": 15,
+      "negative": 7
+    },
+    {
+      "topic": "Pricing",
+      "positive": 34,
+      "neutral": 24,
+      "negative": 42
+    },
+    {
+      "topic": "Product Features",
+      "positive": 81,
+      "neutral": 12,
+      "negative": 7
+    },
+    {
+      "topic": "Customer Support",
+      "positive": 30,
+      "neutral": 56,
+      "negative": 14
+    },
+    {
+      "topic": "Data Privacy",
+      "positive": 52,
+      "neutral": 28,
+      "negative": 20
+    },
+    {
+      "topic": "Developer Experience",
+      "positive": 69,
+      "neutral": 21,
+      "negative": 10
+    }
+  ],
+  "series": [
+    {
+      "date": "2026-08-10",
+      "positive": 60,
+      "neutral": 18,
+      "negative": 22
+    },
+    {
+      "date": "2026-08-11",
+      "positive": 59,
+      "neutral": 28,
+      "negative": 13
+    },
+    {
+      "date": "2026-08-12",
+      "positive": 67,
+      "neutral": 19,
+      "negative": 14
+    },
+    {
+      "date": "2026-08-13",
+      "positive": 72,
+      "neutral": 16,
+      "negative": 12
+    },
+    {
+      "date": "2026-08-14",
+      "positive": 70,
+      "neutral": 8,
+      "negative": 22
+    },
+    {
+      "date": "2026-08-15",
+      "positive": 59,
+      "neutral": 27,
+      "negative": 14
+    },
+    {
+      "date": "2026-08-16",
+      "positive": 68,
+      "neutral": 24,
+      "negative": 8
+    },
+    {
+      "date": "2026-08-17",
+      "positive": 68,
+      "neutral": 26,
+      "negative": 6
+    },
+    {
+      "date": "2026-08-18",
+      "positive": 69,
+      "neutral": 18,
+      "negative": 13
+    },
+    {
+      "date": "2026-08-19",
+      "positive": 75,
+      "neutral": 8,
+      "negative": 17
+    },
+    {
+      "date": "2026-08-20",
+      "positive": 81,
+      "neutral": 1,
+      "negative": 18
+    },
+    {
+      "date": "2026-08-21",
+      "positive": 65,
+      "neutral": 25,
+      "negative": 10
+    },
+    {
+      "date": "2026-08-22",
+      "positive": 80,
+      "neutral": 1,
+      "negative": 19
+    },
+    {
+      "date": "2026-08-23",
+      "positive": 62,
+      "neutral": 17,
+      "negative": 21
+    },
+    {
+      "date": "2026-08-24",
+      "positive": 71,
+      "neutral": 12,
+      "negative": 17
+    },
+    {
+      "date": "2026-08-25",
+      "positive": 58,
+      "neutral": 32,
+      "negative": 10
+    },
+    {
+      "date": "2026-08-26",
+      "positive": 80,
+      "neutral": 7,
+      "negative": 13
+    },
+    {
+      "date": "2026-08-27",
+      "positive": 58,
+      "neutral": 21,
+      "negative": 21
+    },
+    {
+      "date": "2026-08-28",
+      "positive": 59,
+      "neutral": 30,
+      "negative": 11
+    },
+    {
+      "date": "2026-08-29",
+      "positive": 73,
+      "neutral": 20,
+      "negative": 7
+    },
+    {
+      "date": "2026-08-30",
+      "positive": 62,
+      "neutral": 19,
+      "negative": 19
+    },
+    {
+      "date": "2026-08-31",
+      "positive": 77,
+      "neutral": 7,
+      "negative": 16
+    },
+    {
+      "date": "2026-09-01",
+      "positive": 81,
+      "neutral": 3,
+      "negative": 16
+    },
+    {
+      "date": "2026-09-02",
+      "positive": 73,
+      "neutral": 20,
+      "negative": 7
+    },
+    {
+      "date": "2026-09-03",
+      "positive": 69,
+      "neutral": 12,
+      "negative": 19
+    },
+    {
+      "date": "2026-09-04",
+      "positive": 63,
+      "neutral": 21,
+      "negative": 16
+    },
+    {
+      "date": "2026-09-05",
+      "positive": 68,
+      "neutral": 12,
+      "negative": 20
+    },
+    {
+      "date": "2026-09-06",
+      "positive": 73,
+      "neutral": 20,
+      "negative": 7
+    },
+    {
+      "date": "2026-09-07",
+      "positive": 64,
+      "neutral": 17,
+      "negative": 19
+    },
+    {
+      "date": "2026-09-08",
+      "positive": 69,
+      "neutral": 10,
+      "negative": 21
+    }
+  ]
+}

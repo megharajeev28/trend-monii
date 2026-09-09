@@ -1,0 +1,68 @@
+export const seriesDates = [
+  "2026-08-10",
+  "2026-08-11",
+  "2026-08-12",
+  "2026-08-13",
+  "2026-08-14",
+  "2026-08-15",
+  "2026-08-16",
+  "2026-08-17",
+  "2026-08-18",
+  "2026-08-19",
+  "2026-08-20",
+  "2026-08-21",
+  "2026-08-22",
+  "2026-08-23",
+  "2026-08-24",
+  "2026-08-25",
+  "2026-08-26",
+  "2026-08-27",
+  "2026-08-28",
+  "2026-08-29",
+  "2026-08-30",
+  "2026-08-31",
+  "2026-09-01",
+  "2026-09-02",
+  "2026-09-03",
+  "2026-09-04",
+  "2026-09-05",
+  "2026-09-06",
+  "2026-09-07",
+  "2026-09-08"
+];
+export const topicsPool = [
+  "Generative AI",
+  "AI Agents",
+  "Automation",
+  "Cloud Security",
+  "Cybersecurity",
+  "Data Privacy",
+  "Developer Experience",
+  "Low-Code",
+  "Edge Computing",
+  "Web3",
+  "Sustainability Tech",
+  "Remote Work Tools",
+  "API Economy",
+  "Open Source",
+  "MLOps",
+  "Customer Success",
+  "Pricing",
+  "Product Features",
+  "Customer Support",
+  "Hiring"
+];
+export const platformsList = [
+  "X",
+  "LinkedIn",
+  "Instagram",
+  "YouTube",
+  "TikTok"
+];
+export const categoriesList = [
+  "Educational",
+  "Tutorial",
+  "Product Launch",
+  "Opinion",
+  "Promotional"
+];
